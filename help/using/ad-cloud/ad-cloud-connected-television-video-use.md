@@ -12,7 +12,7 @@ internal: n
 snippet: y
 ---
 
-# Adobe Advertising Cloud Connected Television{#adobe-advertising-cloud-connected-television}
+# Adobe Advertising Cloud Connected Television {#adobe-advertising-cloud-connected-television}
 
 >[!VIDEO](https://video.tv.adobe.com/v/25893/?quality=12)
 
