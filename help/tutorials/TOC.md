@@ -12,4 +12,3 @@ user-guide-title: Audience Manager Videos and Tutorials
     + [Create a Data Source for Analytics Data](create-a-data-source-for-analytics-data.md)
   + Data Governance and Privacy {#data-governance-and-privacy}
     + [Global Device ID Validation](global-device-id-validation.md)
-
