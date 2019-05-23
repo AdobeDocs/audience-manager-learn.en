@@ -22,4 +22,4 @@ In many cases, you are creating traits for onboarded data before you actually on
 
 For more information about Data Explorer, please visit [the documentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
 
-For more AAM Videos, visit the [AAM Tutorials page](../introduction.md).
+For more AAM Videos, visit the [AAM Tutorials page](../overview.md).
