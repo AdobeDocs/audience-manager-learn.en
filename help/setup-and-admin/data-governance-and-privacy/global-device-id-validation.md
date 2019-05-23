@@ -12,9 +12,9 @@ internal: n
 snippet: y
 ---
 
-## Global Device ID Validation {#global-device-id-validation}
+# Global Device ID Validation {#global-device-id-validation}
 
-### Overview of Format Standards {#overview-of-format-standards}
+## Overview of Format Standards {#overview-of-format-standards}
 
 The following are the global Device Advertising ID pools that are currently recognized and supported by AAM. These are implemented as shared Data Sources that can be used by any customer or data partner that works with data tied to users of these platforms.
 
@@ -65,7 +65,7 @@ The following are the global Device Advertising ID pools that are currently reco
  </tbody>
 </table>
 
-### Setting an Advertising Identifier in the App {#setting-an-advertising-identifier-in-the-app}
+## Setting an Advertising Identifier in the App {#setting-an-advertising-identifier-in-the-app}
 
 Setting the advertiser ID in the app is really a two step process, first retrieving the advertiser ID, and then sending it to the Experience Cloud. Links are found below for performing these steps.
 
@@ -78,7 +78,7 @@ Setting the advertiser ID in the app is really a two step process, first retriev
 `// iOS (Swift) example for using setAdvertisingIdentifier:
 ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
 
-### DCS Error Messaging for Incorrect IDs  {#dcs-error-messaging-for-incorrect-ids}
+## DCS Error Messaging for Incorrect IDs  {#dcs-error-messaging-for-incorrect-ids}
 
 When an incorrect Global Device ID (IDFA, GAID, etc) is submitted in realtime to Audience Manager, an error code will be returned on the hit. Following is an example of an error returned because the ID is sent in as an Apple IDFA, which should only contain upper case letters, and yet there is a lower case 'x' in the ID.
 
@@ -86,7 +86,7 @@ When an incorrect Global Device ID (IDFA, GAID, etc) is submitted in realtime to
 
 Please see the [documentation](https://marketing.adobe.com/resources/help/en_US/aam/dcs_error_codes.html) for the list of error codes.
 
-### Onboarding Global Device IDs {#onboarding-global-device-ids}
+## Onboarding Global Device IDs {#onboarding-global-device-ids}
 
 In addition to realtime submission of Global Device IDs, you are also able to "onboard" (upload) data against the IDs as well. This process is the same as when you are onboarding data against your customer IDs (typically via key/value pairs), but you would simply use the proper Data Source IDs, so that the data is assigned to the global device ID. Documentation about the onboarding process can be found in the [documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_inbound_async_intro.html). Just remember to use the global data source ID, depending on the platform that you are using.
 
