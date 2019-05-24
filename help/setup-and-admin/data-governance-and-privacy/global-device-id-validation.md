@@ -28,7 +28,6 @@ The following are the global Device Advertising ID pools that are currently reco
    <td>AAM PID </td>
    <td>Notes </td>
   </tr>
-
   <tr>
    <td>Google Android (GAID)</td>
    <td>20914</td>
