@@ -21,46 +21,46 @@ The following are the global Device Advertising ID pools that are currently reco
 <table>
  <tbody>
   <tr>
-   <td><h3>Platform</h3> </td>
-   <td><h3>AAM Data Source ID</h3> </td>
-   <td><h3>ID Format</h3> </td>
-   <td><h3>AAM PID</h3> </td>
-   <td><h3>Notes</h3> </td>
+   <td>Platform </td>
+   <td>AAM Data Source ID </td>
+   <td>ID Format </td>
+   <td>AAM PID </td>
+   <td>Notes </td>
   </tr>
   <tr>
    <td>Google Android (GAID)</td>
    <td>20914</td>
-   <td><p>32 hex numbers, generally presented as 8-4-4-4-12</p><p><em>example, 97987bca-ae59-4c7d-94ba-ee4f19ab8c21<br /> </em></p> </td>
+   <td>32 hex numbers, generally presented as 8-4-4-4-12<em>example, 97987bca-ae59-4c7d-94ba-ee4f19ab8c21<br /> </em> </td>
    <td>1352</td>
-   <td><p>This ID must be collected in a raw/unhashed/unaltered form</p> <p>Reference - <a href="https://play.google.com/about/monetization">https://play.google.com/about/monetization</a>-ads/ads/ad-id/</p> </td>
+   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://play.google.com/about/monetization">https://play.google.com/about/monetization</a>-ads/ads/ad-id/ </td>
   </tr>
   <tr>
    <td>Apple iOS (IDFA)</td>
    <td>20915</td>
-   <td><p>32 hex numbers, generally presented as 8-4-4-4-12</p> <p><em>example, 6D92078A-8246-4BA4-AE5B-76104861E7DC<br /> </em></p> </td>
+   <td>32 hex numbers, generally presented as 8-4-4-4-12 <em>example, 6D92078A-8246-4BA4-AE5B-76104861E7DC<br /> </em> </td>
    <td>3560</td>
-   <td><p>This ID must be collected in a raw/unhashed/unaltered form</p> <p>Reference - <a href="https://support.apple.com/en">https://support.apple.com/en</a>-us/HT205223</p> </td>
+   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://support.apple.com/en">https://support.apple.com/en</a>-us/HT205223 </td>
   </tr>
   <tr>
    <td>Roku (RIDA)</td>
    <td>121963</td>
-   <td><p>32 hex numbers, generally presented as 8-4-4-4-12</p> <em>example,</em> <em>fcb2a29c-315a-5e6b-bcfd-d889ba19aada</em></td>
+   <td>32 hex numbers, generally presented as 8-4-4-4-12 <em>example,</em> <em>fcb2a29c-315a-5e6b-bcfd-d889ba19aada</em></td>
    <td>11536</td>
-   <td><p>This ID must be collected in a raw/unhashed/unaltered form</p> <p>Reference - <a href="https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework">https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework</a></p> </td>
+   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework">https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework</a> </td>
   </tr>
   <tr>
    <td>Microsoft Advertising ID (MAID)</td>
    <td>389146</td>
    <td>Alpha numeric string</td>
    <td>14593</td>
-   <td><p>This ID must be collected in a raw/unhashed/unaltered form</p> <p>Reference - <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid">https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid</a></p> <p>https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx</p> <p> </p> </td>
+   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid">https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid</a> https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx   </td>
   </tr>
   <tr>
-   <td><p>Samsung DUID</p> </td>
+   <td>Samsung DUID </td>
    <td>404660</td>
-   <td><p>Alpha numeric string</p> <p>example, 7XCBNROQJQPYW</p> </td>
+   <td>Alpha numeric string example, 7XCBNROQJQPYW </td>
    <td>15950</td>
-   <td><p>This ID must be collected in a raw/unhashed/unaltered form</p> <p>Reference - <a href="https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api">https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api</a></p> </td>
+   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api">https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api</a> </td>
   </tr>
  </tbody>
 </table>
