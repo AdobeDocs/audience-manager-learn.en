@@ -12,7 +12,9 @@ internal: n
 snippet: y
 ---
 
-# IP Obfuscation by Country in Audience Manager{#ip-obfuscation-by-country-in-audience-manager}
+# IP Obfuscation by Country in Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
+
+Audience Manager provides self-serve capability in the UI to enable customers to turn on IP obfuscation globally or by country. This video walks you through the setup.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 

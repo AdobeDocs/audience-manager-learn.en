@@ -12,7 +12,9 @@ internal: n
 snippet: y
 ---
 
-# IAB TCF Support in Audience Manager{#iab-tcf-support-in-audience-manager}
+# IAB TCF Support in Audience Manager {#iab-tcf-support-in-audience-manager}
+
+Adobe provides you with the means to manage and communicate your users' privacy choices through the Opt-in functionality and through IAB Transparency and Consent Framework (TCF) support. This article works together with the documentation to help you understand the IAB TCF and how it works together with Adobe’s Opt-in object and your Consent Management Provider (CMP). To learn more about the IAB, please see their Web site at https://www.iabeurope.eu/
 
 ## First Step: Understand ECID’s Opt-In {#first-step-understand-ecid-s-opt-in}
 
