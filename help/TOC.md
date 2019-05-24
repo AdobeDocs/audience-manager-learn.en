@@ -42,3 +42,6 @@ user-guide-title: Audience Manager Videos and Tutorials
 + Data Activation {#data-activation}
   + Audience Lab {#audience-lab}
     + [Using Audience Lab to Choose a DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
++ Other Integrations {#other-integrations}
+  + Integrating with Ad Cloud {#integrating-with-ad-cloud}
+    + [Adobe Advertising Cloud and Adobe Audience Manager Integration](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
