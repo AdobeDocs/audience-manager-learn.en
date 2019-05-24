@@ -23,11 +23,11 @@ The following are the global Device Advertising ID pools that are currently reco
 <table>
  <tbody>
   <tr>
-   <td>Platform </td>
-   <td>AAM Data Source ID </td>
-   <td>ID Format </td>
-   <td>AAM PID </td>
-   <td>Notes </td>
+   <td><h3>Platform</h3> </td>
+   <td><h3>AAM Data Source ID</h3> </td>
+   <td><h3>ID Format</h3> </td>
+   <td><h3>AAM PID</h3> </td>
+   <td><h3>Notes</h3> </td>
   </tr>
   <tr>
    <td>Google Android (GAID)</td>
@@ -55,7 +55,7 @@ The following are the global Device Advertising ID pools that are currently reco
    <td>389146</td>
    <td>Alpha numeric string</td>
    <td>14593</td>
-   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid">https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid</a> https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx   </td>
+   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid">https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid</a><br/><a href="https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx">https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx</a>   </td>
   </tr>
   <tr>
    <td>Samsung DUID </td>
