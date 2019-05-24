@@ -25,6 +25,12 @@ user-guide-title: Audience Manager Videos and Tutorials
 + Audience Marketplace {#audience-marketplace}
   + Buying Data {#buying-data}
     + [Reporting 2nd and 3rd Party Data Usage in the Audience Marketplace at the Segment Level](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
+    + [Bulk Uploading Data Usage into the Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
 + Build and Manage Audiences {#build-and-manage-audiences}
   + Data Explorer {#data-explorer}
+    + [Using the Signals Dashboard to Quickly View Top Available Signals](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
+    + [Using Data Explorer to Search for Used and Unused Key/Value Pairs in AAM](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
+    + [Saving Searches in Data Explorer for Convenience in Re-use](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
+    + [Using Data Explorer to Create Retroactive Traits and Segments](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
     + [Using Data Explorer to Validate Trait Creation for Your Onboarded Data](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
+    + [Using Data Explorer to Work with Signals Coming from Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
