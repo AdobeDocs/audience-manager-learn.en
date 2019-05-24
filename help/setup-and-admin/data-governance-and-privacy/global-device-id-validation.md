@@ -21,7 +21,6 @@ Device Advertising Identifiers (i.e. iDFA, GAID, Roku ID) have formatting standa
 The following are the global Device Advertising ID pools that are currently recognized and supported by AAM. These are implemented as shared Data Sources that can be used by any customer or data partner that works with data tied to users of these platforms.
 
 <table>
- <tbody>
   <tr>
    <td>Platform </td>
    <td>AAM Data Source ID </td>
@@ -56,16 +55,15 @@ The following are the global Device Advertising ID pools that are currently reco
    <td>389146</td>
    <td>Alpha numeric string</td>
    <td>14593</td>
-   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid">https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid</a><br/><a href="https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx">https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx</a>   </td>
+   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid">https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid</a><br/><a href="https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx">https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx</a></td>
   </tr>
   <tr>
-   <td>Samsung DUID </td>
+   <td>Samsung DUID</td>
    <td>404660</td>
-   <td>Alpha numeric string example, 7XCBNROQJQPYW </td>
+   <td>Alpha numeric string example, 7XCBNROQJQPYW</td>
    <td>15950</td>
    <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api">https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api</a> </td>
   </tr>
- </tbody>
 </table>
 
 ## Setting an Advertising Identifier in the App {#setting-an-advertising-identifier-in-the-app}
