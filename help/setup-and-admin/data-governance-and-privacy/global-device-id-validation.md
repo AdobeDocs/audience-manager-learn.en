@@ -23,11 +23,11 @@ The following are the global Device Advertising ID pools that are currently reco
 <table>
  <tbody>
   <tr>
-   <td><b>Platform</b> </td>
-   <td><b>AAM Data Source ID</b> </td>
-   <td><b>ID Format</b> </td>
-   <td><b>AAM PID</b> </td>
-   <td><b>Notes</b> </td>
+   <td>Platform </td>
+   <td>AAM Data Source ID </td>
+   <td>ID Format </td>
+   <td>AAM PID </td>
+   <td>Notes </td>
   </tr>
 
   <tr>
