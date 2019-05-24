@@ -18,7 +18,7 @@ snippet: y
 
 The following are the global Device Advertising ID pools that are currently recognized and supported by AAM. These are implemented as shared Data Sources that can be used by any customer or data partner that works with data tied to users of these platforms.
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%">
+<table>
  <tbody>
   <tr>
    <td><h3>Platform</h3> </td>
