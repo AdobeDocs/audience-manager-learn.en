@@ -14,6 +14,8 @@ snippet: y
 
 # Global Device ID Validation {#global-device-id-validation}
 
+Device Advertising Identifiers (i.e. iDFA, GAID, Roku ID) have formatting standards that must be met in order to be usable in the digital advertising ecosystem. Today, customers and partners can upload IDs to our Global data sources in any format without being notified of whether the ID is properly formatted. This feature will introduce validation of device IDs sent to the Global data sources for proper formatting and will provided error messaging when IDs are incorrectly formatted. We will support validation for iDFA, Google Advertising and Roku IDs at launch.
+
 ## Overview of Format Standards {#overview-of-format-standards}
 
 The following are the global Device Advertising ID pools that are currently recognized and supported by AAM. These are implemented as shared Data Sources that can be used by any customer or data partner that works with data tied to users of these platforms.
@@ -32,14 +34,14 @@ The following are the global Device Advertising ID pools that are currently reco
    <td>20914</td>
    <td>32 hex numbers, generally presented as 8-4-4-4-12<em>example, 97987bca-ae59-4c7d-94ba-ee4f19ab8c21<br /> </em> </td>
    <td>1352</td>
-   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://play.google.com/about/monetization">https://play.google.com/about/monetization</a>-ads/ads/ad-id/ </td>
+   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://play.google.com/about/monetization-ads/ads/ad-id/">https://play.google.com/about/monetization-ads/ads/ad-id/</a></td>
   </tr>
   <tr>
    <td>Apple iOS (IDFA)</td>
    <td>20915</td>
    <td>32 hex numbers, generally presented as 8-4-4-4-12 <em>example, 6D92078A-8246-4BA4-AE5B-76104861E7DC<br /> </em> </td>
    <td>3560</td>
-   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://support.apple.com/en">https://support.apple.com/en</a>-us/HT205223 </td>
+   <td>This ID must be collected in a raw/unhashed/unaltered form Reference - <a href="https://support.apple.com/en-us/HT205223">https://support.apple.com/en-us/HT205223</a></td>
   </tr>
   <tr>
    <td>Roku (RIDA)</td>
