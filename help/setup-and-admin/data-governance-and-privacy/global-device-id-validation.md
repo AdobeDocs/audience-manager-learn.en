@@ -23,12 +23,13 @@ The following are the global Device Advertising ID pools that are currently reco
 <table>
  <tbody>
   <tr>
-   <td><h3>Platform</h3> </td>
-   <td><h3>AAM Data Source ID</h3> </td>
-   <td><h3>ID Format</h3> </td>
-   <td><h3>AAM PID</h3> </td>
-   <td><h3>Notes</h3> </td>
+   <td><b>Platform</b> </td>
+   <td><b>AAM Data Source ID</b> </td>
+   <td><b>ID Format</b> </td>
+   <td><b>AAM PID</b> </td>
+   <td><b>Notes</b> </td>
   </tr>
+
   <tr>
    <td>Google Android (GAID)</td>
    <td>20914</td>
