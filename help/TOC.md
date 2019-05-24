@@ -34,6 +34,9 @@ user-guide-title: Audience Manager Videos and Tutorials
     + [Using Data Explorer to Create Retroactive Traits and Segments](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
     + [Using Data Explorer to Validate Trait Creation for Your Onboarded Data](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
     + [Using Data Explorer to Work with Signals Coming from Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
+  + Traits and Segments {#traits-and-segments}
+    + [Creating Conversion Traits in Audience Manager](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
+    + [Enhancing your AAM Segments with Trait Recommendations](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
   + Algorithmic Models {#algorithmic-models}
     + [Creating a First Party Look-Alike Model in AAM](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
     + [Excluding Traits in Algorithmic (Look-Alike) Models](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
