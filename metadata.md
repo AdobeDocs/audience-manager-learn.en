@@ -1,5 +1,6 @@
 ---
 cloud: experience-cloud
+product: audience-manager
 solution-title: Audience Manager
 solution-hub-url: https://helpx.adobe.com/support/audience-manager.html
 solution-image: assets/aam-icon-24.png
@@ -9,7 +10,7 @@ tutorials-title: Tutorials
 tutorials-url: https://guided.adobe.com/#recommended/solutions/audience-manager
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/audience-manager-learn.en
-index: no
+index: yes
 ---
 
 # Metadata for internal use

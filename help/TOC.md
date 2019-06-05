@@ -1,13 +1,5 @@
 ---
-product: audience-manager
-audience: developer,end-user
-user-guide-title: Adobe Audience Manager Tutorials
-solution-title: Audience Manager
-solution-hub-url: https://helpx.adobe.com/support/audience-manager.html
-getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/audience-manager/get-started.html
-tutorials-title: Tutorials
-tutorials-url: /content/help/en/audience-manager-learn/tutorials/overview.html
+user-guide-title: Tutorials
 ---
 
 # Audience Manager Tutorials {#tutorials}
