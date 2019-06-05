@@ -24,3 +24,13 @@ Welcome to the Audience Manager Tutorials Site! To get started:
 | ![tutorial](assets/tutorial.png) | Mobile Implementation / Android | [Implement Audience Manager in Android](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html) |
 | ![tutorial](assets/tutorial.png) | Mobile Implementation / iOS | [Implement Audience Manager in iOS Objective-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html) |
 | ![tutorial](assets/tutorial.png) | Mobile Implementation / iOS | [Implement Audience Manager in iOS Swift](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html) |
+
+### Now One with one break
+
+|| Category/Topic | Title |
+|--- |:--- |:--- |
+| ![video](assets/video2.png) | <br>Setup & Admin / Data Sources | <br>[Create a Data Source for Analytics Data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md) |
+| ![video](assets/video2.png) | <br>Web Implementation | <br>[Using best practices on SPA pages](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md) |
+| ![tutorial](assets/tutorial.png) | <br>Mobile Implementation / Android | <br>[Implement Audience Manager in Android](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html) |
+| ![tutorial](assets/tutorial.png) | <br>Mobile Implementation / iOS | <br>[Implement Audience Manager in iOS Objective-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html) |
+| ![tutorial](assets/tutorial.png) | <br>Mobile Implementation / iOS | <br>[Implement Audience Manager in iOS Swift](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html) |
