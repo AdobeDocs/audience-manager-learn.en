@@ -7,16 +7,9 @@ seo-description: A collection of videos and tutorials for Adobe Audience Manager
 
 # Adobe Audience Manager Tutorials Home
 
-|Welcome to the Audience Manager Tutorials Site! To get started:
-
-* See the **"What's New"** section below for the latest goodies
-* Explore the content by topic and subtopic in the **left navigation**
-* Use the **search** field at the top of the page to find your needed content
-
-**NOTE:** These tutorials and enablement materials are not meant to *replace*, but rather to *complement* the [documentation](https://marketing.adobe.com/resources/help/en_US/aam/). Using them together will hopefully give you a great understanding of how to use Adobe Audience Manager to understand your customers and deliver the right experiences to them.|Here are links to some additional tutorial repositories:
-Adobe Analytics Tutorials
-Experience Cloud Core Services Tutorials
-Adobe Target Tutorials|
+| Welcome to the Audience Manager Tutorials Site! To get started: | |
+| <ul><li>See the **"What's New"** section below for the latest goodies</li><li>Explore the content by topic and subtopic in the **left navigation**</li><li>Use the **search** field at the top of the page to find your needed content</li></ul> | Here are links to some additional tutorial repositories:<br>[Adobe Analytics Tutorials](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)<br>[Experience Cloud Core Services Tutorials](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)<br>[Adobe Target Tutorials](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html) |
+| **NOTE:** These tutorials and enablement materials are not meant to *replace*, but rather to *complement* the [documentation](https://marketing.adobe.com/resources/help/en_US/aam/). Using them together will hopefully give you a great understanding of how to use Adobe Audience Manager to understand your customers and deliver the right experiences to them. | |
 
 ## What's New...
 
