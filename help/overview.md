@@ -17,9 +17,9 @@ Welcome to the Audience Manager Tutorials Site! To get started:
 
 ## Links to additional tutorial repositories
 
-[Adobe Analytics Tutorials](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)
-[Experience Cloud Core Services Tutorials](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
-[Adobe Target Tutorials](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html)
+* [Adobe Analytics Tutorials](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)
+* [Experience Cloud Core Services Tutorials](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
+* [Adobe Target Tutorials](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html)
 
 ## What's New
 
