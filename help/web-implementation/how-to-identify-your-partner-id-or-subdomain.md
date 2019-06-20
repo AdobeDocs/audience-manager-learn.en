@@ -3,13 +3,14 @@ title: How to identify your Audience Manager Partner ID or Subdomain
 seo-title: How to identify your Audience Manager Partner ID or Subdomain
 description: When implementing some Experience Cloud features, you need to know what your Audience Manager “Partner ID” is (also sometimes referred to as your “client ID” or “Subdomain”). In this video, we will show you two places you can get this ID in the Audience Manager UI.
 seo-description: When implementing some Experience Cloud features, you need to know what your Audience Manager “Partner ID” is (also sometimes referred to as your “client ID” or “Subdomain”). In this video, we will show you two places you can get this ID in the Audience Manager UI.
-uuid: f2c41825-52fd-4812-81ed-47f0e7dcbd9f
-products: SG_AUDIENCEMANAGER
-discoiquuid: 51cf269a-307a-42e0-84ee-5e013d4b4760
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: implementation basics
+topics: 
+audience: implementer
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 2359
 ---
 
 # How to identify your Audience Manager Partner ID or Subdomain {#how-to-identify-your-audience-manager-partner-id-or-subdomain}

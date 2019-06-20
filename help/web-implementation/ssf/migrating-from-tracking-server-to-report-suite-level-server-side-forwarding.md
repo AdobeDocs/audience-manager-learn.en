@@ -3,14 +3,15 @@ title: Migrating from Tracking Server to Report Suite-Level Server-Side Forwardi
 seo-title: Migrating from Tracking Server to Report Suite-Level Server-Side Forwarding
 description: This article and video will show you how to enable server-side forwarding of Analytics Data to Audience Manager at a report suite level instead of at a tracking server level.
 seo-description: This article and video will show you how to enable server-side forwarding of Analytics Data to Audience Manager at a report suite level instead of at a tracking server level.
-uuid: 489eaf4f-54e8-4de4-bd3a-3a2f59c0069b
-products: SG_ANALYTICS
-products: SG_AUDIENCEMANAGER
-discoiquuid: 4a3fcbae-5415-4b81-bf7c-973f52e0e57a
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+product: audience manager, analytics
+feature: ssf
+topics: 
+audience: implementer
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 1776
 ---
 
 # Migrating from Tracking Server to Report Suite-Level Server-Side Forwarding {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}

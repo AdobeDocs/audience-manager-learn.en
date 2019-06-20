@@ -3,13 +3,14 @@ title: IAB TCF Support in Audience Manager
 seo-title: IAB TCF Support in Audience Manager
 description: "Adobe provides you with the means to manage and communicate your users' privacy choices through the Opt-in functionality and through IAB Transparency and Consent Framework (TCF) support. This article works together with the documentation to help you understand the IAB TCF and how it works together with Adobe’s Opt-in object and your Consent Management Provider (CMP). To learn more about the IAB, please see their Web site at https://www.iabeurope.eu/"
 seo-description: "Adobe provides you with the means to manage and communicate your users' privacy choices through the Opt-in functionality and through IAB Transparency and Consent Framework (TCF) support. This article works together with the documentation to help you understand the IAB TCF and how it works together with Adobe’s Opt-in object and your Consent Management Provider (CMP). To learn more about the IAB, please see their Web site at https://www.iabeurope.eu/"
-uuid: 80974ac3-9f00-4829-81a9-e0c3c5029141
-products: SG_AUDIENCEMANAGER
-discoiquuid: e53262fb-010c-4f8e-b391-85fad6cd9496
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: privacy
+topics: 
+audience: implementer, developer, architect
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 2728
 ---
 
 # IAB TCF Support in Audience Manager {#iab-tcf-support-in-audience-manager}

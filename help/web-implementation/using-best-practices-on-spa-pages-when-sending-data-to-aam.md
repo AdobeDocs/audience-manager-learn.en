@@ -3,13 +3,14 @@ title: Using best practices on SPA pages when sending data to AAM
 seo-title: Using best practices on SPA pages when sending data to AAM
 description: In this document, we will describe several best practices that you should follow and be aware of as you are sending data from Single Page Applications (SPA) to Adobe Audience Manager (AAM). This doc will focus on using Launch by Adobe, which is the recommended implementation method.
 seo-description: In this document, we will describe several best practices that you should follow and be aware of as you are sending data from Single Page Applications (SPA) to Adobe Audience Manager (AAM). This doc will focus on using Launch by Adobe, which is the recommended implementation method.
-uuid: 310d2445-bf88-4f41-be7f-d99d5e4ea2fe
-products: SG_AUDIENCEMANAGER
-discoiquuid: e98986f9-0d70-49cd-bad1-536fcece12e2
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: implementation basics
+topics: spa
+audience: implementer
+activity: implement
+doc-type: technical video
+author: Doug Moore
+team: Technical Marketing
+kt: 1390
 ---
 
 # Using best practices on SPA pages when sending data to AAM {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
