@@ -3,13 +3,14 @@ title: Creating Conversion Traits in Audience Manager
 seo-title: Creating Conversion Traits in Audience Manager
 description: Some of your traits are based on conversions on your site. In this video, learn how to designate them as such, and learn a very important tip/gotcha.
 seo-description: Some of your traits are based on conversions on your site. In this video, learn how to designate them as such, and learn a very important tip/gotcha.
-uuid: 331c0b6e-e354-4088-af0c-4df3c931149c
-products: SG_AUDIENCEMANAGER
-discoiquuid: d42168b9-c3b9-4280-be3d-072895eb3307
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: traits
+topics: 
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1804
 ---
 
 # Creating Conversion Traits in Audience Manager {#creating-conversion-traits-in-audience-manager}

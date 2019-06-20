@@ -3,13 +3,14 @@ title: Bulk Uploading Data Usage into the Audience Marketplace
 seo-title: Bulk Uploading Data Usage into the Audience Marketplace
 description: As you report your 2nd and 3rd party data usage in the Audience Marketplace, you may have enough entries to make that you don't want to do it by hand. In this video, you will learn how to use the data usage reporting bulk upload tool, so that you can easily report your data usage, even if you have many items to update. 
 seo-description: As you report your 2nd and 3rd party data usage in the Audience Marketplace, you may have enough entries to make that you don't want to do it by hand. In this video, you will learn how to use the data usage reporting bulk upload tool, so that you can easily report your data usage, even if you have many items to update. 
-uuid: c5476f1c-db20-469b-92c8-4f45876d1fa6
-products: SG_AUDIENCEMANAGER
-discoiquuid: 49562e08-ba7f-4dc8-a2d1-436027e4002c
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: audience marketplace buying data
+topics: 
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1782
 ---
 
 # Bulk Uploading Data Usage into the Audience Marketplace {#bulk-uploading-data-usage-into-the-audience-marketplace}

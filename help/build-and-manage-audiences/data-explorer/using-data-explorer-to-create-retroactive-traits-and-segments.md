@@ -3,13 +3,14 @@ title: Using Data Explorer to Create Retroactive Traits and Segments
 seo-title: Using Data Explorer to Create Retroactive Traits and Segments
 description: This video shows how to create retroactive traits, i.e. traits that backfill data into the trait from before it was created. This is a great breakthrough in your trait creation!
 seo-description: This video shows how to create retroactive traits, i.e. traits that backfill data into the trait from before it was created. This is a great breakthrough in your trait creation!
-uuid: d4771bed-8bfa-4f37-bcb2-df22add89c50
-products: SG_AUDIENCEMANAGER
-discoiquuid: d9d9f436-949f-4819-81af-479c2d5497a3
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: data explorer
+topics: 
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1762
 ---
 
 # Using Data Explorer to Create Retroactive Traits and Segments {#using-data-explorer-to-create-retroactive-traits-and-segments}

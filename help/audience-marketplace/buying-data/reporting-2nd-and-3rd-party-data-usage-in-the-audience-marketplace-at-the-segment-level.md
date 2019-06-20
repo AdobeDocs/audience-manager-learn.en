@@ -3,13 +3,14 @@ title: Reporting 2nd and 3rd Party Data Usage in the Audience Marketplace at the
 seo-title: Reporting 2nd and 3rd Party Data Usage in the Audience Marketplace at the Segment Level
 description: This video shows a new method of reporting data usage within the Payables section of the Audience Marketplace UI. In addition to the existing process of feed-level reporting, monthly impressions can now be submitted at the segment-level, which eliminates the need for offline calculations for cost attribution.
 seo-description: This video shows a new method of reporting data usage within the Payables section of the Audience Marketplace UI. In addition to the existing process of feed-level reporting, monthly impressions can now be submitted at the segment-level, which eliminates the need for offline calculations for cost attribution.
-uuid: dbca9e4a-0a29-474c-8755-cbddf5115a72
-products: SG_AUDIENCEMANAGER
-discoiquuid: fce18650-ed75-4765-992b-24c602b4ba71
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: audience marketplace buying data
+topics: 
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1758
 ---
 
 # Reporting 2nd and 3rd Party Data Usage in the Audience Marketplace at the Segment Level {#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}

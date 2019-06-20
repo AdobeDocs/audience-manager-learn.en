@@ -3,13 +3,14 @@ title: Using Data Explorer to Validate Trait Creation for Your Onboarded Data
 seo-title: Using Data Explorer to Validate Trait Creation for Your Onboarded Data 
 description: One of the most powerful features of Audience Manager is the ability to onboard offline data and tie it together with your online data. In this video, learn how to use Data Explorer to validate that you have created all the necessary traits to leverage this onboarded data.
 seo-description: One of the most powerful features of Audience Manager is the ability to onboard offline data and tie it together with your online data. In this video, learn how to use Data Explorer to validate that you have created all the necessary traits to leverage this onboarded data.
-uuid: 5aeb9e35-5247-4910-85be-2ca0bc62ea2c
-products: SG_AUDIENCEMANAGER
-discoiquuid: 0e0ca165-9f36-422e-9995-02e92b76a191
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: data explorer
+topics: 
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 2141
 ---
 
 # Using Data Explorer to Validate Trait Creation for Your Onboarded Data {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}

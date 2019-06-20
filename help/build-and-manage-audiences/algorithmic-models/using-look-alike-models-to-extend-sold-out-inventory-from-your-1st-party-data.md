@@ -3,13 +3,14 @@ title: Using Look-Alike Models to Extend Sold Out Inventory from Your 1st Party 
 seo-title: Using Look-Alike Models to Extend Sold Out Inventory from Your 1st Party Data
 description: In this tutorial, we will walk through the steps you should take to set up and use Look-Alike Models, so that you can create new look-alike audiences, and sell them as an extension to your conversion segment.
 seo-description: In this tutorial, we will walk through the steps you should take to set up and use Look-Alike Models, so that you can create new look-alike audiences, and sell them as an extension to your conversion segment.
-uuid: 94540a42-9660-47eb-ac5c-2ed74b0f2242
-products: SG_ANALYTICS
-discoiquuid: ed143993-281a-4d51-bab8-30735bc74836
-targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
+feature: algorithmic models
+topics: 
+audience: all
+activity: use
+doc-type: feature video
+author: Doug Moore
+team: Technical Marketing
+kt: 1688
 ---
 
 # Using Look-Alike Models to Extend Sold Out Inventory from Your 1st Party Data {#using-look-alike-models-to-extend-sold-out-inventory-from-your-st-party-data}
