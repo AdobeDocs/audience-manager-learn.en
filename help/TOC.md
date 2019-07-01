@@ -45,6 +45,8 @@ user-guide-title: Adobe Audience Manager Tutorials
     + [Excluding Traits in Algorithmic (Look-Alike) Models](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
     + [Increase ROAS by Using Algorithmic (Look-Alike) Models](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
     + [Using Look-Alike Models to Extend Sold Out Inventory from Your 1st Party Data](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
+  + Profile Merge {#profile-merge}
+    + [Audience Identity Reporting](build-and-manage-audiences/profile-merge/audience-identity-reporting.md)
 + Data Activation {#data-activation}
   + Audience Lab {#audience-lab}
     + [Using Audience Lab to Choose a DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
