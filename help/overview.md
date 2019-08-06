@@ -52,7 +52,7 @@ Welcome to the Audience Manager Tutorials Site.  Using these tutorials along wit
       <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile iOS Swift Applications' tutorial" src="assets/thumb_swift.png" />
     </a>
     <div>
-      <a href="experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.md">
+      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.md">
     <strong>Implementing the Experience Cloud in Mobile iOS Apps</strong>
     </a>
     </div>
