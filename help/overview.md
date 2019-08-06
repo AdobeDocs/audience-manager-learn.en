@@ -48,7 +48,7 @@ Welcome to the Audience Manager Tutorials Site.  Using these tutorials along wit
 <table>
 <tr>
   <td>
-    <a href="experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.md">
+    <a href="en/experience-cloud/mobile-ios-objective-c-implementation/index.md">
       <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile iOS Swift Applications' tutorial" src="assets/thumb_swift.png" />
     </a>
     <div>
