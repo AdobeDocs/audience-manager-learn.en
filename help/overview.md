@@ -61,11 +61,11 @@ Welcome to the Audience Manager Tutorials Site.  Using these tutorials along wit
     <p>
   </td>
   <td>
-    <a href="experience-cloud/implementing-in-mobile-android-apps-with-launch/index.md">
+    <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
       <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile Android Applications' tutorial" src="assets/thumb_android.png" />
     </a>
     <div>
-      <a href="experience-cloud/implementing-in-mobile-android-apps-with-launch/index.md">
+      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
     <strong>Implementing the Experience Cloud in Mobile Android Apps</strong>
     </a>
     </div>
@@ -74,11 +74,11 @@ Welcome to the Audience Manager Tutorials Site.  Using these tutorials along wit
     <p>
   </td>
   <td>
-    <a href="experience-cloud/implementing-in-mobile-objective-c-apps-with-launch/index.md">
+    <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
       <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile Objective-C Applications' tutorial" src="assets/thumb_objective_c.png" />
     </a>
     <div>
-      <a href="experience-cloud/implementing-in-mobile-objective-c-apps-with-launch/index.md">
+      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
     <strong>Implementing the Experience Cloud in Mobile Objective-C Apps</strong>
     </a>
     </div>
