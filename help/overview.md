@@ -1,13 +1,3 @@
-What's New
-Audience Identity Reporting - https://video.tv.adobe.com/v/27977
-Creating a Data Source for Analytics Data - 27329
-IP Obfuscation by Country - 27218
-
-Staff Pics
-Implement Audience Manager in Android - https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html
-Implement Audience Manager in iOS Objective-C - https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html
-Implement Audience Manager in iOS Swift - https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html
-
 ---
 title: Analytics Videos and Tutorials
 seo-title: Analytics Videos and Tutorials
