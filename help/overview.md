@@ -1,32 +1,80 @@
 ---
-title: Audience Manager Videos and Tutorials
-seo-title: Audience Manager Videos and Tutorials
-description: A collection of videos and tutorials for Adobe Audience Manager.
-seo-description: A collection of videos and tutorials for Adobe Audience Manager.
+title: Analytics Videos and Tutorials
+seo-title: Analytics Videos and Tutorials
+description: A collection of videos and tutorials for Adobe Analytics.
+seo-description: A collection of videos and tutorials for Adobe Analytics.
+feature: overview
+topics:
+audience: all
+activity: use
+doc-type: overview
+author: Doug Moore
+team: Technical Marketing
 ---
 
-# Adobe Audience Manager Tutorials Home
+# Overview
 
-Welcome to the Audience Manager Tutorials Site! To get started:
-
-* See the **"What's New"** section below for the latest goodies
+Welcome to the Audience Manager Tutorials Site.  Using these tutorials along with the [documentation](https://marketing.adobe.com/resources/help/en_US/aam/) will give you a better understanding how to use Adobe Audience Manager to create and activate audiences on any channel or device using Adobe's best-in-class data management platform.
+* **Staff Picks** highlights some of our favorite content
 * Explore the content by topic and subtopic in the **left navigation**
-* Use the **search** field at the top of the page to find your needed content
-
-**NOTE:** These tutorials and enablement materials are not meant to *replace*, but rather to *complement* the [documentation](https://marketing.adobe.com/resources/help/en_US/aam/). Using them together will hopefully give you a great understanding of how to use Adobe Audience Manager to understand your customers and deliver the right experiences to them.
-
-## Links to additional tutorial repositories
-
-* [Adobe Analytics Tutorials](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)
-* [Experience Cloud Core Services Tutorials](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
-* [Adobe Target Tutorials](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html)
+* Use the **search** field at the top of the page if you know what you are looking for
 
 ## What's New
 
-|| Category/Topic | Title |
-|--- |:--- |:--- |
-| ![video](assets/video2.png) | Setup & Admin / Data Sources | [Create a Data Source for Analytics Data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md) |
-| ![video](assets/video2.png) | Web Implementation | [Using best practices on SPA pages](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md) |
-| ![tutorial](assets/tutorial.png) | Mobile Implementation / Android | [Implement Audience Manager in Android](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html) |
-| ![tutorial](assets/tutorial.png) | Mobile Implementation / iOS | [Implement Audience Manager in iOS Objective-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html) |
-| ![tutorial](assets/tutorial.png) | Mobile Implementation / iOS | [Implement Audience Manager in iOS Swift](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html) |
+* **[Audience Identity Reporting (Video)](build-and-manage-audiences/profile-merge/audience-identity-reporting.md)**
+    <br>
+    *Learn how to report on the total population of a trait or segment by person/household.*
+
+* **[Creating a Data Source for Analytics Data (Video)](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)**
+    <br>
+    *Learn how to create an AAM Data Source for data coming from Adobe Analytics.*
+
+* **[IP Obfuscation by Country (Video)](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)**
+    <br>
+    *Learn how to turn on IP obfuscation globally or by country.*
+
+## Staff Picks
+
+<table>
+<tr>
+  <td>
+    <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
+      <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile iOS Swift Applications' tutorial" src="assets/thumb_swift.png" />
+    </a>
+    <div>
+      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
+    <strong>Implementing the Experience Cloud in Mobile iOS Apps</strong>
+    </a>
+    </div>
+    <p>
+    <em>Perfect starting point for mobile app developers who want to learn how to implement the Adobe Experience Cloud solutions in their iOS Swift apps</em>
+    <p>
+  </td>
+  <td>
+    <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
+      <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile Android Applications' tutorial" src="assets/thumb_android.png" />
+    </a>
+    <div>
+      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
+    <strong>Implementing the Experience Cloud in Mobile Android Apps</strong>
+    </a>
+    </div>
+    <p>
+    <em>Perfect starting point for mobile app developers who want to learn how to implement the Adobe Experience Cloud solutions in their Android apps</em>
+    <p>
+  </td>
+  <td>
+    <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
+      <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile Objective-C Applications' tutorial" src="assets/thumb_objective_c.png" />
+    </a>
+    <div>
+      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
+    <strong>Implementing the Experience Cloud in Mobile Objective-C Apps</strong>
+    </a>
+    </div>
+    <p>
+    <em>Perfect starting point for mobile app developers who want to learn how to implement the Adobe Experience Cloud solutions in their Objective-C apps</em>
+    <p>
+  </td>
+</tr>
+</table>
