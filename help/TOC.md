@@ -51,6 +51,9 @@ user-guide-title: Adobe Audience Manager Tutorials
   + Audience Lab {#audience-lab}
     + [Using Audience Lab to Choose a DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
     + [Creating Conversion Traits](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
+  + People-Based Destinations {#people-based-destinations}
+    + [People-Based Destinations Data Flow](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
+    + [Create and Configure People-based Destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
 + Other Integrations {#other-integrations}
   + Integrating with Ad Cloud {#integrating-with-ad-cloud}
     + [Adobe Advertising Cloud and Adobe Audience Manager Integration](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
