@@ -21,17 +21,17 @@ Welcome to the Audience Manager Tutorials Site.  Using these tutorials along wit
 
 ## What's New
 
-* **[Audience Identity Reporting (Video)](build-and-manage-audiences/profile-merge/audience-identity-reporting.md)**
+* **[Overview of Profile Merge Rules (Video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
     <br>
-    *Learn how to report on the total population of a trait or segment by person/household.*
+    *Understand what Profile Merge Rules are, how they work, and their value to the Marketer.*
 
-* **[Creating a Data Source for Analytics Data (Video)](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)**
+* **[Profile Merge Rule Examples and Use Cases](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
     <br>
-    *Learn how to create an AAM Data Source for data coming from Adobe Analytics.*
+    *In this video you will see examples of Profile Merge Rules and what they mean, as well as the use cases that Profile Merge Rules solve for.*
 
-* **[IP Obfuscation by Country (Video)](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)**
+* **[Create and Configure People-Based Destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
     <br>
-    *Learn how to turn on IP obfuscation globally or by country.*
+    *Learn how to set up a People-Based Destination in the Audience Manager UI*
 
 ## Staff Picks
 
