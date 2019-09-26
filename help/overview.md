@@ -15,6 +15,7 @@ team: Technical Marketing
 # Overview
 
 Welcome to the Audience Manager Tutorials Site.  Using these tutorials along with the [documentation](https://marketing.adobe.com/resources/help/en_US/aam/) will give you a better understanding how to use Adobe Audience Manager to create and activate audiences on any channel or device using Adobe's best-in-class data management platform.
+
 * **Staff Picks** highlights some of our favorite content
 * Explore the content by topic and subtopic in the **left navigation**
 * Use the **search** field at the top of the page if you know what you are looking for

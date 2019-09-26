@@ -17,9 +17,7 @@ kt:
 
 With Profile Merge Rules you get control over the data sets used for segmentation and can target a person accurately across multiple devices.
 
-This section contains videos and tutorials for Profile Merge features, like Profile Merge Rules.
-
-In this section, find the following videos:
+This section contains the following videos for Profile Merge Rules:
 
 * [Overview of Profile Merge Rules](overview-of-profile-merge-rules.md)
 * [Profile Merge Rule Examples and Use Cases](profile-merge-rule-examples-and-use-cases.md)
