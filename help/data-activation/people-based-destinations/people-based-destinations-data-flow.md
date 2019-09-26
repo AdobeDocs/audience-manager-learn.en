@@ -17,4 +17,4 @@ kt: 3683
 
 This video gives an overview of People-Based Destinations and shows the data flow through the process.
 
->[!VIDEO](https://video.tv.adobe.com/v/28954/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
