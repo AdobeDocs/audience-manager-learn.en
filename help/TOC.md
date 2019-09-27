@@ -59,6 +59,8 @@ user-guide-title: Adobe Audience Manager Tutorials
     + [Creating Conversion Traits](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
   + People-Based Destinations {#people-based-destinations}
     + [People-Based Destinations Data Flow](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
+    + [Creating a Data Source for People-Based Destinations](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
+    + [Understanding Hashed PII Data Ingestion for People-Based Destinations](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
     + [Create and Configure People-based Destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
 + Other Integrations {#other-integrations}
   + Integrating with Ad Cloud {#integrating-with-ad-cloud}
