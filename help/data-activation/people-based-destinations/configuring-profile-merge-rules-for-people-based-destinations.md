@@ -17,4 +17,4 @@ kt: 3342
 
 In this video, learn about how to set up a Profile Merge Rule to be used for People-Based Destinations, including when to use a brand new cross-device option.
 
->[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)
