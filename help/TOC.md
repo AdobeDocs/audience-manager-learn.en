@@ -64,6 +64,7 @@ user-guide-title: Adobe Audience Manager Tutorials
     + [Ingesting Hashed PII for People-Based Destinations](data-activation/people-based-destinations/ingesting-hashed-pii-for-people-based-destinations.md)
     + [Using setCustomerIDs() to Ingest and Hash PII as a Declared ID](data-activation/people-based-destinations/using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
     + [Configuring Profile Merge Rules for People-Based Destinations](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
+    + [Creating Segments for People-Based Destinations](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
     + [Create and Configure People-based Destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
 + Other Integrations {#other-integrations}
   + Integrating with Ad Cloud {#integrating-with-ad-cloud}
