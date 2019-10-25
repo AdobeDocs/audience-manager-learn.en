@@ -4,7 +4,7 @@ user-guide-title: Adobe Audience Manager Tutorials
 
 # Audience Manager Tutorials {#tutorials}
 
-+ [OVerview](overview.md)
++ [Overview](overview.md)
 + Setup and Admin {#setup-and-admin}
   + Data Sources {#data-sources}
     + [Create a Data Source for Analytics Data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -29,6 +29,7 @@ user-guide-title: Adobe Audience Manager Tutorials
   + Buying Data {#buying-data}
     + [Reporting 2nd and 3rd Party Data Usage in the Audience Marketplace at the Segment Level](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
     + [Bulk Uploading Data Usage into the Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
+    + [Using Filters and Recommendations to Choose 3rd Party Data in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
 + Build and Manage Audiences {#build-and-manage-audiences}
   + Data Explorer {#data-explorer}
     + [Using the Signals Dashboard to Quickly View Top Available Signals](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
@@ -40,6 +41,7 @@ user-guide-title: Adobe Audience Manager Tutorials
   + Traits and Segments {#traits-and-segments}
     + [Creating Conversion Traits](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
     + [Enhancing your Segments with Trait Recommendations](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
+    + [Trait Recommendation Enhancements in the Segment Builder](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
   + Algorithmic Models {#algorithmic-models}
     + [Creating a First Party Look-Alike Model](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
     + [Excluding Traits in Algorithmic (Look-Alike) Models](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
