@@ -5,6 +5,8 @@ user-guide-title: Adobe Audience Manager Tutorials
 # Audience Manager Tutorials {#tutorials}
 
 + [Overview](overview.md)
++ Intro to Audience Manager {#intro-to-audience-manager}
+  + [How a DMP can change your business](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
 + Setup and Admin {#setup-and-admin}
   + Data Sources {#data-sources}
     + [Create a Data Source for Analytics Data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
