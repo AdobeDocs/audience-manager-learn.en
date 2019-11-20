@@ -58,6 +58,10 @@ user-guide-title: Adobe Audience Manager Tutorials
     + [How Profile Merge Rule Enhancements Impact Segmentation, Activation, and Reporting](build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
     + [Interpret Audience Identity Reporting](build-and-manage-audiences/profile-merge/interpret-audience-identity-reporting.md)
 + Data Activation {#data-activation}
+  + Destinations Basics {#destinations-basics}
+    + [Understanding Audience Manager Destination Types](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
+    + [Understanding Match Rates](data-activation/destinations-basics/understanding-match-rates.md)
+    + [Understanding the Match Rate Interface](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
   + Audience Lab {#audience-lab}
     + [Using Audience Lab to Choose a DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
     + [Creating Conversion Traits](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
