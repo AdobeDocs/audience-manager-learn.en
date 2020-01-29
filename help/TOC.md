@@ -15,6 +15,8 @@ solution: Audience Manager
     + [Global Device ID Validation](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
     + [IAB TCF Support](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
     + [IP Obfuscation by Country](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
+  + Usage and Billing {#usage-and-billing}
+    + [Monitoring and Reporting on Activity Usage](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
 + Web Implementation {#web-implementation}
   + DIL (Data Integration Library) {#dil}
     + [Updating to DIL version 8.0 (or greater)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
