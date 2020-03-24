@@ -13,8 +13,8 @@ kt: 3692
 
 ---
 
-# Profile Merge Rule Enhancements - Pre-Requisites
+# [!UICONTROL Profile Merge Rule] Enhancements - Pre-Requisites
 
-An overview of how to best prepare for the release of Profile Merge Rule Enhancements.
+An overview of how to best prepare for the release of [!UICONTROL Profile Merge Rule] Enhancements.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

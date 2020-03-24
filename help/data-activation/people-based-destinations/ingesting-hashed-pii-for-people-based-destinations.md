@@ -13,8 +13,8 @@ kt: 3341
 
 ---
 
-# Ingesting Hashed PII for People-Based Destinations
+# Ingesting Hashed PII for [!DNL People-Based Destinations]
 
-In this video, learn how to format a file-based ID sync, in order to hook together your customer IDs (CRM IDs) with hashed email addresses. This will allow you to send the hashed email addresses to People-Based Destinations, like Facebook.
+In this video, learn how to format a file-based ID sync, in order to hook together your customer IDs (CRM IDs) with hashed email addresses. This will allow you to send the hashed email addresses to [!DNL People-Based Destinations], like Facebook.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

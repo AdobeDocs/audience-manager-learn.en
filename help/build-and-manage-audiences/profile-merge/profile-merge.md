@@ -13,17 +13,17 @@ kt:
 
 ---
 
-# Profile Merge - Videos and Tutorials
+# [!UICONTROL Profile Merge] - Videos and Tutorials
 
-With Profile Merge Rules you get control over the data sets used for segmentation and can target a person accurately across multiple devices.
+With [!UICONTROL Profile Merge Rules] you get control over the data sets used for [!UICONTROL segmentation] and can target a person accurately across multiple devices.
 
-This section contains the following videos for Profile Merge Rules:
+This section contains the following videos for [!UICONTROL Profile Merge Rules]:
 
-* [Overview of Profile Merge Rules](overview-of-profile-merge-rules.md)
-* [Profile Merge Rule Examples and Use Cases](profile-merge-rule-examples-and-use-cases.md)
-* [Overview of Profile Merge Rule Enhancements](overview-of-profile-merge-rule-enhancements.md)
-* [Profile Merge Rule Enhancements - Pre-Requisites](profile-merge-rule-enhancements-pre-requisites.md)
-* [How Profile Merge Rule Enhancements Impact Segmentation, Activation, and Reporting](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
-* [Interpret Audience Identity Reporting](interpret-audience-identity-reporting.md)
+* [Overview of [!UICONTROL Profile Merge Rules]](overview-of-profile-merge-rules.md)
+* [[!UICONTROL Profile Merge Rule] Examples and Use Cases](profile-merge-rule-examples-and-use-cases.md)
+* [Overview of [!UICONTROL Profile Merge Rule] Enhancements](overview-of-profile-merge-rule-enhancements.md)
+* [[!UICONTROL Profile Merge Rule] Enhancements - Pre-Requisites](profile-merge-rule-enhancements-pre-requisites.md)
+* [How [!UICONTROL Profile Merge Rule] Enhancements Impact [!UICONTROL Segmentation], Activation, and Reporting](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
+* [Interpret [!DNL Audience Identity] Reporting](interpret-audience-identity-reporting.md)
 
 These videos can be used in conjunction with the [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

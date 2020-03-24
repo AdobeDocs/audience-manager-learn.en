@@ -13,8 +13,8 @@ kt: 3708
 
 ---
 
-# Overview of Profile Merge Rules
+# Overview of [!UICONTROL Profile Merge Rules]
 
-Understand what Profile Merge Rules are, how they work, and their value to the Marketer.
+Understand what [!UICONTROL Profile Merge Rules] are, how they work, and their value to the Marketer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

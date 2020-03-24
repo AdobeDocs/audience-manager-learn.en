@@ -13,9 +13,9 @@ team: Technical Marketing
 kt: 1805
 ---
 
-# Creating a First Party Look-Alike Model in AAM {#creating-a-first-party-look-alike-model-in-aam}
+# Creating a [!UICONTROL First Party] Look-Alike [!UICONTROL Model] in AAM {#creating-a-first-party-look-alike-model-in-aam}
 
-In this video you will learn how to create a first party look-alike model, so that you can find more of your own visitors who look like your converters.
+In this video you will learn how to create a [!UICONTROL first party] look-alike [!UICONTROL model], so that you can find more of your own visitors who look like your converters.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 

@@ -13,7 +13,7 @@ kt: 4168
 
 # Monitoring and Reporting on Activity Usage
 
-In this video, we will walk through how to use the Activity Usage Report, including display and download options.
+In this video, we will walk through how to use the [!DNL Activity Usage Report], including display and download options.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 

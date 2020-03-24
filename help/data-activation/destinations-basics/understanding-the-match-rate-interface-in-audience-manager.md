@@ -13,7 +13,7 @@ kt: 4034
 
 # Understanding the Match Rate Interface in Audience Manager
 
-This video walks you through the destination interface, showing and explaining the numbers associated with match rates and addressable audiences.
+This video walks you through the [!UICONTROL destination] interface, showing and explaining the numbers associated with match rates and [!DNL addressable audiences].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 

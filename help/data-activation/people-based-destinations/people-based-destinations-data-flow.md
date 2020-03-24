@@ -13,8 +13,8 @@ kt: 3683
 
 ---
 
-# People-Based Destinations Data Flow
+# [!DNL People-Based Destinations] Data Flow
 
-This video gives an overview of People-Based Destinations and shows the data flow through the process.
+This video gives an overview of [!DNL People-Based Destinations] and shows the data flow through the process.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)

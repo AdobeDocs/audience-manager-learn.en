@@ -13,7 +13,7 @@ kt: 4025
 
 # How a DMP can change your business
 
-Data Management Platforms are the talk of the tech world right now, but what are they and more importantly, how can they help you as marketers realize your goals?
+[!DNL Data Management Platforms] are the talk of the tech world right now, but what are they and more importantly, how can they help you as marketers realize your goals?
 
 During this session we will explain what a DMP is and showcase some real world case studies where customers have seen amazing returns on their investment, from more efficient media buys to significantly increased conversions.
 

@@ -32,8 +32,8 @@ user-guide-title: Adobe Audience Manager Tutorials
   + [Implement in Android Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
 + Audience Marketplace {#audience-marketplace}
   + Buying Data {#buying-data}
-    + [Reporting 2nd and 3rd Party Data Usage in the Audience Marketplace at the Segment Level](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
-    + [Bulk Uploading Data Usage into the Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
+    + [Reporting 2nd and 3rd Party Data Usage in Audience Marketplace at the Segment Level](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
+    + [Bulk Uploading Data Usage into Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
     + [Using Filters and Recommendations to Choose 3rd Party Data in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
 + Build and Manage Audiences {#build-and-manage-audiences}
   + Data Explorer {#data-explorer}
