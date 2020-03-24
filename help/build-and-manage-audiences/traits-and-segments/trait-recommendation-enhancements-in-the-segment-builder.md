@@ -13,9 +13,9 @@ kt: 3937
 
 ---
 
-# Trait Recommendation Enhancements in the Segment Builder
+# [!DNL Trait Recommendation] Enhancements in the [!DNL Segment Builder]
 
-In this video you will see how to use the updated trait recommendations in the segment builder, which are Audience Marketplace recommendations. These will give you additional insight into 3rd party data that can extend the reach of your segments.
+In this video you will see how to use the updated [!DNL trait recommendations] in the [!DNL segment builder], which are Audience Marketplace recommendations. These will give you additional insight into [!DNL third party] data that can extend the reach of your [!UICONTROL segments].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 

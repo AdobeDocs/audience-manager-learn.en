@@ -13,8 +13,8 @@ kt: 3710
 
 ---
 
-# Overview of Profile Merge Rule Enhancements
+# Overview of [!UICONTROL Profile Merge Rule] Enhancements
 
-This video explains the enhancements to Profile Merge Rules, released in October 2019.
+This video explains the enhancements to [!UICONTROL Profile Merge Rules], released in October 2019.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28976/?quality=12)

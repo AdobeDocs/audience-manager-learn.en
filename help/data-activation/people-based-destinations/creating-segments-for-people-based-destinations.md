@@ -13,8 +13,8 @@ kt: 3690
 
 ---
 
-# Creating Segments for People-Based Destinations
+# Creating Segments for [!DNL People-Based Destinations]
 
-This video walks you through the creation of a segment in Audience Manager to be used for People-Based Destinations.
+This video walks you through the creation of a [!UICONTROL segment] in Audience Manager to be used for [!DNL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
