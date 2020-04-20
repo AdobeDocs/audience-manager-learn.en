@@ -60,6 +60,7 @@ user-guide-title: Adobe Audience Manager Tutorials
     + [Profile Merge Rule Enhancements - Pre-Requisites](build-and-manage-audiences/profile-merge/profile-merge-rule-enhancements-pre-requisites.md)
     + [How Profile Merge Rule Enhancements Impact Segmentation, Activation, and Reporting](build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
     + [Interpret Audience Identity Reporting](build-and-manage-audiences/profile-merge/interpret-audience-identity-reporting.md)
+    + [Understanding Cross-Device Metrics in Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
 + Data Activation {#data-activation}
   + Destinations Basics {#destinations-basics}
     + [Understanding Audience Manager Destination Types](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
