@@ -49,6 +49,8 @@ solution: Audience Manager
     + [Enhancing your Segments with Trait Recommendations](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
     + [Trait Recommendation Enhancements in the Segment Builder](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
   + Algorithmic Models {#algorithmic-models}
+    + [Understanding Predictive Audiences](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+    + [Configure and Report on Predictive Audiences](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
     + [Creating a First Party Look-Alike Model](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
     + [Excluding Traits in Algorithmic (Look-Alike) Models](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
     + [Increase ROAS by Using Algorithmic (Look-Alike) Models](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
