@@ -9,6 +9,7 @@ solution: Audience Manager
 + Intro to Audience Manager {#intro-to-audience-manager}
   + [How a DMP can change your business](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
   + [Audience Manager - Overview of a DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
+  + [Audience Manager Use Cases](intro-to-audience-manager/audience-manager-use-cases.md)
   + [Understanding Basic Terms and Concepts](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
   + [Understanding the Data Flow in Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
 + Setup and Admin {#setup-and-admin}
