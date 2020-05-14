@@ -13,8 +13,8 @@ kt: 3343
 
 ---
 
-# Create and Configure [!DNL People-based Destinations]
+# Create and Configure [!UICONTROL People-based Destinations]
 
-This video first gives you some information about prerequisites to creating your [!DNL People-Based Destination], and then also shows you how to configure an [!DNL Integrated Account] (link to the partner, E.g. Facebook). It then walks you through the in-product setup of the [!UICONTROL destination] itself.
+This video first gives you some information about prerequisites to creating your [!DNL People-Based Destination], and then also shows you how to configure an [!UICONTROL Integrated Account] (link to the partner, E.g. [!DNL Facebook]). It then walks you through the in-product setup of the [!UICONTROL destination] itself.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

@@ -13,8 +13,8 @@ kt: 3342
 
 ---
 
-# Configuring [!UICONTROL Profile Merge Rules] for [!DNL People-Based Destinations]
+# Configuring [!UICONTROL Profile Merge Rules] for [!UICONTROL People-Based Destinations]
 
-In this video, learn about how to set up a [!UICONTROL Profile Merge Rule] to be used for [!DNL People-Based Destinations], including when to use a brand new cross-device option.
+In this video, learn about how to set up a [!UICONTROL Profile Merge Rule] to be used for [!UICONTROL People-Based Destinations], including when to use a brand new cross-device option.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

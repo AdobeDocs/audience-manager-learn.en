@@ -13,8 +13,8 @@ kt: 3700
 
 ---
 
-# Creating a [!UICONTROL Data Source] for [!DNL People-Based Destinations]
+# Creating a [!UICONTROL Data Source] for [!UICONTROL People-Based Destinations]
 
-This video walks you through the creation of a [!UICONTROL Data Source] in Audience Manager to be used for [!DNL People-Based Destinations].
+This video walks you through the creation of a [!UICONTROL Data Source] in Audience Manager to be used for [!UICONTROL People-Based Destinations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

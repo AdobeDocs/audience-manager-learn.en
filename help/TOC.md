@@ -11,6 +11,7 @@ user-guide-title: Adobe Audience Manager Tutorials
   + [Audience Manager Use Cases](intro-to-audience-manager/audience-manager-use-cases.md)
   + [Understanding Basic Terms and Concepts](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
   + [Understanding the Data Flow in Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
+  + [Introduction to Identity in Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
 + Setup and Admin {#setup-and-admin}
   + Data Sources {#data-sources}
     + [Create a Data Source for Analytics Data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -76,6 +77,7 @@ user-guide-title: Adobe Audience Manager Tutorials
     + [Using Audience Lab to Choose a DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
     + [Creating Conversion Traits](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
   + People-Based Destinations {#people-based-destinations}
+    + [People-Based Destinations Videos and Tutorials](data-activation/people-based-destinations/pbd.md)
     + [People-Based Destinations Data Flow](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
     + [Creating a Data Source for People-Based Destinations](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
     + [Understanding Hashed PII Data Ingestion for People-Based Destinations](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
@@ -84,6 +86,7 @@ user-guide-title: Adobe Audience Manager Tutorials
     + [Configuring Profile Merge Rules for People-Based Destinations](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
     + [Creating Segments for People-Based Destinations](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
     + [Create and Configure People-based Destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
+    + [Understanding and Configuring the LinkedIn People-Based Destination](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
 + Other Integrations {#other-integrations}
   + Integrating with Ad Cloud {#integrating-with-ad-cloud}
     + [Adobe Advertising Cloud and Adobe Audience Manager Integration](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
