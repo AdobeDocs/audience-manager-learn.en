@@ -17,7 +17,7 @@ user-guide-title: Adobe Audience Manager Tutorials
     + [Create a Data Source for Analytics Data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
   + Data Governance and Privacy {#data-governance-and-privacy}
     + [Global Device ID Validation](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-    + [IAB TCF Support](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+    + [IAB TCF 2.0 Support](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
     + [IP Obfuscation by Country](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
   + Usage and Billing {#usage-and-billing}
     + [Monitoring and Reporting on Activity Usage](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
