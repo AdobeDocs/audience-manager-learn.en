@@ -19,11 +19,15 @@ With [!UICONTROL Profile Merge Rules] you get control over the data sets used fo
 
 This section contains the following videos for [!UICONTROL Profile Merge Rules]:
 
-* [Overview of [!UICONTROL Profile Merge Rules]](overview-of-profile-merge-rules.md)
-* [[!UICONTROL Profile Merge Rule] Examples and Use Cases](profile-merge-rule-examples-and-use-cases.md)
-* [Overview of [!UICONTROL Profile Merge Rule] Enhancements](overview-of-profile-merge-rule-enhancements.md)
-* [[!UICONTROL Profile Merge Rule] Enhancements - Pre-Requisites](profile-merge-rule-enhancements-pre-requisites.md)
-* [How [!UICONTROL Profile Merge Rule] Enhancements Impact [!UICONTROL Segmentation], Activation, and Reporting](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
-* [Interpret [!DNL Audience Identity] Reporting](interpret-audience-identity-reporting.md)
+* [Overview of Profile Merge Rules](overview-of-profile-merge-rules.md)
+* [Profile Merge Rule Examples and Use Cases](profile-merge-rule-examples-and-use-cases.md)
+* [Overview of Profile Merge Rule Enhancements](overview-of-profile-merge-rule-enhancements.md)
+* [Creating and Using Simple Profile Merge Rules](creating-and-using-simple-profile-merge-rules.md)
+* [Using Profile Merge Rules to Personalize in an Authenticated State](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
+* [Using Profile Merge Rules for Device Extension and Increased Reach](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
+* [Profile Merge Rule Enhancements - Pre-Requisites](profile-merge-rule-enhancements-pre-requisites.md)
+* [How Profile Merge Rule Enhancements Impact Segmentation, Activation, and Reporting](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
+* [Interpret Audience Identity Reporting](interpret-audience-identity-reporting.md)
+* [Understanding Cross-Device Metrics in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
 These videos can be used in conjunction with the [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
