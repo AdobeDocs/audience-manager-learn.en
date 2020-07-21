@@ -53,6 +53,8 @@ user-guide-title: Adobe Audience Manager Tutorials
   + Traits and Segments {#traits-and-segments}
     + [Creating Rule-based Traits](build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.md)
     + [Creating Conversion Traits](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
+    + [The Basics of Creating Segments](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
+    + [Practical Segment Definition and Creation](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
     + [Enhancing your Segments with Trait Recommendations](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
     + [Trait Recommendation Enhancements in the Segment Builder](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
     + [Building a Segment to Suppress Ads to Customers](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
