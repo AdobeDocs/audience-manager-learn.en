@@ -57,6 +57,7 @@ user-guide-title: Adobe Audience Manager Tutorials
     + [Practical Segment Definition and Creation](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
     + [Enhancing your Segments with Trait Recommendations](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
     + [Trait Recommendation Enhancements in the Segment Builder](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
+    + [Using Recency and Frequency in Segments](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
     + [Building a Segment to Suppress Ads to Customers](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
     + [Mapping Segments to a Device-based Destination](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
   + Algorithmic Models {#algorithmic-models}
