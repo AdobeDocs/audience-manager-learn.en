@@ -1,7 +1,7 @@
 ---
 title: Understanding Predictive Audiences in Audience Manager
 description: In this video, we will discuss what Audience Manager Predictive Audiences are, present details about how they work, and point out use cases.
-feature: Algorithmic Models
+feature: algorithmic models
 topics: 
 audience: administrator
 activity: understand

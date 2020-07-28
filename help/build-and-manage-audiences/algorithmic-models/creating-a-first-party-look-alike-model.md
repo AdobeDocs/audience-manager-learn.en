@@ -1,14 +1,11 @@
 ---
 title: Creating a First Party Look-Alike Model in AAM
-seo-title: Creating a First Party Look-Alike Model in AAM
 description: In this video you will learn how to create a first party look-alike model, so that you can find more of your own visitors who look like your converters.
-seo-description: In this video you will learn how to create a first party look-alike model, so that you can find more of your own visitors who look like your converters.
 feature: algorithmic models
 topics: 
 audience: all
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 1805
 ---

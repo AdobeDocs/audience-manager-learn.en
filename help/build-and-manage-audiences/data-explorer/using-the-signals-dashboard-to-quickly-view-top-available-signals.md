@@ -1,14 +1,11 @@
 ---
 title: Using the Signals Dashboard to Quickly View Top Available Signals
-seo-title: Using the Signals Dashboard to Quickly View Top Available Signals
 description: By using built in and custom tables on the Signals dashboard in Data Explorer, you can quickly see the latest data coming into Audience Manager and even click through to create traits as needed. Welcome to your new, more efficient workflow!
-seo-description: By using built in and custom tables on the Signals dashboard in Data Explorer, you can quickly see the latest data coming into Audience Manager and even click through to create traits as needed. Welcome to your new, more efficient workflow!
 feature: data explorer
 topics: 
 audience: all
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 2140
 ---

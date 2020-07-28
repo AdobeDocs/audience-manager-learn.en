@@ -1,7 +1,7 @@
 ---
 title: Configure and Report on Predictive Audiences in Audience Manager
 description: In this video we will walk through Predictive Audiences configuration in the Audience Manager interface. We will also see the reports that show the results of the model.
-feature: Algorithmic Models
+feature: algorithmic models
 topics: 
 audience: administrator
 activity: use
