@@ -1,14 +1,11 @@
 ---
 title: Enhancing your AAM Segments with Trait Recommendations
-seo-title: Enhancing your AAM Segments with Trait Recommendations
 description: With Trait Recommendations, when you build or edit a segment in Segment Builder, you get recommendations on additional traits you can include, that are similar to the traits in the segment rule.
-seo-description: With Trait Recommendations, when you build or edit a segment in Segment Builder, you get recommendations on additional traits you can include, that are similar to the traits in the segment rule.
 feature: segments
 topics: 
 audience: all
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 2431
 ---

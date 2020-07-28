@@ -1,14 +1,11 @@
 ---
 title: Excluding Traits in Algorithmic (Look-Alike) Models
-seo-title: Excluding Traits in Algorithmic (Look-Alike) Models
 description: In this video you will learn how and why to exclude specific (or groups of) traits from an Algorithmic (Look-Alike) Model. 
-seo-description: In this video you will learn how and why to exclude specific (or groups of) traits from an Algorithmic (Look-Alike) Model. 
 feature: algorithmic models
 topics: 
 audience: all
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 1759
 ---

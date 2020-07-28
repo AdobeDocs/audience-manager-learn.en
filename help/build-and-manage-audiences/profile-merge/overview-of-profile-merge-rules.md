@@ -1,9 +1,7 @@
 ---
 title: Overview of Profile Merge Rules
-seo-title: Overview of Profile Merge Rules in Adobe Audience Manager.
 description: Understand what Profile Merge Rules are, how they work, and their value to the Marketer.
-seo-description: Understand what Profile Merge Rules are, how they work, and their value to the Marketer in Adobe Audience Manager.
-feature: Profile Merge Rules
+feature: profile merge
 topics: 
 audience: all
 activity: understand

@@ -1,7 +1,7 @@
 ---
 title: Using Tag Managers to Implement Audience Manager
 description: In this video you will learn the basics of implementing Adobe Audience Manager when using a tag management solution.
-feature: implementation
+feature: implementation basics
 topics: 
 audience: implementer, developer
 activity: implement

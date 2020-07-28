@@ -1,9 +1,7 @@
 ---
 title: Overview of Profile Merge Rule Enhancements
-seo-title: Overview of Profile Merge Rule Enhancements in Adobe Audience Manager.
 description: This video explains the enhancements to Profile Merge Rules, released in October 2019.
-seo-description: This video explains the enhancements to Profile Merge Rules in Adobe Audience Manager.
-feature: Profile Merge Rules
+feature: profile merge
 topics: 
 audience: all
 activity: understand

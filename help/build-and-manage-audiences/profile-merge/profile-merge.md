@@ -1,9 +1,7 @@
 ---
 title: Profile Merge Videos and Tutorials
-seo-title: Profile Merge Videos and Tutorials
 description: This section contains videos and tutorials for Profile Merge features, like Profile Merge Rules.
-seo-description: This section contains videos and tutorials for Profile Merge features, like Profile Merge Rules.
-feature: Profile Merge Rules
+feature: profile merge
 topics: 
 audience: all
 activity: understand

@@ -1,9 +1,7 @@
 ---
 title: Trait Recommendation Enhancements in the Segment Builder
-seo-title: Trait Recommendation Enhancements in the Segment Builder in Adobe Audience Manager
 description: In this video you will see how to use the updated trait recommendations in the segment builder, which are Audience Marketplace recommendations. These will give you additional insight into 3rd party data that can extend the reach of your segments.
-seo-description: In this video you will see how to use the updated trait recommendations in the segment builder, which are Audience Marketplace recommendations. These will give you additional insight into 3rd party data that can extend the reach of your segments. Adobe Audience Manager
-feature: trait recommendations
+feature: segments
 topics: 
 audience: all
 activity: setup

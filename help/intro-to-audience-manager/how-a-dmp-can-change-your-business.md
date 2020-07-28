@@ -1,7 +1,7 @@
 ---
 title: How a DMP can change your business
 description: Data Management Platforms are the talk of the tech world right now, but what are they and more importantly, how can they help you as marketers realize your goals? During this session we will explain what a DMP is and showcase some real world case studies where customers have seen amazing returns on their investment, from more efficient media buys to significantly increased conversions.
-feature: Intro to Audience Manager
+feature: overview
 topics: 
 audience: all
 activity: understand

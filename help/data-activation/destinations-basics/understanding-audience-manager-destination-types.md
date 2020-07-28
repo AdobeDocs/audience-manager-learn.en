@@ -1,7 +1,7 @@
 ---
 title: Understanding Audience Manager Destination Types
 description: This video will walk you through the different types of destinations in Adobe Audience Manager, and give examples of when you would use each one.
-feature: destinations
+feature: destination basics
 topics: 
 audience: all
 activity: understand

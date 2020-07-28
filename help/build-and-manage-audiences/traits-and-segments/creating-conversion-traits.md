@@ -1,8 +1,6 @@
 ---
 title: Creating Conversion Traits in Audience Manager
-seo-title: Creating Conversion Traits in Audience Manager
 description: Some of your traits are based on conversions on your site. In this video, learn how to designate them as such, and learn a very important tip/gotcha.
-seo-description: Some of your traits are based on conversions on your site. In this video, learn how to designate them as such, and learn a very important tip/gotcha.
 feature: traits
 topics: 
 audience: all
