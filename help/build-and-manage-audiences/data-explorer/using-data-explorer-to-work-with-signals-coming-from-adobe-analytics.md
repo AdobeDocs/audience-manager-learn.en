@@ -1,14 +1,11 @@
 ---
 title: Using Data Explorer to Work with Signals Coming from Adobe Analytics
-seo-title: Using Data Explorer to Work with Signals Coming from Adobe Analytics
 description: This video shows how to work in Data Explorer to discover and use your Adobe Analytics data, including searching for used and unused signals, creating Analytics traits, and understanding the data.
-seo-description: This video shows how to work in Data Explorer to discover and use your Adobe Analytics data, including searching for used and unused signals, creating Analytics traits, and understanding the data.
 feature: data explorer
 topics: 
 audience: all
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 2142
 ---

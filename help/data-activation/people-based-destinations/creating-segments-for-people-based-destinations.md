@@ -1,9 +1,7 @@
 ---
 title: Creating Segments for People-Based Destinations in Adobe Audience Manager
-seo-title: Creating Segments for People-Based Destinations in Adobe Audience Manager
 description: This video walks you through the creation of a segment in Audience Manager to be used for People-Based Destinations.
-seo-description: This video walks you through the creation of a segment in Adobe Audience Manager to be used for People-Based Destinations.
-feature: People-Based Destinations
+feature: people-based destinations
 topics: 
 audience: all
 activity: setup

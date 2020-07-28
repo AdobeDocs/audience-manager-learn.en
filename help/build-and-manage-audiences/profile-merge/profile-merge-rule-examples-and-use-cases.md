@@ -1,9 +1,7 @@
 ---
 title: Profile Merge Rule Examples and Use Cases
-seo-title: Profile Merge Rule Examples and Use Cases in Adobe Audience Manager.
 description: In this video you will see examples of Profile Merge Rules and what they mean, as well as the use cases that Profile Merge Rules solve for.
-seo-description: In this video you will see examples of Profile Merge Rules and what they mean, as well as the use cases that Profile Merge Rules solve for Adobe Audience Manager.
-feature: Profile Merge Rules
+feature: profile merge
 topics: 
 audience: all
 activity: understand

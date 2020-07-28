@@ -1,9 +1,7 @@
 ---
 title: Ingesting Hashed PII for People-Based Destinations
-seo-title: Ingesting Hashed PII for People-Based Destinations in Adobe Audience Manager
 description: In this video, learn how to format a file-based ID sync, in order to hook together your customer IDs (CRM IDs) with hashed email addresses.
-seo-description: In this video, learn how to format a file-based ID sync, in order to hook together your customer IDs (CRM IDs) with hashed email addresses. Adobe Audience Manager
-feature: People-Based Destinations
+feature: people-based destinations
 topics: 
 audience: all
 activity: setup

@@ -1,14 +1,11 @@
 ---
 title: Using Audience Lab to Choose a DSP
-seo-title: Using Audience Lab to Choose a DSP
 description: In this video we walk through creating an Audience Lab test, so that you can A/B test DSPs or other AAM destinations to see which one will drive the best return on ad spend.
-seo-description: In this video we walk through creating an Audience Lab test, so that you can A/B test DSPs or other AAM destinations to see which one will drive the best return on ad spend.
-feature: feature
-topics: topics
+feature: audience lab
+topics: 
 audience: all
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
 kt: 1552
 ---

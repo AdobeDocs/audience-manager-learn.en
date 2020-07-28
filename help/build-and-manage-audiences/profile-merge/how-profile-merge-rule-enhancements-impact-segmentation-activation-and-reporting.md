@@ -1,9 +1,7 @@
 ---
 title: How Profile Merge Rule Enhancements Impact Segmentation, Activation, and Reporting
-seo-title: How Profile Merge Rule Enhancements Impact Segmentation, Activation, and Reporting in Adobe Audience Manager.
 description: Understanding how Profile Merge Rule Enhancements will impact Total Trait and Segment Populations in the Audience Manager UI
-seo-description: Understanding how Profile Merge Rule Enhancements will impact Total Trait and Segment Populations in the Adobe Audience Manager UI
-feature: Profile Merge Rules
+feature: profile merge
 topics: 
 audience: all
 activity: understand
