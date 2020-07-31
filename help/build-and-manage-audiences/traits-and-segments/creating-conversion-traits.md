@@ -6,8 +6,8 @@ topics:
 audience: all
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
+thumbnail: 23431.jpg
 kt: 1804
 ---
 
