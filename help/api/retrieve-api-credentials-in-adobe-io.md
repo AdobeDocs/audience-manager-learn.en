@@ -1,5 +1,5 @@
 ---
-title: Retrieve API Credentials in Adobe I/O
+title: Retrieve API Credentials in Adobe IO
 description: Instead of contacting Adobe Consulting or Customer Care for credentials for using the REST API, you can simply go to Adobe.io in a browser and retrieve or register your own credentials.
 feature: api
 topics: 
