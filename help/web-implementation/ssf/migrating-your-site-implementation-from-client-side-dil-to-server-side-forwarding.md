@@ -67,7 +67,9 @@ The main prerequisite for moving to [!UICONTROL Server-Side Forwarding] is to ha
 
 If you are using a non-Adobe TMS, or no TMS at all, then please implement ECID to run **before** any other Adobe solutions. See the [ECID documentation](https://marketing.adobe.com/resources/help/en_US/mcvid/) for more details. The only other prerequisite is regarding code versions, so as you simply apply the most recent versions of the code in the following steps, you will be fine.
 
->[!NOTE] Please read this entire document before implementing. The “Timing” section below has important information on *when* you should implement each piece, including ECID (if it is not yet implemented).
+>[!NOTE]
+>
+>Please read this entire document before implementing. The “Timing” section below has important information on *when* you should implement each piece, including ECID (if it is not yet implemented).
 
 ### Step 1: Record Currently Used Options from DIL Code {#step-record-currently-used-options-from-dil-code}
 
