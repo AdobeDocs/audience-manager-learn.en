@@ -103,3 +103,5 @@ solution: Audience Manager
 + Other Integrations {#other-integrations}
   + Integrating with Ad Cloud {#integrating-with-ad-cloud}
     + [Adobe Advertising Cloud and Adobe Audience Manager Integration](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
++ API {#api}
+  + [Retrieve API Credentials in Adobe I/O](api/retrieve-api-credentials-in-adobe-io.md)
