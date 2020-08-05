@@ -23,7 +23,7 @@ In this document, we will describe several best practices that you should follow
 
 ![spa for aam in [!DNL launch]](assets/spa_for_aam_in_launch.png)
 
->[!NOTE] 
+>[!NOTE]
 >As stated, this is a simplified diagram of how SPA pages are handled in an Adobe Audience Manager implementation (without Adobe Analytics) using [!DNL Launch]. As you can see, it is fairly straight-forward, with the big decision being how you are going to communicate a view change (or an action) to [!DNL Launch].
 
 ## Triggering [!DNL Launch] from the SPA page {#triggering-launch-from-the-spa-page}
