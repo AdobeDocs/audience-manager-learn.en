@@ -73,6 +73,7 @@ solution: Audience Manager
     + [Profile Merge Rules](build-and-manage-audiences/profile-merge/profile-merge.md)
     + [Overview of Profile Merge Rules](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)
     + [Profile Merge Rule Examples and Use Cases](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)
+    + [Choosing the Right Profile Merge Rule](build-and-manage-audiences/profile-merge/choosing-the-right-profile-merge-rule.md)
     + [Creating and Using Simple Profile Merge Rules](build-and-manage-audiences/profile-merge/creating-and-using-simple-profile-merge-rules.md)
     + [Using Profile Merge Rules to Personalize in an Authenticated State](build-and-manage-audiences/profile-merge/using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
     + [Using Profile Merge Rules for Device Extension and Increased Reach](build-and-manage-audiences/profile-merge/using-profile-merge-rules-for-device-extension-and-increased-reach.md)
