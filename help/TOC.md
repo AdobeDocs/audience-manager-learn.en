@@ -61,8 +61,10 @@ solution: Audience Manager
     + [Trait Recommendation Enhancements in the Segment Builder](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
     + [Creating Segments from Multiple Data Sources](build-and-manage-audiences/traits-and-segments/creating-segments-from-multiple-data-sources.md)
     + [Using Recency and Frequency in Segments](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
+    + [Using Code View when Building Segments](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
     + [Building a Segment to Suppress Ads to Customers](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
     + [Mapping Segments to a Device-based Destination](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
+    + [Understanding Numbers in the Segment Graph](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
   + Algorithmic Models {#algorithmic-models}
     + [Understanding Predictive Audiences](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
     + [Configure and Report on Predictive Audiences](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
