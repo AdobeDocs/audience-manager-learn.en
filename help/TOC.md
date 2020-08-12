@@ -104,7 +104,7 @@ solution: Audience Manager
     + [Creating Segments for People-Based Destinations](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
     + [Create and Configure People-based Destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
     + [Understanding and Configuring the LinkedIn People-Based Destination](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
-    + [Understanding and Configuring the Google Customer Match People-Based Destination](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-people-based-destination.md)
+    + [Understanding and Configuring the Google Customer Match People-Based Destination](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
 + Other Integrations {#other-integrations}
   + Integrating with Ad Cloud {#integrating-with-ad-cloud}
     + [Adobe Advertising Cloud and Adobe Audience Manager Integration](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
