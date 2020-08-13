@@ -16,6 +16,13 @@ kt: 6048
 
 [!DNL Matt Vittorioso], Senior Marketing Specialist at [!DNL Ally Financial], gives tips on managing traits and segments.
 
-|Customer:<br>Matt Vittorioso    |      Senior Marketing Specialist at Ally Financial     |
-|------------|------------|
-|  | Matt Vittorioso is a Senior Marketing Specialist on the Digital Marketing team at Ally Financial. He leads the digital segmentation team and is in charge of all the data that goes in and out of audience manager. Matt works closely with all internal stakeholders and external agency partners to ensure the proper segments are constructed for all of Ally’s campaigns. Tips include topics such as:<br><br><ul><li>Aligning and communicating with stakeholders</li><li>Utilizing out of the box functionality</li><li>Reviewing traits and segments regularly</li></ul><br>[Read Matt's Tips](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)|
+**Customer:** Matt Vittorioso
+*Senior Marketing Specialist at Ally Financial*
+
+Matt Vittorioso is a Senior Marketing Specialist on the Digital Marketing team at Ally Financial. He leads the digital segmentation team and is in charge of all the data that goes in and out of audience manager. Matt works closely with all internal stakeholders and external agency partners to ensure the proper segments are constructed for all of Ally’s campaigns. Tips include topics such as:
+
+* Aligning and communicating with stakeholders
+* Utilizing out of the box functionality
+* Reviewing traits and segments regularly
+
+[Read Matt's Tips in the Experience League Community.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)|
