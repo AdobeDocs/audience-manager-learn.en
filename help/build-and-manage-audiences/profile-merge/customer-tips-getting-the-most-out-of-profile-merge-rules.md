@@ -1,6 +1,6 @@
 ---
 title: Customer Tips - Getting the most out of Profile Merge Rules
-description: Matt Vittorioso, Senior Marketing Specialist at Ally Financial, gives tips on managing traits and segments.
+description: Varun Kalra, Multi-Solution Consultant at Accordant, gives tips on choosing and using Profile Merge Rules (PMRs).
 feature: profile merge
 topics: 
 audience: analyst
