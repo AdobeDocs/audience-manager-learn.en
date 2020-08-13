@@ -65,6 +65,7 @@ solution: Audience Manager
     + [Building a Segment to Suppress Ads to Customers](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
     + [Mapping Segments to a Device-based Destination](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
     + [Understanding Numbers in the Segment Graph](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
+    + [Customer Tips - Traits and Segments Best Practices](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
   + Algorithmic Models {#algorithmic-models}
     + [Understanding Predictive Audiences](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
     + [Configure and Report on Predictive Audiences](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
@@ -85,6 +86,7 @@ solution: Audience Manager
     + [How Profile Merge Rule Enhancements Impact Segmentation, Activation, and Reporting](build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
     + [Interpret Audience Identity Reporting](build-and-manage-audiences/profile-merge/interpret-audience-identity-reporting.md)
     + [Understanding Cross-Device Metrics in Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
+    + [Customer Tips - Getting the most out of Profile Merge Rules](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
 + Data Activation {#data-activation}
   + Destinations Basics {#destinations-basics}
     + [Understanding Audience Manager Destination Types](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
