@@ -14,10 +14,7 @@ kt: 6049
 
 # Customer Tips - Getting the most out of Profile Merge Rules
 
-[!DNL Varun Kalra], Multi-Solution Consultant at [!DNL Accordant], gives tips on choosing and using Profile Merge Rules (PMRs).
-
-**Customer:** Varun Kalra
-*Multi-Solution Consultant at Accordant*
+**Varun Kalra**, Multi-Solution Consultant at **Accordant**, gives tips on choosing and using Profile Merge Rules (PMRs).
 
 Varun Kalra is a multi-solution consultant working in a Sydney based Adobe Solution Partner - Accordant. Varun works primarily on Audience Manager, Adobe Analytics and AEP projects which involve data discovery, implementation, support and enablement. Tips include topics such as:
 
