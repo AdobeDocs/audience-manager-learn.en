@@ -25,5 +25,7 @@ If you can’t quickly find it with those quick references, the video is a short
 
 >[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
 
-> [!IMPORTANT] There is a numeric ID assigned to each customer of the Adobe Experience Cloud, and this is often referred to as the "PID", or Partner ID. This is not the ID we are talking about in this article and video. Instead, the "partner subdomain", which is sometimes referred to as the partner ID, is usually a version of the client name, and is the subdomain of the server to which the data is sent. For example, if your company is "Bob's Knobs" (all things doorknobs, of course, haha), then it is likely that your partner subdomain would be "bobsknobs", whereas the "PID" would be something more like "12345". You don't typically need to know your PID, but your subdomain is important to know, so that you can configure your Audience Manager implementation.
+>[!IMPORTANT]
+>
+>There is a numeric ID assigned to each customer of the Adobe Experience Cloud, and this is often referred to as the "PID", or Partner ID. This is not the ID we are talking about in this article and video. Instead, the "partner subdomain", which is sometimes referred to as the partner ID, is usually a version of the client name, and is the subdomain of the server to which the data is sent. For example, if your company is "Bob's Knobs" (all things doorknobs, of course, haha), then it is likely that your partner subdomain would be "bobsknobs", whereas the "PID" would be something more like "12345". You don't typically need to know your PID, but your subdomain is important to know, so that you can configure your Audience Manager implementation.
 > 
