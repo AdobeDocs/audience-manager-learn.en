@@ -63,6 +63,7 @@ solution: Audience Manager
     + [Using Recency and Frequency in Segments](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
     + [Using Code View when Building Segments](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
     + [Building a Segment to Suppress Ads to Customers](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
+    + [Mapping Audience Manager Segments to Destinations](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
     + [Mapping Segments to a Device-based Destination](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
     + [Understanding Numbers in the Segment Graph](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
     + [Customer Tips - Traits and Segments Best Practices](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
