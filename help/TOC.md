@@ -1,6 +1,7 @@
 ---
 user-guide-title: Adobe Audience Manager Tutorials
 solution: Audience Manager
+type: Tutorial
 ---
 
 # Audience Manager Tutorials {#tutorials}
