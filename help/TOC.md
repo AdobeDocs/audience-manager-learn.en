@@ -52,7 +52,9 @@ solution: Audience Manager
     + [Using Data Explorer to Validate Trait Creation for Your Onboarded Data](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
     + [Using Data Explorer to Work with Signals Coming from Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
   + Traits and Segments {#traits-and-segments}
+    + [Creating a Trait Taxonomy](build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.md)
     + [Creating Rule-based Traits](build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.md)
+    + [Creating Onboarded Traits](build-and-manage-audiences/traits-and-segments/creating-onboarded-traits.md)
     + [Creating Conversion Traits](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
     + [The Basics of Creating Segments](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
     + [Creating a Segment Taxonomy](build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.md)
