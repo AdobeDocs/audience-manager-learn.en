@@ -1,5 +1,8 @@
 ---
 user-guide-title: Adobe Audience Manager Tutorials
+user-guide-description: A collection of videos and tutorials for Adobe Analytics.
+breadcrumb-title: Audience Manager Tutorials
+breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 ---
 
