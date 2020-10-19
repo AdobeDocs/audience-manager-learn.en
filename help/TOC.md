@@ -59,6 +59,8 @@ solution: Audience Manager
     + [Creating Rule-based Traits](build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.md)
     + [Creating Onboarded Traits](build-and-manage-audiences/traits-and-segments/creating-onboarded-traits.md)
     + [Creating Conversion Traits](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
+    + [Choosing a Data Source when Creating Traits](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.md)
+    + [Using Code View to Create and Edit Traits](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
     + [The Basics of Creating Segments](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
     + [Creating a Segment Taxonomy](build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.md)
     + [Practical Segment Definition and Creation](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
