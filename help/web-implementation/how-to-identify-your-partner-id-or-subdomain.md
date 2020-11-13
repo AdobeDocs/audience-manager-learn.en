@@ -12,14 +12,15 @@ kt: 2359
 
 # How to identify your Audience Manager Subdomain {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-When implementing some Experience Cloud features, you need to know what your Audience Manager [!DNL “Subdomain”] is (also sometimes referred to as your “[!DNL client ID]” or "[!DNL Partner ID]"). In this video, we will show you two places you can get this info in the Audience Manager UI.
+When implementing some Experience Cloud features, you need to know what your Audience Manager `Subdomain` is (also sometimes referred to as your `client ID` or `Partner ID`). In this video, we will show you two places you can get this info in the Audience Manager UI.
 
 ## Giving away the ending… {#giving-away-the-ending}
 
-In case you would rather just jump in and find it without watching this short video, you can find your [!DNL Partner Subdomain] in two places in the UI:
+In case you would rather just jump in and find it without watching this short video, you can find your `Partner Subdomain` in two places in the UI:
 
-1. If you have already created a [!UICONTROL rule-based] [!UICONTROL trait], click the “[!UICONTROL Get Trait URL]” button next to the [!UICONTROL trait] in the list of [!UICONTROL traits] in that folder, and the URL will include your subdomain in the URL
-1. If you go into the [!UICONTROL Tools] > [!UICONTROL Tags] interface and click on the “[!UICONTROL Get code]” icon of your container, the subdomain is toward the end of the Akamai line
+1. If you have already created a [!UICONTROL rule-based] [!UICONTROL trait], click **[!UICONTROL Get Trait URL]**
+    [!UICONTROL Get Trait URL] is next to the [!UICONTROL trait] in the list of [!UICONTROL traits] in that folder, and the URL will include your subdomain in the URL.
+1. If you go into the **[!UICONTROL Tools]** > **[!UICONTROL Tags]** interface and click **[!UICONTROL Get code]** for your container, the subdomain is toward the end of the Akamai line
 
 If you can’t quickly find it with those quick references, the video is a short time commitment. :)
 

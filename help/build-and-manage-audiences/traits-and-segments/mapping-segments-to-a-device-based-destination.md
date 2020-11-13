@@ -14,6 +14,6 @@ kt: 5805
 
 # Mapping Segments to a Device-based Destination
 
-In order to send an audience segment out to a DSP or other partner, you need to map the segment to a destination in Audience Manager. This video walks through mapping segments to a device-based destination, also known as a "server to server" destination.
+In order to send an audience segment out to a DSP or other partner, you need to map the segment to a destination in Audience Manager. This video walks through mapping segments to a device-based destination, also known as a _server-to-server_ destination.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)

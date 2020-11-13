@@ -12,8 +12,8 @@ kt: 5833
 
 ---
 
-# Choosing the Right Profile Merge Rule
+# Choosing the Right [!UICONTROL Profile Merge Rule]
 
-In this video, discover three of the most common use cases for Profile Merge Rules, and how they can help your marketing efforts.
+In this video, discover three of the most common use cases for [!UICONTROL Profile Merge Rules], and how they can help your marketing efforts.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)

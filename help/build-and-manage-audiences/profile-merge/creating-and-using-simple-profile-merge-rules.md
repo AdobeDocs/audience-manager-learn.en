@@ -12,7 +12,7 @@ kt: 5356
 
 ---
 
-# Creating and Using Simple Profile Merge Rules
+# Creating and Using Simple [!UICONTROL Profile Merge Rules]
 
 Learn about profile merge rules and how to assign them to segments. Learn about the default "Current Device" profile and when it can/should be used.
 
