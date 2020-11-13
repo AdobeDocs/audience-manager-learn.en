@@ -1,6 +1,6 @@
 ---
 title: Increase ROAS by Using Algorithmic (Look-Alike) Models in Audience Manager
-description: The real power of Audience Manager's Look-alike Modeling comes when you seek to expand your baseline audience against a quality, brand new set of users from 2nd and 3rd party data sources. In this tutorial, learn the steps needed to create a model from this data.
+description: The real power of Audience Manager's Look-alike Modeling comes when you seek to expand your baseline audience against a quality, brand new set of users from 2nd and 3rd party data sources. In this tutorial, learn the steps create a model from this data.
 feature: algorithmic models
 topics: 
 audience: all
@@ -54,4 +54,4 @@ Next, we will need to create an Algorithmic [!UICONTROL Trait], so that the resu
 
 Once you have created an Algorithmic [!UICONTROL Trait], you can create a new [!UICONTROL segment] to put it in, so that you can activate the data (you cannot activate a [!UICONTROL trait], but rather create a new one-[!UICONTROL trait] [!UICONTROL segment] with the Algorithmic [!UICONTROL Trait] in it, so that you can activate (use) the [!UICONTROL segment]).
 
-Once you have created a [!UICONTROL segment] from this Algorithmic [!UICONTROL trait], you will have an audience of potential clients who look like people that have already converted on your site. Now you can map this [!UICONTROL segment] to any of your DSP [!UICONTROL destinations] in Audience Manager, and you will be able to target your marketing to those look-alikes, who are more likely to convert on your site than just the normal public, increasing your Return on Ad Spend. Good luck!
+Once you have created a [!UICONTROL segment] from this Algorithmic [!UICONTROL trait], you will have an audience of potential clients who look like people that have already converted on your site. Now you can map this [!UICONTROL segment] to any of your DSP [!UICONTROL destinations] in Audience Manager. You will be able to target your marketing to those look-alikes, who are more likely to convert on your site than just the normal public, increasing your Return on Ad Spend. Good luck!

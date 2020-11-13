@@ -79,8 +79,8 @@ solution: Audience Manager
     + [Understanding Numbers in the Segment Graph](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
     + [Customer Tips - Traits and Segments Best Practices](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
   + Algorithmic Models {#algorithmic-models}
-    + [Understanding Predictive Audiences](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-    + [Configure and Report on Predictive Audiences](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+    + [Understanding [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+    + [Configure and Report on [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
     + [Creating a First Party Look-Alike Model](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
     + [Excluding Traits in Algorithmic (Look-Alike) Models](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
     + [Increase ROAS by Using Algorithmic (Look-Alike) Models](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)

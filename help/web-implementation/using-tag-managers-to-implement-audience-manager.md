@@ -14,6 +14,7 @@ kt: 4051
 # Using Tag Managers to Implement Audience Manager
 
 In this video you will learn the basics of implementing Adobe Audience Manager when using a tag management solution.
+
 Highlighted are the following use cases:
 
 * Implementing via Adobe Experience Platform Launch when you are also using Adobe Analytics
