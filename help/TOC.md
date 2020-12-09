@@ -18,6 +18,8 @@ solution: Audience Manager
 + Setup and Admin {#setup-and-admin}
   + Data Sources {#data-sources}
     + [Create a Data Source for Analytics Data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+  + User Management {#user-management}
+    + [Setting Permissions with Role-Based Access Control](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
   + Data Governance and Privacy {#data-governance-and-privacy}
     + [Global Device ID Validation](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
     + [IAB TCF 2.0 Support](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
