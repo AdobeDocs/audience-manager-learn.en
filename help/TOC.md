@@ -60,6 +60,7 @@ solution: Audience Manager
     + [Creating Onboarded Traits](build-and-manage-audiences/traits-and-segments/creating-onboarded-traits.md)
     + [Creating Conversion Traits](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
     + [Choosing a Data Source when Creating Traits](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.md)
+    + [Configuring Trait Expiration with the Time to Live (TTL) Setting](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
     + [Using Code View to Create and Edit Traits](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
     + [Introduction to Bulk Management (BAAAM)](build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.md)
     + [The Basics of Creating Segments](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
