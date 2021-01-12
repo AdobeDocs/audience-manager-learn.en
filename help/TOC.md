@@ -107,6 +107,7 @@ solution: Audience Manager
     + [Understanding Audience Manager Destination Types](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
     + [Understanding Match Rates](data-activation/destinations-basics/understanding-match-rates.md)
     + [Understanding the Match Rate Interface](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
+    + [Using Data Export Labels to Control Data Flow](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
   + Audience Lab {#audience-lab}
     + [Using Audience Lab to Choose a DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
     + [Creating Conversion Traits](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
@@ -125,6 +126,8 @@ solution: Audience Manager
 + Reports {#reports}
   + [Using General Reports with Traits and Segments](reports/using-general-reports-with-traits-and-segments.md)
   + [Using Trended Reports with Traits and Segments](reports/using-trended-reports-with-traits-and-segments.md)
+  + [Understand Related Audiences with Overlap Reports](reports/understand-related-audiences-with-overlap-reports.md)
+  + [Using Audience Optimization Reports to Understand Media Performance](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Other Integrations {#other-integrations}
   + Integrating with Ad Cloud {#integrating-with-ad-cloud}
     + [Adobe Advertising Cloud and Adobe Audience Manager Integration](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
