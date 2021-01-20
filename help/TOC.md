@@ -66,6 +66,7 @@ solution: Audience Manager
     + [Configuring Trait Expiration with the Time to Live (TTL) Setting](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
     + [Using Code View to Create and Edit Traits](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
     + [Introduction to Bulk Management (BAAAM)](build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.md)
+    + [Creating and Managing Traits in Bulk with BAAAM](build-and-manage-audiences/traits-and-segments/creating-and-managing-traits-in-bulk-with-baaam.md)
     + [The Basics of Creating Segments](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
     + [Creating a Segment Taxonomy](build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.md)
     + [Practical Segment Definition and Creation](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
