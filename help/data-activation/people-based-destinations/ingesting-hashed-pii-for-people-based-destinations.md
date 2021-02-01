@@ -7,6 +7,7 @@ audience: all
 activity: setup
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 29122.jpg
 kt: 3341
 
 ---

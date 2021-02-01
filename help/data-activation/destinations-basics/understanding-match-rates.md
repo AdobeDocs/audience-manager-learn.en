@@ -7,6 +7,7 @@ audience: all
 activity: understand
 doc-type: presentation
 team: Experience League
+thumbnail: 29830.jpg
 kt: 4033
 
 ---
