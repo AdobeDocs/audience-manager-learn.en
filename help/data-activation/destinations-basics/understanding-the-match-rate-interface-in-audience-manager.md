@@ -7,6 +7,7 @@ audience: all
 activity: understand
 doc-type: feature video
 team: Experience League
+thumbnail: 29831.jpg
 kt: 4034
 
 ---

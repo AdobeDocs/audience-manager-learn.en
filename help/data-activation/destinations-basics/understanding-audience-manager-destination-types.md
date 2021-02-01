@@ -7,6 +7,7 @@ audience: all
 activity: understand
 doc-type: presentation
 team: Technical Marketing
+thumbnail: 29839.jpg
 kt: 4016
 
 ---
