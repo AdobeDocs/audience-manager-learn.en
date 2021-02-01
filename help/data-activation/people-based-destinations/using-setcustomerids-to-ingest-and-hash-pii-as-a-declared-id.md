@@ -7,6 +7,7 @@ audience: implementer, developer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 29136.jpg
 kt: 3689
 
 ---
