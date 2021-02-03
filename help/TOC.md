@@ -21,6 +21,7 @@ solution: Audience Manager
 + Setup and Admin {#setup-and-admin}
   + Data Sources {#data-sources}
     + [Create a Data Source for Analytics Data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+    + [Creating a Cross Device Data Source and Authenticating](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
   + User Management {#user-management}
     + [Setting Permissions with Role-Based Access Control](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
   + Data Governance and Privacy {#data-governance-and-privacy}
@@ -39,6 +40,9 @@ solution: Audience Manager
   + [Using Tag Managers to Implement Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
   + [How to identify your Partner ID or Subdomain](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
   + [Using best practices on SPA pages](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
++ Integrating Offline Data {#integrating-offline-data}
+  + [Formatting and Ingesting File-based Data](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+  + [Steps for Ingesting File-Based Data](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobile Implementation {#mobile-implementation}
   + [Implement in iOS Swift Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
   + [Implement in iOS Objective-C Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
