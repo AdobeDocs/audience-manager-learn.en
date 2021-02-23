@@ -49,6 +49,8 @@ solution: Audience Manager
     + [Reporting 2nd and 3rd Party Data Usage in Audience Marketplace at the Segment Level](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
     + [Bulk Uploading Data Usage into Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
     + [Using Filters and Recommendations to Choose 3rd Party Data in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+  + Selling Data {#selling-data}
+    + [Commercialize owned audiences on Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Build and Manage Audiences {#build-and-manage-audiences}
   + Data Explorer {#data-explorer}
     + [Using the Signals Dashboard to Quickly View Top Available Signals](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
@@ -132,6 +134,10 @@ solution: Audience Manager
   + [Understand Related Audiences with Overlap Reports](reports/understand-related-audiences-with-overlap-reports.md)
   + [Using Audience Optimization Reports to Understand Media Performance](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Other Integrations {#other-integrations}
+  + Integrating with Real-time Customer Data Platform {#integrating-with-rtcdp}
+    + [Ingest data using the Adobe Audience Manager data connector](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+    + [Understanding 1st Party Data Ingestion in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
+    + [Understanding Web Data Ingestion in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
   + Integrating with Ad Cloud {#integrating-with-ad-cloud}
     + [Adobe Advertising Cloud and Adobe Audience Manager Integration](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
