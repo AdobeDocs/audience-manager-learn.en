@@ -7,6 +7,7 @@ audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28976.jpg
 kt: 3710
 
 ---
