@@ -1,14 +1,15 @@
 ---
 title: Using Data Explorer to Create Retroactive Traits and Segments
 description: This video shows how to create retroactive traits, i.e. traits that backfill data into the trait from before it was created. This is a great breakthrough in your trait creation!
-feature: data explorer
+feature: Data Explorer
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Using [!DNL Data Explorer] to Create Retroactive [!UICONTROL Traits] and [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}

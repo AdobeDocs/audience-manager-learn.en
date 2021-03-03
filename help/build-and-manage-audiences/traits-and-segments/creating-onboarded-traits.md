@@ -1,15 +1,16 @@
 ---
 title: Creating Onboarded Traits
 description: Learn tips for creating onboarded traits in Audience Manager.
-feature: traits
+feature: Traits
 topics: 
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40267.jpg
 kt: 6215
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Creating Onboarded Traits

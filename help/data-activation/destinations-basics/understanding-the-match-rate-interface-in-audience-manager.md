@@ -1,15 +1,16 @@
 ---
 title: Understanding the Match Rate Interface in Audience Manager
 description: This video walks you through the destination interface, showing and explaining the numbers associated with match rates and addressable audiences.
-feature: match rates
+feature: Match Rates
 topics: 
-audience: all
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
 
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Understanding the Match Rate Interface in Audience Manager

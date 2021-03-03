@@ -1,14 +1,15 @@
 ---
 title: People-Based Destinations Videos and Tutorials
 description: This section contains videos and tutorials for topics regarding People-Based Destinations.
-feature: people-based destinations
+feature: "People-based Destinations"
 topics: 
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
 
+role: Administrator
+level: Beginner
 ---
 
 # [!UICONTROL People-Based Destinations] Videos and Tutorials

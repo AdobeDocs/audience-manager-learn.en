@@ -1,15 +1,16 @@
 ---
 title: People-Based Destinations Data Flow
 description: This video gives an overview of People-Based Destinations and shows the data flow through the process.
-feature: people-based destinations
+feature: "People-based Destinations"
 topics: 
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28968.jpg
 kt: 3683
 
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # [!UICONTROL People-Based Destinations] Data Flow

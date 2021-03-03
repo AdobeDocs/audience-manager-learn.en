@@ -1,14 +1,15 @@
 ---
 title: Using Data Explorer to Search for Used and Unused Key/Value Pairs in AAM
 description: In day-to-day work in Audience Manager, you might need to quickly find out if a trait has been created from a specific key/value pair. This video shows you how to find out with Data Explorer.
-feature: data explorer
+feature: Data Explorer
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Using [!DNL Data Explorer] to Search for Used and Unused Key/Value Pairs in AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
