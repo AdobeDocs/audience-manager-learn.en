@@ -1,14 +1,15 @@
 ---
 title: Using Look-Alike Models to Extend Sold Out Inventory from Your First Party Data
 description: In this tutorial, we will walk through the steps you should take to set up and use Look-Alike Models, so that you can create new look-alike audiences, and sell them as an extension to your conversion segment.
-feature: algorithmic models
+feature: Algorithmic Models
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 ---
 
 # Using Look-Alike [!UICONTROL Models] to Extend Sold Out Inventory from Your [!UICONTROL First Party] Data {#using-look-alike-models-to-extend-sold-out-inventory-from-your-st-party-data}

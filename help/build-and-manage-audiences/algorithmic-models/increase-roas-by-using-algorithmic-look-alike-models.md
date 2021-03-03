@@ -1,14 +1,15 @@
 ---
 title: Increase ROAS by Using Algorithmic (Look-Alike) Models in Audience Manager
 description: The real power of Audience Manager's Look-alike Modeling comes when you seek to expand your baseline audience against a quality, brand new set of users from 2nd and 3rd party data sources. In this tutorial, learn the steps create a model from this data.
-feature: algorithmic models
+feature: Algorithmic Models
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 ---
 
 # Increase ROAS by Using Algorithmic (Look-Alike) [!UICONTROL Models] in Audience Manager {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}

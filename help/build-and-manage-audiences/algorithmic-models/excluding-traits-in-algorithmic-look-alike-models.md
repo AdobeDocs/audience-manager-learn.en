@@ -1,14 +1,15 @@
 ---
 title: Excluding Traits in Algorithmic (Look-Alike) Models
 description: In this video you will learn how and why to exclude specific (or groups of) traits from an Algorithmic (Look-Alike) Model. 
-feature: algorithmic models
+feature: Algorithmic Models
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 ---
 
 # Excluding [!UICONTROL Traits] in Algorithmic (Look-Alike) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}

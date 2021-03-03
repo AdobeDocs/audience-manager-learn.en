@@ -1,15 +1,16 @@
 ---
 title: Configuring Profile Merge Rules for People-Based Destinations
 description: In this video, learn about how to set up a Profile Merge Rule to be used for People-Based Destinations, including when to use a brand new cross-device option.
-feature: people-based destinations
+feature: "People-based Destinations"
 topics: 
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29076.jpg
 kt: 3342
 
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Configuring [!UICONTROL Profile Merge Rules] for [!UICONTROL People-Based Destinations]

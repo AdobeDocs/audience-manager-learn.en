@@ -1,15 +1,17 @@
 ---
 title: Audience Manager - Overview of a DMP
 description: Understand the key challenges with cross channel personalization and how Adobe Audience Manager powers the customer journey. Also learn which data types can be on-boarded in Audience Manager and identify the ad-tech eco-system partners integrated with Audience Manager.
-feature: overview
+feature: Overview
 topics: 
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5106
 thumbnail: 33894.jpg
 
+topic: Architecture
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Audience Manager - Overview of a DMP
