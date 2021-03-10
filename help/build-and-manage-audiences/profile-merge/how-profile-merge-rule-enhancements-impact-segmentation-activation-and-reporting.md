@@ -1,15 +1,16 @@
 ---
 title: How Profile Merge Rule Enhancements Impact Segmentation, Activation, and Reporting
 description: Understanding how Profile Merge Rule Enhancements will impact Total Trait and Segment Populations in the Audience Manager UI
-feature: profile merge
+feature: Profile Merge
 topics: 
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28972.jpg
 kt: 3693
 
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 ---
 
 # How [!UICONTROL Profile Merge Rule] Enhancements Impact [!UICONTROL Segmentation], Activation, and Reporting

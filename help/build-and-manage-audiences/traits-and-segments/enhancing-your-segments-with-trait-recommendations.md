@@ -1,14 +1,15 @@
 ---
 title: Enhancing your AAM Segments with Trait Recommendations
 description: With Trait Recommendations, when you build or edit a segment in Segment Builder, you get recommendations on additional traits you can include, that are similar to the traits in the segment rule.
-feature: segments
+feature: Segments
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 26228.jpg
 kt: 2431
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Enhancing your AAM [!UICONTROL Segments] with [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}

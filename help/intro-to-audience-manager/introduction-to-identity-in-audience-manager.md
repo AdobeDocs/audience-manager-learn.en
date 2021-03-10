@@ -1,15 +1,16 @@
 ---
 title: Introduction to Identity in Audience Manager
 description: In this video, you will learn how Adobe Audience Manager manages identity, including internal profiles and profile merging as well as ID syncing with partners.
-feature: id syncs
+landing-page-description: Learn how Audience Manager manages identity, including internal profiles and profile merging as well as ID syncing with partners.
+feature: ID Syncs
 topics: 
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5146
 thumbnail: 34172.jpg
-
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Introduction to Identity in Audience Manager

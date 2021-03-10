@@ -1,15 +1,16 @@
 ---
 title: Using Code View when Building Segments
 description: Learn how to use code view to define segments, allowing you to create complex trait combinations, including using recency and frequency.
-feature: segments
+feature: Segments
 topics: 
-audience: marketer
 activity: use
 doc-type: feature video
 team: ACS
 thumbnail: 38035.jpg
 kt: 5983
 
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Using Code View when Building Segments

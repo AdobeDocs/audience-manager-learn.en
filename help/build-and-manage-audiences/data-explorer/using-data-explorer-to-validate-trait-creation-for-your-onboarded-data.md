@@ -1,14 +1,15 @@
 ---
 title: Using Data Explorer to Validate Trait Creation for Your Onboarded Data 
 description: One of the most powerful features of Audience Manager is the ability to onboard offline data and tie it together with your online data. In this video, learn how to use Data Explorer to validate that you have created all the necessary traits to leverage this onboarded data.
-feature: data explorer
+feature: Data Explorer
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Using [!DNL Data Explorer] to Validate [!UICONTROL Trait] Creation for Your Onboarded Data {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}

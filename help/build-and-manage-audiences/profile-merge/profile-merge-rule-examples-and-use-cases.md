@@ -1,15 +1,16 @@
 ---
 title: Profile Merge Rule Examples and Use Cases
 description: In this video you will see examples of Profile Merge Rules and what they mean, as well as the use cases that Profile Merge Rules solve for.
-feature: profile merge
+feature: Profile Merge
 topics: 
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28975.jpg
 kt: 3709
 
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # [!UICONTROL Profile Merge Rule] Examples and Use Cases

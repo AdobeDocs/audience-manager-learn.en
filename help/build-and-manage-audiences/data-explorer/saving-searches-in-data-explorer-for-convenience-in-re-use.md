@@ -1,15 +1,16 @@
 ---
 title: Saving Searches in Data Explorer for Convenience in Re-use
 description: In this video you will learn how to configure a search in Data Explorer, run it, and then save it for re-use at a later time. you can also place the saved search on the dashboard so that it is immediately available when you go into the Signals app.
-feature: data explorer
+feature: Data Explorer
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Saving Searches in [!DNL Data Explorer] for Convenience in Re-use {#saving-searches-in-data-explorer-for-convenience-in-re-use}

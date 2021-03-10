@@ -1,15 +1,16 @@
 ---
 title: Using Trended Reports with Traits and Segments
 description: Learn how to use the trended reports in Audience Manager to see how traits and segments are performing over time.
-feature: general & trend reports
+feature: "General & Trend Reports"
 topics: 
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328280.jpg
 kt: 6646
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Using Trended Reports with Traits and Segments

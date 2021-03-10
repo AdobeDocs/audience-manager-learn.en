@@ -2,13 +2,14 @@
 title: Migrating from Tracking Server to Report Suite-Level Server-Side Forwarding
 description: This article and video will show you how to enable server-side forwarding of Analytics Data to Audience Manager at a report suite level instead of at a tracking server level.
 product: audience manager, analytics
-feature: integration with analytics
+feature: Adobe Analytics Integration
 topics: 
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
+role: "Developer, Data Engineer"
+level: Intermediate
 ---
 
 # Migrating from [!UICONTROL Tracking Server] to [!UICONTROL Report Suite]-Level [!UICONTROL Server-Side Forwarding] {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}

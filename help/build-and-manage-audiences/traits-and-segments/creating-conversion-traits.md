@@ -1,14 +1,15 @@
 ---
 title: Creating Conversion Traits in Audience Manager
 description: Some of your traits are based on conversions on your site. In this video, learn how to designate them as such, and learn a very important tip/gotcha.
-feature: traits
+feature: Traits
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
+role: Business Practitioner
+level: Beginner
 ---
 
 # Creating Conversion [!UICONTROL Traits] in Audience Manager {#creating-conversion-traits-in-audience-manager}

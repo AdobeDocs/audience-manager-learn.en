@@ -1,15 +1,16 @@
 ---
 title: Configuring Trait Expiration with the Time to Live (TTL) Setting
 description: One of the settings when creating traits is the "TTL" or Time to Live setting, which is an expiration of membership in the trait if you don't requalify within the specified period of time. This video shows how to see and set this feature.
-feature: traits
+feature: Traits
 topics: 
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329381.jpg
 kt: 6782
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Configuring Trait Expiration with the Time to Live (TTL) Setting

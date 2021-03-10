@@ -1,15 +1,16 @@
 ---
 title: Profile Merge Rule Enhancements - Pre-Requisites
 description: An overview of how to best prepare for the release of Profile Merge Rule Enhancements.
-feature: profile merge
+feature: Profile Merge
 topics: 
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28971.jpg
 kt: 3692
 
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # [!UICONTROL Profile Merge Rule] Enhancements - Pre-Requisites

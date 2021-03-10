@@ -1,15 +1,16 @@
 ---
 title: Formatting and Ingesting File-based Data
 description: When bringing your 1st Party into Audience Manager to better understand and target your customer, there are certain formatting requirements for the data. This video goes over some of the main options and shows you where to get more information.
-feature: onboarding offline data
+feature: Onboarding Offline Data
 topics: 
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Formatting and Ingesting File-based Data

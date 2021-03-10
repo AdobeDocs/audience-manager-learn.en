@@ -1,14 +1,15 @@
 ---
 title: Profile Merge Videos and Tutorials
 description: This section contains videos and tutorials for Profile Merge features, like Profile Merge Rules.
-feature: profile merge
+feature: Profile Merge
 topics: 
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 
 
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 ---
 
 # [!UICONTROL Profile Merge] - Videos and Tutorials

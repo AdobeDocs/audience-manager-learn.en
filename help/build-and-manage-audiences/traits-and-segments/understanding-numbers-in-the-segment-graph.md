@@ -1,15 +1,16 @@
 ---
 title: Understanding Numbers in the Segment Graph
 description: Learn about the numbers that show in the graph of the segment info screen.
-feature: segments
+feature: Segments
 topics: 
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 38041.jpg
 kt: 5936
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Understanding Numbers in the Segment Graph

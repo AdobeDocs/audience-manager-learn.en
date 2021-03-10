@@ -1,15 +1,16 @@
 ---
 title: Understanding and Configuring the LinkedIn People-Based Destination
 description: This video walks you through the concepts and steps to create a People-Based Destination to LinkedIn. It builds on the additional videos and documentation regarding People-Based Destinations.
-feature: people-based destinations
+feature: "People-based Destinations"
 topics: 
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Understanding and Configuring the [!DNL LinkedIn] [!UICONTROL People-Based Destination]

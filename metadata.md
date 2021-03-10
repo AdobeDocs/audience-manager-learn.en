@@ -1,6 +1,8 @@
 ---
 cloud: experience-cloud
 product: audience manager
+type: Tutorial
+feature-set: Audience Manager
 solution-title: Audience Manager
 solution-hub-url: https://helpx.adobe.com/support/audience-manager.html
 solution-image: assets/aam-icon-24.png

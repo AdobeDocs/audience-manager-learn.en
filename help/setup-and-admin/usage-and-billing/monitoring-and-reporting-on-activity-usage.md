@@ -1,14 +1,16 @@
 ---
 title: Monitoring and Reporting on Activity Usage
 description: In this video, we will walk through how to use the Activity Usage Report, including display and download options.
-feature: usage and billing
+feature: Usage and Billing
 topics: 
-audience: administrator, implementer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
 
+topic: Administration
+role: "Developer, Data Engineer, Administrator"
+level: Beginner
 ---
 
 # Monitoring and Reporting on Activity Usage

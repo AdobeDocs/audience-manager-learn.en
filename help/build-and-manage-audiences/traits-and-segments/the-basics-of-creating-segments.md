@@ -1,15 +1,16 @@
 ---
 title: The Basics of Creating Segments
 description: Walk through the fields in the UI to create a segment in Audience Manager.
-feature: segments
+feature: Segments
 topics: 
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37056.jpg
 kt: 5820
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # The Basics of Creating Segments

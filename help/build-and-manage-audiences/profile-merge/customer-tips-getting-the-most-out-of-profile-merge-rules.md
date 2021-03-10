@@ -1,15 +1,16 @@
 ---
 title: Customer Tips - Getting the most out of Profile Merge Rules
 description: Varun Kalra, Multi-Solution Consultant at Accordant, gives tips on choosing and using Profile Merge Rules (PMRs).
-feature: profile merge
+feature: Profile Merge
 topics: 
-audience: analyst
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Customer Tips - Getting the most out of Profile Merge Rules

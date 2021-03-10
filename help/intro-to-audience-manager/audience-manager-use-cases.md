@@ -1,15 +1,16 @@
 ---
 title: Audience Manager Use Cases
 description: In this video we identify four common Audience Manager use cases, and describe the best practices associated with them.
-feature: overview
+feature: Overview
 topics: 
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5145
 thumbnail: 33975.jpg
 
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 ---
 
 # Audience Manager Use Cases

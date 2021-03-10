@@ -1,14 +1,15 @@
 ---
 title: Reporting 2nd and 3rd Party Data Usage in Audience Marketplace at the Segment Level
 description: This video shows a new method of reporting data usage within the Payables section of the Audience Marketplace UI. In addition to the existing process of feed-level reporting, monthly impressions can now be submitted at the segment level, which eliminates the need for offline calculations for cost attribution.
-feature: audience marketplace
+feature: Audience Marketplace
 topics: 
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25522.jpg
 kt: 1758
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 ---
 
 # Reporting [!UICONTROL Second Party] and [!UICONTROL Third Party] Data Usage in [!UICONTROL Audience Marketplace] at the [!UICONTROL Segment] Level {#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}
