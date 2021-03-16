@@ -150,6 +150,7 @@ solution: Audience Manager
     + [Understanding Signals in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
     + [Understanding Segments in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
     + [Understanding Access Control in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
+    + [Understanding Data Governance in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
   + Integrating with Ad Cloud {#integrating-with-ad-cloud}
     + [Adobe Advertising Cloud and Adobe Audience Manager Integration](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
