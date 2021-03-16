@@ -18,6 +18,10 @@ solution: Audience Manager
   + [Introduction to Identity in Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
   + Value Realization {#value-realization}
     + [Measuring ROI in a Customer Suppression Use Case](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
++ Industry News and Trends {#industry}
+  + [The Future of Data Management and the Changing Environment](industry/the-future-of-data-management-and-the-changing-environment.md)
+  + [10 considerations for Responsible Customer Data Management](industry/ten-considerations-for-responsible-customer-data-management.md)
+  + [A Tale of Two Perceptions - Brands vs. Consumers](industry/brands-vs-consumers.md)
 + Setup and Admin {#setup-and-admin}
   + Data Sources {#data-sources}
     + [Create a Data Source for Analytics Data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
