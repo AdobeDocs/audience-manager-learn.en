@@ -10,8 +10,7 @@ thumbnail: 23431.jpg
 kt: 1804
 role: Business Practitioner
 level: Beginner
-exl-id: b5156c96-555e-4608-8920-9b7221b1d383
-exl-id: 52b489bf-6c11-4c5c-8f29-4513a167f7b8
+exl-id: b5156c96-555e-4608-8920-9b7221b1d383,52b489bf-6c11-4c5c-8f29-4513a167f7b8
 ---
 # Creating Conversion [!UICONTROL Traits] in Audience Manager {#creating-conversion-traits-in-audience-manager}
 
