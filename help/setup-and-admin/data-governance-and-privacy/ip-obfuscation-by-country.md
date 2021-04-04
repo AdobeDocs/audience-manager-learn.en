@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2866
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: 103643ff-c006-4111-b469-901271faaf9d
 ---
-
 # IP Obfuscation by Country in Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
 Audience Manager provides self-serve capability in the UI to enable customers to turn on IP obfuscation globally or by country. This video walks you through the setup.

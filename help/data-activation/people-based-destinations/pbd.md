@@ -10,8 +10,8 @@ kt: 5207
 
 role: Administrator
 level: Beginner
+exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
 ---
-
 # [!UICONTROL People-Based Destinations] Videos and Tutorials
 
 [!UICONTROL People-Based Destinations] enable you to apply segmentation on online and offline data to create audience segments based on hashed identifiers, such as email addresses or phone numbers. Then, you can send these segments to social platforms such as [!DNL Facebook] or [!DNL LinkedIn], where you can target your audience.

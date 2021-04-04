@@ -10,8 +10,8 @@ thumbnail: 25169.jpg
 kt: 1762
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 1bb40810-dca9-475f-a312-6e2c1be8149c
 ---
-
 # Using [!DNL Data Explorer] to Create Retroactive [!UICONTROL Traits] and [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
 This video shows how to create retroactive [!UICONTROL traits], i.e. [!UICONTROL traits] that backfill data into the [!UICONTROL trait] from before it was created. This is a great breakthrough in your [!UICONTROL trait] creation!

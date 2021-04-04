@@ -10,8 +10,8 @@ team: Technical Marketing
 kt: 1778
 role: "Developer, Data Engineer"
 level: Intermediate
+exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 ---
-
 # Migrating Your Site's AAM Implementation from [!DNL Client-Side] DIL to [!DNL Server-Side Forwarding] {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
 This tutorial applies to you if you have both Adobe Audience Manager (AAM) and Adobe Analytics, and you are currently sending a hit from the page to AAM using “DIL” ([!DNL Data Integration Library]) code, and also sending a hit from the page to Adobe Analytics. Since you have both of these solutions, and since they are both part of the Adobe Experience Cloud, you have the opportunity to follow the best practice of turning on “[!DNL Server-Side Forwarding] (SSF),” which enables the [!DNL Analytics] data collection servers to forward site analytics data in real time to Audience Manager, instead of having [!DNL client-side] code send an additional hit from the page to AAM. This tutorial will walk you through the steps of making the switch from the older “[!DNL Client-Side DIL]” implementation to the newer “[!DNL Server-Side forwarding]” method.

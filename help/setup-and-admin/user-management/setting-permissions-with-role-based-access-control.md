@@ -12,8 +12,8 @@ kt: 6737
 topic: Administration
 role: Administrator
 level: Intermediate
+exl-id: decfe5fc-cec7-4f0a-875d-8a5f8d9c9ed6
 ---
-
 # Setting Permissions with [!DNL Role-Based Access Control]
 
 Adobe Audience Manager's [!DNL Role-Based Access Control] allows you to manage permissions at a group level, controlling who gets to see and work with assets, including traits, segments, destinations, and models. Learn how to set up the permission groups and add users to them.

@@ -11,8 +11,8 @@ kt: 3937
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
 ---
-
 # [!DNL Trait Recommendation] Enhancements in the [!DNL Segment Builder]
 
 In this video you will see how to use the updated [!DNL trait recommendations] in the [!DNL segment builder], which are Audience Marketplace recommendations. These will give you additional insight into [!DNL third party] data that can extend the reach of your [!UICONTROL segments].

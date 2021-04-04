@@ -11,8 +11,8 @@ kt: 5971
 
 role: Developer
 level: Experienced
+exl-id: d1f4d44d-22c8-46d8-a662-0ded13a8566d
 ---
-
 # Retrieve API Credentials in Adobe I/O
 
 Instead of contacting Adobe Consulting or Customer Care for credentials for using the REST API, you can simply go to Adobe.io in a browser and retrieve or register your own credentials.

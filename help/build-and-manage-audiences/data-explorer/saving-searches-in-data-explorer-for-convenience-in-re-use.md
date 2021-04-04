@@ -11,8 +11,8 @@ thumbnail: 25147.jpg
 kt: 1763
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
 ---
-
 # Saving Searches in [!DNL Data Explorer] for Convenience in Re-use {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
 In this video you will learn how to configure a search in [!DNL Data Explorer], run it, and then save it for re-use at a later time. you can also place the saved search on the dashboard so that it is immediately available when you go into the [!UICONTROL Signals] app.

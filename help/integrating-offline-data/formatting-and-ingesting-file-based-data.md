@@ -11,8 +11,8 @@ kt: 7026
 
 role: Business Practitioner
 level: Beginner
+exl-id: a9515255-8e3e-4fb8-b467-be68a56c412b
 ---
-
 # Formatting and Ingesting File-based Data
 
 When bringing your 1st Party into Audience Manager to better understand and target your customer, there are certain formatting requirements for the data. This video goes over some of the main options and shows you where to get more information.

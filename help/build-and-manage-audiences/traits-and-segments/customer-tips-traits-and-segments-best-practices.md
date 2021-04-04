@@ -11,8 +11,8 @@ kt: 6048
 
 role: Business Practitioner
 level: Beginner
+exl-id: 7001011a-c0e2-4879-89ad-e463dc9f5604
 ---
-
 # Customer Tips - Traits and Segments Best Practices
 
 **Matt Vittorioso**, Senior Marketing Specialist at **[!DNL Ally Financial]**, gives tips on managing traits and segments.

@@ -10,8 +10,8 @@ team: Technical Marketing
 kt: 2928
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 ---
-
 # Create a [!UICONTROL Data Source] for [!DNL Analytics] Data {#create-a-data-source-for-analytics-data}
 
 In this video we walk through the steps, including tips and tricks, of creating a [!UICONTROL Data Source] in AAM that you can use for data coming in live from an analytics solution, like Adobe Analytics. This should be done prior to creating [!UICONTROL traits] for the analytics data.

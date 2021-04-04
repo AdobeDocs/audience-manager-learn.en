@@ -11,8 +11,8 @@ kt: 5028
 
 role: Business Practitioner
 level: Beginner
+exl-id: 1cb80961-c3e2-4a33-a09c-f84cbfed19bd
 ---
-
 # Understanding and Configuring the [!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
 This video walks you through the concepts and steps to create a [!UICONTROL People-Based Destination] to [!DNL LinkedIn]. It builds on the additional videos and documentation regarding [!UICONTROL People-Based Destinations].

@@ -8,9 +8,8 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 331276.jpg
 kt: 7128
-
+exl-id: bdd8d9b2-92f9-4aa0-a0b7-5e3fb63196eb
 ---
-
 # Understanding 1st Party Data Ingestion in Real-time CDP for Audience Manager Users
 
 This video discusses 1st-party offline data ingestion into Real-time Customer Data Platform (Real-time CDP) for those who have been using Adobe Audience Manager. We look at some of the main differences between the two products regarding data ingestion and shows how the Audience Manager Data Connector can be used as a stop gap until processes have been moved over to Real-time CDP.

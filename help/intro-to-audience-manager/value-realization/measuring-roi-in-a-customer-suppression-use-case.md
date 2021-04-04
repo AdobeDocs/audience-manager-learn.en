@@ -11,8 +11,8 @@ kt: 5806
 
 role: Business Practitioner
 level: Intermediate
+exl-id: 62d995d7-e216-4df9-b19d-d8e4a4f34b3a
 ---
-
 # Measuring ROI in a Customer Suppression Use Case
 
 A penny saved is a penny earned, right? Learn to use a couple of formulas to determine your campaign cost savings by suppressing ads to existing customers.

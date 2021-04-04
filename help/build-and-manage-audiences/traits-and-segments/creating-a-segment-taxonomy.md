@@ -11,8 +11,8 @@ kt: 5933
 
 role: Business Practitioner
 level: Beginner
+exl-id: aa00b640-0b52-4c11-9165-9d73c78e77bf
 ---
-
 # Creating a Segment Taxonomy
 
 When you create a segment in Audience Manager, you store them in a folder-based structure, or a "taxonomy." Learn a few tips for creating and managing the segment taxonomy.

@@ -8,9 +8,8 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337
-
+exl-id: 1d99c786-8d64-4877-a4e7-7026a5966d8c
 ---
-
 # Understanding Data Governance in Real-time CDP for Audience Manager Users
 
 This video walks Audience Manager users through the data governance functionality in Real-time Customer Data Platform, comparing it to what was available in Audience Manager. It discusses the Data Usage and Labeling Enforcement (DULE) framework and where in Platform that it can be applied.

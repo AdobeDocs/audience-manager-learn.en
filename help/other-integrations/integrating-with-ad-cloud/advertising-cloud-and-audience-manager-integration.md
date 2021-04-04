@@ -11,8 +11,8 @@ kt: 3072
 topic: Integrations
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: 92041f1c-6a05-4705-a56d-df5e9dbddac0
 ---
-
 # Adobe Advertising Cloud and Adobe Audience Manager Integration {#adobe-advertising-cloud-and-adobe-audience-manager-integration}
 
 Learn how the integration between Adobe Audience Manager and [!DNL Adobe Ad Cloud] works. Also get answers about match rates and [!UICONTROL third party] cookie-synching.

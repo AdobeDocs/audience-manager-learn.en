@@ -10,8 +10,8 @@ thumbnail: 26228.jpg
 kt: 2431
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
 ---
-
 # Enhancing your AAM [!UICONTROL Segments] with [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
 With [!DNL Trait Recommendations], when you build or edit a [!UICONTROL segment] in [!DNL Segment Builder], you get recommendations on additional [!UICONTROL traits] you can include, that are similar to the [!UICONTROL traits] in the [!UICONTROL segment] rule.

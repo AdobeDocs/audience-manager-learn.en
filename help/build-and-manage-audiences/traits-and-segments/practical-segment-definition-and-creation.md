@@ -11,8 +11,8 @@ kt: 5821
 
 role: Business Practitioner
 level: Beginner
+exl-id: f85b49b0-0919-44c6-8a53-1ffda3dd071c
 ---
-
 # Practical Segment Definition and Creation
 
 This video walks you through a process of defining your segments, and then breaking them down by the traits/signals that you will need to create them.

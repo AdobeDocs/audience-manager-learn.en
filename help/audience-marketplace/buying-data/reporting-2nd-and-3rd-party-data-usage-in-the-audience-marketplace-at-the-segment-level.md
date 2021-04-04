@@ -10,8 +10,8 @@ thumbnail: 25522.jpg
 kt: 1758
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: 4d7f4e67-095a-4708-9df3-8216df815810
 ---
-
 # Reporting [!UICONTROL Second Party] and [!UICONTROL Third Party] Data Usage in [!UICONTROL Audience Marketplace] at the [!UICONTROL Segment] Level {#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}
 
 This video shows a new method of reporting data usage within the [!UICONTROL Payables] section of the [!UICONTROL Audience Marketplace] UI. In addition to the existing process of feed-level reporting, monthly impressions can now be submitted at the [!UICONTROL segment] level, which eliminates the need for offline calculations for cost attribution.

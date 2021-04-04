@@ -10,8 +10,8 @@ thumbnail: 23504.jpg
 kt: 1805
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
 ---
-
 # Creating a [!UICONTROL First Party] Look-Alike [!UICONTROL Model] in AAM {#creating-a-first-party-look-alike-model-in-aam}
 
 In this video you will learn how to create a [!UICONTROL first party] look-alike [!UICONTROL model], so that you can find more of your own visitors who look like your converters.

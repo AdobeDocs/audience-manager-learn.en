@@ -10,8 +10,8 @@ kt: 4051
 
 role: "Developer, Data Engineer"
 level: Intermediate
+exl-id: 8559ff60-0755-4cbb-9f2c-d06ab37a64a4
 ---
-
 # Using Tag Managers to Implement Audience Manager
 
 In this video you will learn the basics of implementing Adobe Audience Manager when using a tag management solution.

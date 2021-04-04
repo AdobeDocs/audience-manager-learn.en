@@ -10,8 +10,8 @@ kt: 4025
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 7645804c-b0ff-4741-833f-7a3d7f2bb950
 ---
-
 # How a DMP can change your business
 
 [!DNL Data Management Platforms] are the talk of the tech world right now, but what are they and more importantly, how can they help you as marketers realize your goals?

@@ -11,8 +11,8 @@ kt: 5357
 
 role: Business Practitioner
 level: Intermediate
+exl-id: 189b751f-b71a-4579-8e2d-fc0d24e7e148
 ---
-
 # Using [!UICONTROL Profile Merge Rules] to Personalize in an Authenticated State
 
 Give your logged-in customers a personalized experience by using these Profile Merge Rule settings.

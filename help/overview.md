@@ -8,8 +8,8 @@ doc-type: overview
 team: Technical Marketing
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
 ---
-
 # Overview
 
 Welcome to the Audience Manager Tutorials Site.  Using these tutorials along with the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) will give you a better understanding how to use Adobe Audience Manager to create and activate audiences on any channel or device using Adobe's best-in-class [!DNL data management platform].

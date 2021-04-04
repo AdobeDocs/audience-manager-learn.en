@@ -11,8 +11,8 @@ kt: 7025
 
 role: Business Practitioner
 level: Intermediate
+exl-id: 467d0793-c08c-4165-9d4a-db9617db6e92
 ---
-
 # Creating a Cross Device Data Source and Authenticating
 
 When you want to bring your 1st party CRM data into Audience Manager to better target your customers, you need to first create a Cross Device Data Source to store the CRM IDs and data. This shows you how to do that and to set up the setCustomerIDs() method in Experience Platform Launch for logins.

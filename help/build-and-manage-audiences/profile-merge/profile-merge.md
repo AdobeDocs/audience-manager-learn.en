@@ -10,8 +10,8 @@ kt:
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
 ---
-
 # [!UICONTROL Profile Merge] - Videos and Tutorials
 
 With [!UICONTROL Profile Merge Rules] you get control over the data sets used for [!UICONTROL segmentation] and can target a person accurately across multiple devices.

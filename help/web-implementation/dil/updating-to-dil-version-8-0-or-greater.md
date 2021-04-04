@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 1841
 role: "Developer, Data Engineer"
 level: Intermediate
+exl-id: 8c1e6ed5-0f21-427b-a681-0ecb020a0e60
 ---
-
 # Updating to Adobe Audience Manager’s DIL version 8.0 (or greater) {#updating-to-adobe-audience-manager-s-dil-version-or-greater}
 
 This article will give you steps and recommendations on updating Adobe Audience Manager (AAM) [!DNL Data Integration Library] (DIL) code to version 8.0 or later. This is referring to “client-side” DIL implementation, not server-side forwarding of Adobe Analytics data, and will cover DTM, Launch by Adobe, and implementations with no Adobe tag manager solution.

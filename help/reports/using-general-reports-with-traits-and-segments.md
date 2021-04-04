@@ -11,8 +11,8 @@ kt: 6645
 
 role: Business Practitioner
 level: Beginner
+exl-id: 163ddd7b-e677-440c-92ca-53ac78e09f5a
 ---
-
 # Using General Reports with Traits and Segments
 
 In this video, see how to use the general reports in Audience Manager to get numbers for traits and segments.

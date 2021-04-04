@@ -10,8 +10,8 @@ kt: 1390
 topic: SPA
 role: "Developer, Data Engineer"
 level: Experienced
+exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
 ---
-
 # Using best practices on SPA pages when sending data to AAM {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
 In this document, we will describe several best practices that you should follow and be aware of as you are sending data from [!UICONTROL Single Page Applications] (SPA) to Adobe Audience Manager (AAM). This doc focuses on using [!UICONTROL Experience Platform Launch], which is the recommended implementation method.

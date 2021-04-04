@@ -10,8 +10,8 @@ thumbnail: 25150.jpg
 kt: 2142
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 82507055-0072-48fe-8031-225fb55351be
 ---
-
 # Using [!DNL Data Explorer] to Work with [!UICONTROL Signals] Coming from Adobe Analytics {#using-data-explorer-to-work-with-signals-coming-from-adobe-analytics}
 
 This video shows how to work in [!DNL Data Explorer] to discover and use your Adobe Analytics data, including searching for used and unused [!UICONTROL signals], creating [!DNL Analytics] [!UICONTROL traits], and understanding the data.

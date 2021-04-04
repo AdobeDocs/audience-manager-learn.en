@@ -11,8 +11,8 @@ kt: 6050
 
 role: Business Practitioner
 level: Beginner
+exl-id: bd1694b4-8c10-43ab-bb09-26f9de518326
 ---
-
 # Introduction to Bulk Management (BAAAM)
 
 Learn about the Audience Manager [!UICONTROL Bulk Management] tool, commonly referred to as "BAAAM." See how to authenticate so that you can use the BAAAM sheet to create, edit, and delete traits and segments via the REST API.

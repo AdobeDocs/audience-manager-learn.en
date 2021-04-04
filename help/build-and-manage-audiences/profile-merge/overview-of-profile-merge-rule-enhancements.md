@@ -11,8 +11,8 @@ kt: 3710
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: edad121e-fa6e-4ea8-b99a-6830dd51669a
 ---
-
 # Overview of [!UICONTROL Profile Merge Rule] Enhancements
 
 This video explains the enhancements to [!UICONTROL Profile Merge Rules], released in October 2019.

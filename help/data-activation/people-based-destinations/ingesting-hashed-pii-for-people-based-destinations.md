@@ -11,8 +11,8 @@ kt: 3341
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 9e042c20-ddca-4ead-824d-8bbcd718fab9
 ---
-
 # Ingesting Hashed PII for [!UICONTROL People-Based Destinations]
 
 In this video, learn how to format a file-based ID sync, in order to hook together your customer IDs (CRM IDs) with hashed email addresses. This will allow you to send the hashed email addresses to [!UICONTROL People-Based Destinations], like [!DNL Facebook].

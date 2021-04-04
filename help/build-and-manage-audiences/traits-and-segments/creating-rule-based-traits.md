@@ -12,8 +12,8 @@ kt: 5290
 
 role: Business Practitioner
 level: Beginner
+exl-id: 11f303c3-8ce1-4ab7-a621-5b42d475b234
 ---
-
 # Creating Rule-based Traits
 
 Learn how to use the [!UICONTROL Trait Builder] in the Audience Manager UI to create a rule-based trait, allowing you to capture real-time activity into Audience Manager profiles.

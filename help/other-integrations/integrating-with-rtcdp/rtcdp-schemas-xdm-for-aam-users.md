@@ -8,9 +8,8 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272
-
+exl-id: 5f9a54e0-1078-402d-ad31-b3da06274bb3
 ---
-
 # Understanding Schemas and XDM in Real-time CDP for Audience Manager Users
 
 As you move from Audience Manager to Real-time Customer Data Platform (Real-time CDP), you will encounter a few new concepts and practices. Schemas and XDM fall into that category. This video explains these concepts.

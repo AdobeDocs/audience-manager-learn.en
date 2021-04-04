@@ -11,8 +11,8 @@ kt: 3708
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: edabbd66-1ee0-4337-bf27-7f240e8156a8
 ---
-
 # Overview of [!UICONTROL Profile Merge Rules]
 
 Understand what [!UICONTROL Profile Merge Rules] are, how they work, and their value to the Marketer.

@@ -12,8 +12,8 @@ thumbnail: 33894.jpg
 topic: Architecture
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: cf0dbcb1-0d3c-4afd-b979-1c59a9849720
 ---
-
 # Audience Manager - Overview of a DMP
 
 Understand the key challenges with cross channel personalization and how Adobe Audience Manager powers the customer journey. Also learn which data types can be on-boarded in Audience Manager and identify the ad-tech eco-system partners integrated with Audience Manager.

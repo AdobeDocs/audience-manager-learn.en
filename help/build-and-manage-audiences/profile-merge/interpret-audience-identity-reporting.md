@@ -11,8 +11,8 @@ kt: 3694
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: 90183636-e205-420b-bbcf-899a779f53a7
 ---
-
 # Interpret [!DNL Audience Identity Reporting]
 
 [!DNL Audience Identity Reporting] provides customers with the ability to report on the total population of a [!UICONTROL trait] or [!UICONTROL segment] by person/household definitions of identity. Watch this video to see how it is manifested in the Audience Manager reports.

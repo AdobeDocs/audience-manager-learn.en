@@ -11,8 +11,8 @@ kt: 5804
 
 role: Business Practitioner
 level: Intermediate
+exl-id: e142b202-612e-4be1-88e4-4fb897238b86
 ---
-
 # Building a Segment to Suppress Ads to Customers
 
 When creating marketing campaigns, especially reach extension/audience extension campaigns, you may want to exclude your current customers, so that you can market to them in a different way. This video discusses options for creating segments to exclude those who have already converted to customer status.

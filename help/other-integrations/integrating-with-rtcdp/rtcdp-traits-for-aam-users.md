@@ -8,9 +8,8 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 331900.jpg
 kt: 7201
-
+exl-id: 24453651-2c3d-41a1-a659-759b227d43ac
 ---
-
 # Understanding Traits in Real-time CDP for Audience Manager Users
 
 As you move from Audience Manager to Real-time Customer Data Platform, it is helpful to understand the differences in concepts. This video addresses traits in Audience Manager and what the equivalent is in Real-time CDP.

@@ -11,8 +11,8 @@ kt: 4938
 
 role: Administrator
 level: Intermediate
+exl-id: 0d09e360-1bf2-4a65-be04-8abaf337c58a
 ---
-
 # Understanding [!UICONTROL Predictive Audiences] in Audience Manager
 
 In this video, we will discuss what Audience Manager [!UICONTROL Predictive Audiences] are, present details about how they work, and point out use cases.

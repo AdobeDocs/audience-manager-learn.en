@@ -10,8 +10,8 @@ thumbnail: 25148.jpg
 kt: 1760
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 3a9b135f-033f-4beb-a4f8-65df1b34e9f9
 ---
-
 # Using [!DNL Data Explorer] to Search for Used and Unused Key/Value Pairs in AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
 In day-to-day work in Audience Manager, you might need to quickly find out if a [!UICONTROL trait] has been created from a specific key/value pair. This video shows you how to find out with [!DNL Data Explorer].

@@ -11,8 +11,8 @@ kt: 3938
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: b59c82a0-4dd5-44d7-8309-aded26dd494e
 ---
-
 # Using Filters and Recommendations to Choose [!UICONTROL Third Party] Data in [!UICONTROL Audience Marketplace]
 
 This video walks through the filters and recommendations options in the [!UICONTROL Audience Marketplace] to help you choose the right [!UICONTROL third party] data provider for your needs.

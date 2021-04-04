@@ -11,8 +11,8 @@ thumbnail: 33888.jpg
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 9b859219-d1d9-4af5-8d4a-3b1f43f905ab
 ---
-
 # Understanding the Data Flow in Audience Manager
 
 This video helps you to understand Adobe Audience Manager by describing the data flow into, through, and out of the application.

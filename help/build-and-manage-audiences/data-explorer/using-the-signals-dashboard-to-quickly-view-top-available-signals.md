@@ -10,8 +10,8 @@ thumbnail: 25151.jpg
 kt: 2140
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: f7d50b2f-52a3-465d-89ba-337a10c26a1c
 ---
-
 # Using the [!UICONTROL Signals] Dashboard to Quickly View Top Available [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
 
 By using built in and custom tables on the [!UICONTROL Signals] dashboard in [!DNL Data Explorer], you can quickly see the latest data coming into Audience Manager and even click through to create traits as needed. Welcome to your new, more efficient workflow!

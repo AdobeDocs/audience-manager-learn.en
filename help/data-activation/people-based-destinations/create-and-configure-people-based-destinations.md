@@ -11,8 +11,8 @@ kt: 3343
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 08a1c74a-fd7f-46ab-b4c5-a2a05adfe7c1
 ---
-
 # Create and Configure [!UICONTROL People-based Destinations]
 
 This video first gives you some information about prerequisites to creating your [!DNL People-Based Destination], and then also shows you how to configure an [!UICONTROL Integrated Account] (link to the partner, E.g. [!DNL Facebook]). It then walks you through the in-product setup of the [!UICONTROL destination] itself.

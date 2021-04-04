@@ -10,8 +10,8 @@ thumbnail: 25149.jpg
 kt: 2141
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: d52786ba-8d3d-4a52-be11-21b78353b28b
 ---
-
 # Using [!DNL Data Explorer] to Validate [!UICONTROL Trait] Creation for Your Onboarded Data {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
 
 One of the most powerful features of Audience Manager is the ability to onboard offline data and tie it together with your online data. In this video, learn how to use [!DNL Data Explorer] to validate that you have created all the necessary [!UICONTROL traits] to leverage this onboarded data.

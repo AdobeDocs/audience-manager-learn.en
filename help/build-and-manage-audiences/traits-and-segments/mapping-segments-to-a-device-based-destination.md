@@ -11,8 +11,8 @@ kt: 5805
 
 role: Business Practitioner
 level: Beginner
+exl-id: f732377e-64cf-4d3f-8755-51925ea60924
 ---
-
 # Mapping Segments to a Device-based Destination
 
 In order to send an audience segment out to a DSP or other partner, you need to map the segment to a destination in Audience Manager. This video walks through mapping segments to a device-based destination, also known as a _server-to-server_ destination.

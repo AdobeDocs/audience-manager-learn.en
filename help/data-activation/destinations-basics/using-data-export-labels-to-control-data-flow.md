@@ -11,8 +11,8 @@ kt: 6836
 
 role: Business Practitioner
 level: Beginner
+exl-id: 28f250dc-1baf-4286-9129-cdddf6d55227
 ---
-
 # Using [!UICONTROL Data Export Labels] to Control Data Flow
 
 [!UICONTROL Data Export Labels] give you a mechanism in Audience Manager to control the flow of different data types/sources, so that you can meet your privacy requirements. Learn how and where to set [!UICONTROL Data Export Controls] and [!UICONTROL Data Export Labels], to work in tandem to this end.

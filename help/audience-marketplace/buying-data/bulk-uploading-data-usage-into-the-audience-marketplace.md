@@ -10,8 +10,8 @@ thumbnail: 25521.jpg
 kt: 1782
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: ad725f78-1730-4f42-b185-f868120c7b50
 ---
-
 # Bulk Uploading Data Usage into [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
 
 As you report your 2nd and 3rd party data usage in the [!UICONTROL Audience Marketplace], you may have enough entries to make that you don't want to do it by hand. In this video, you will learn how to use the data usage reporting bulk upload tool, so that you can easily report your data usage, even if you have many items to update.

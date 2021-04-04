@@ -11,8 +11,8 @@ kt: 3709
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: d6f924df-fcbb-45b2-b5d2-fa5d3c94bed3
 ---
-
 # [!UICONTROL Profile Merge Rule] Examples and Use Cases
 
 In this video you will see examples of [!UICONTROL Profile Merge Rules] and what they mean, as well as the use cases that [!UICONTROL Profile Merge Rules] solve for.

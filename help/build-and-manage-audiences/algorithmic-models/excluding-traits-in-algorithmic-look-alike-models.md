@@ -10,8 +10,8 @@ thumbnail: 25569.jpg
 kt: 1759
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Intermediate
+exl-id: 94becb1c-18c3-4fe1-bf24-acae127682da
 ---
-
 # Excluding [!UICONTROL Traits] in Algorithmic (Look-Alike) [!UICONTROL Models] {#excluding-traits-in-algorithmic-look-alike-models}
 
 In this video you will learn how and why to exclude specific (or groups of) [!UICONTROL traits] from an Algorithmic (Look-Alike) [!UICONTROL Model].

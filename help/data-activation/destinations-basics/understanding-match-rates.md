@@ -11,8 +11,8 @@ kt: 4033
 
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: d8b21d85-d718-4837-9f80-7686b8511ff8
 ---
-
 # Understanding Match Rates
 
 This video helps you understand match rates in Adobe Audience Manager, what they are, and how they are calculated. You will also learn some best practices, as well as what can cause a low match rate.

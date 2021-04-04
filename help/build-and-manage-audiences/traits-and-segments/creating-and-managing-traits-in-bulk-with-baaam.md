@@ -11,8 +11,8 @@ kt: 6621
 
 role: Business Practitioner
 level: Beginner
+exl-id: 5a1fb5f5-45cd-4ede-924b-1d2b92cfec92
 ---
-
 # Creating and Managing Traits in Bulk with BAAAM
 
 When creating, editing, or deleting traits, using the UI to do it one by one can be inefficient and time consuming. In this video, learn how to use BAAAM, Audience Manager's bulk management tool, to create, edit, and delete traits in bulk, using a simple Microsoft Spreadsheet as an interface with the REST API.

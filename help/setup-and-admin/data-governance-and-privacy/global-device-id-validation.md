@@ -9,8 +9,8 @@ team: Technical Marketing
 kt: 2977
 role: "Developer, Data Engineer, architect"
 level: Experienced
+exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
 ---
-
 # Global Device ID Validation {#global-device-id-validation}
 
 Device Advertising Identifiers (i.e. iDFA, GAID, Roku ID) have formatting standards that must be met in order to be usable in the digital advertising ecosystem. Today, customers and partners can upload IDs to our Global [!UICONTROL data sources] in any format without being notified of whether the ID is properly formatted. This feature will introduce validation of device IDs sent to the Global [!UICONTROL data sources] for proper formatting and will provide error messaging when IDs are incorrectly formatted. We will support validation for [!DNL iDFA], [!DNL Google Advertising] and [!DNL Roku IDs] at launch.

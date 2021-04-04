@@ -11,8 +11,8 @@ kt: 4168
 topic: Administration
 role: "Developer, Data Engineer, Administrator"
 level: Beginner
+exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
 ---
-
 # Monitoring and Reporting on Activity Usage
 
 In this video, we will walk through how to use the [!DNL Activity Usage Report], including display and download options.

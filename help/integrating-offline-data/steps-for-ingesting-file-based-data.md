@@ -11,8 +11,8 @@ kt: 7027
 
 role: Business Practitioner
 level: Beginner
+exl-id: 31f882ea-8547-46ad-acf5-3b872dcd9bd2
 ---
-
 # Steps for Ingesting File-Based Data
 
 This video walks you through the few steps you need to consider as you onboard offline data into Audience Manager, including the file name requirements for the data file.

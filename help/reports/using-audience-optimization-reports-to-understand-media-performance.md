@@ -11,8 +11,8 @@ kt: 6838
 
 role: Business Practitioner
 level: Intermediate
+exl-id: 620d4ef6-05ec-4d96-842e-919c6ec402d9
 ---
-
 # Using Audience Optimization Reports to Understand Media Performance
 
 Learn how to use the Audience Optimization Reports to improve your campaigns, understanding where to invest your marketing dollars and where to stop investing. Also learn how to determine optimal frequency capping and find other gems in these reports.

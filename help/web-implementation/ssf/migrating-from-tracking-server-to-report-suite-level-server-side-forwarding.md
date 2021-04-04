@@ -10,8 +10,8 @@ team: Technical Marketing
 kt: 1776
 role: "Developer, Data Engineer"
 level: Intermediate
+exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 ---
-
 # Migrating from [!UICONTROL Tracking Server] to [!UICONTROL Report Suite]-Level [!UICONTROL Server-Side Forwarding] {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
 This article and video will show you how to enable [!UICONTROL server-side forwarding] of [!DNL Analytics] Data to Audience Manager at a [!UICONTROL report suite] level instead of at a [!UICONTROL tracking server] level.

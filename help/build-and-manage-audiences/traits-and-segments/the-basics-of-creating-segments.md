@@ -11,8 +11,8 @@ kt: 5820
 
 role: Business Practitioner
 level: Beginner
+exl-id: 594b1caf-2752-4710-8272-2df669eb8dbe
 ---
-
 # The Basics of Creating Segments
 
 Walk through the fields in the UI to create a segment in Audience Manager.

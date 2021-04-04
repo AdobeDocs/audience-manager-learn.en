@@ -8,9 +8,8 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153
-
+exl-id: e0ea393d-b332-4754-b855-25c838a463b4
 ---
-
 # Understanding Web Data Ingestion in Real-time CDP for Audience Manager Users
 
 This video shows Audience Manager users the concepts regarding bringing Web site data into Real-time Customer Data Platform (Real-time CDP), and includes a high-level touch on where the Audience Manager Data Connector fits, as well as how the data can move from the Web site directly through the Web SDK into Real-time CDP.

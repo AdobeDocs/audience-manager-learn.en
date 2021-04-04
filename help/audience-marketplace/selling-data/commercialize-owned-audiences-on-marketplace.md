@@ -11,8 +11,8 @@ kt: 6802
 
 role: Business Practitioner
 level: Experienced
+exl-id: 15a01564-fa14-4ab4-944d-af1c9041d788
 ---
-
 # Commercialize owned audiences on Marketplace
 
 In this video you will learn how to set up your data as a private or public data feed on the Audience Marketplace, making you a data provider of 2nd or 3rd party data.

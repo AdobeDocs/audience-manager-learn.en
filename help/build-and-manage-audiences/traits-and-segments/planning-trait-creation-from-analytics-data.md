@@ -11,8 +11,8 @@ kt: 6491
 
 role: "Developer, Data Engineer"
 level: Beginner
+exl-id: 37a0958d-794f-4783-8f0b-523293ae875a
 ---
-
 # Planning Trait Creation from Analytics Data
 
 Learn some tips and tricks to help you when you are planning to use Adobe Analytics data in your traits in Audience Manager.

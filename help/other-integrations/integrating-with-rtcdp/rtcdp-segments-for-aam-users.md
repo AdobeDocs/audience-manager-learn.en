@@ -8,9 +8,8 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 331901.jpg
 kt: 7205
-
+exl-id: a3255af9-372e-4c2e-b3e6-3b71b3616bfa
 ---
-
 # Understanding Segments in Real-time CDP for Audience Manager Users
 
 As you move from Audience Manager to Real-time Customer Data Platform, it is helpful to understand the differences in concepts. This video looks at the differences in segments and segment creation between Audience Manager and Real-time CDP.
