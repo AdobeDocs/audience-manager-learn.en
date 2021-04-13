@@ -122,7 +122,7 @@ solution: Audience Manager
     + [Using Data Export Labels to Control Data Flow](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
   + Audience Lab {#audience-lab}
     + [Using Audience Lab to Choose a DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-    + [Creating Conversion Traits](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
+    + [Creating Conversion Traits](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
   + People-Based Destinations {#people-based-destinations}
     + [People-Based Destinations Videos and Tutorials](data-activation/people-based-destinations/pbd.md)
     + [People-Based Destinations Data Flow](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
