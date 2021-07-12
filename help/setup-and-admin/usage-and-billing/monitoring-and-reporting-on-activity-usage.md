@@ -9,7 +9,7 @@ team: Technical Marketing
 kt: 4168
 
 topic: Administration
-role: "Developer, Data Engineer, Administrator"
+role: Developer, Data Engineer, Admin
 level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
 ---

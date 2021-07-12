@@ -10,7 +10,7 @@ thumbnail: 329120.jpg
 kt: 6737
 
 topic: Administration
-role: Administrator
+role: Admin
 level: Intermediate
 exl-id: decfe5fc-cec7-4f0a-875d-8a5f8d9c9ed6
 ---

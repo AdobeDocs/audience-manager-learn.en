@@ -9,7 +9,7 @@ team: Technical Marketing
 thumbnail: 326780.jpg
 kt: 6491
 
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
 exl-id: 37a0958d-794f-4783-8f0b-523293ae875a
 ---

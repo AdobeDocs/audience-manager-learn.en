@@ -9,7 +9,7 @@ team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
 
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 7001011a-c0e2-4879-89ad-e463dc9f5604
 ---

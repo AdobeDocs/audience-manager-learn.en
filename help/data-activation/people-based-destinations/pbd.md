@@ -8,7 +8,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: 5207
 
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
 ---

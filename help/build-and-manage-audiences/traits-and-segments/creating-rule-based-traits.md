@@ -10,7 +10,7 @@ thumbnail: 34749.jpg
 kt: 5290
 
 
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 11f303c3-8ce1-4ab7-a621-5b42d475b234
 ---

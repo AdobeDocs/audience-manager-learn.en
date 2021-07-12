@@ -8,7 +8,7 @@ activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 ---

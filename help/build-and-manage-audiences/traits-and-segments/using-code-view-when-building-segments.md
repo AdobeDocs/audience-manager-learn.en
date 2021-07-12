@@ -9,7 +9,7 @@ team: ACS
 thumbnail: 38035.jpg
 kt: 5983
 
-role: Business Practitioner
+role: User
 level: Intermediate
 exl-id: fcdc60a1-7a85-4cf1-bc65-ffd26e15131c
 ---

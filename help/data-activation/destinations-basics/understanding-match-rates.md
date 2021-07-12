@@ -9,7 +9,7 @@ team: Experience League
 thumbnail: 29830.jpg
 kt: 4033
 
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: d8b21d85-d718-4837-9f80-7686b8511ff8
 ---

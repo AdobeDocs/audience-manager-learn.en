@@ -9,7 +9,7 @@ team: Technical Marketing
 thumbnail: 33630.jpg
 kt: 4390
 
-role: Administrator
+role: Admin
 level: Intermediate
 exl-id: 5c4f8b2e-b0ed-44b6-a19c-be5ea6312646
 ---

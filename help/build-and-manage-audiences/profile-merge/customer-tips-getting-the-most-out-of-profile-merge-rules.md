@@ -9,7 +9,7 @@ team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
 
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 8aa800af-64c0-43e0-b05d-dbb4f4b0d05b
 ---

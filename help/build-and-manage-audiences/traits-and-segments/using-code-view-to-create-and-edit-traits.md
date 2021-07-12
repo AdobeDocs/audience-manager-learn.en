@@ -9,7 +9,7 @@ team: Technical Marketing
 thumbnail: 326613.jpg
 kt: 6441
 
-role: Business Practitioner
+role: User
 level: Intermediate
 exl-id: 763bbc25-57f1-456a-b94c-7c5c1ec1e3bb
 ---

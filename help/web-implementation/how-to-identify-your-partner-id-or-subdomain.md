@@ -7,7 +7,7 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: d3f4a12d-acc5-47b7-a38a-a6a14152bf3a
 ---
