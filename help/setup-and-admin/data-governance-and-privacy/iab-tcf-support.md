@@ -66,7 +66,7 @@ One of the benefits of using the IAB TCF is that the standard purposes listed ab
 
 In order for Audience Manager to be approved (I.e. In order for the translation of IAB purposes for Opt-in to give AAM a “yes” vote), purposes 1 and 10, as listed above, have to be given consent from the end user. If either of these are not approved, or if a vender is not approved, AAM will not execute pixel fires or set cookies. It’s also good to know that many customers simply choose to provide the end user with an “all or nothing” UI, which would, of course, allow or disallow use of Audience Manager (and the other Experience Cloud solutions).
 
-There is some great information in the [documentation](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html) about how the Audience Manager Plug-In for IAB TCF flow applies to both Publisher and Advertiser use cases.
+There is some great information in the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en) about how the Audience Manager Plug-In for IAB TCF flow applies to both Publisher and Advertiser use cases.
 
 ## IAB: Sending Consent Downstream {#iab-sending-consent-downstream}
 

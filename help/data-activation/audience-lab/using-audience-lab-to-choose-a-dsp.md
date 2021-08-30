@@ -2,13 +2,10 @@
 title: Using Audience Lab to Choose a DSP
 description: In this video we walk through creating an Audience Lab test, so that you can A/B test DSPs or other AAM destinations to see which one will drive the best return on ad spend.
 feature: Audience Lab
-topics: 
-activity: use
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 24923.jpg
 kt: 1552
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Admin, Leader
 level: Intermediate
 exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
 ---
@@ -29,4 +26,4 @@ Creating an [!UICONTROL Audience Lab] test is easy, and can be done in only a fe
 1. Check the test summary and activate the test
 1. When the test is done, access the results on the main home screen of [!UICONTROL Audience Lab]
 
-For additional information, please see the [feature documentation](https://marketing.adobe.com/resources/help/en_US/aam/audience-lab.html).
+For additional information, please see the [feature documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html).

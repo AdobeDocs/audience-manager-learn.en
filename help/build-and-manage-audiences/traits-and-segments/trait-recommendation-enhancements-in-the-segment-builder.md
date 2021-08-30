@@ -19,4 +19,4 @@ In this video you will see how to use the updated [!DNL trait recommendations] i
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).

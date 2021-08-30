@@ -66,7 +66,7 @@ We’ll look at each of these below in the Updating the Code section.
 
 The main prerequisite for moving to [!UICONTROL Server-Side Forwarding] is to have the Experience Cloud ID Service implemented. This is most easily done if you are using Experience Platform Launch, in which case you simply install the ECID extension and it will do the rest.
 
-If you are using a non-Adobe TMS, or no TMS at all, then please implement ECID to run **before** any other Adobe solutions. See the [ECID documentation](https://marketing.adobe.com/resources/help/en_US/mcvid/) for more details. The only other prerequisite is regarding code versions, so as you simply apply the most recent versions of the code in the following steps, you will be fine.
+If you are using a non-Adobe TMS, or no TMS at all, then please implement ECID to run **before** any other Adobe solutions. See the [ECID documentation](https://experienceleague.adobe.com/docs/id-service/using/home.html) for more details. The only other prerequisite is regarding code versions, so as you simply apply the most recent versions of the code in the following steps, you will be fine.
 
 >[!NOTE]
 >
@@ -185,4 +185,4 @@ If you are not doing [!UICONTROL server-side forwarding] of data from [!DNL Anal
 
 ![false success](assets/falsesuccess.png)
 
-For more information about [!UICONTROL Server-Side Forwarding], please see the [documentation](https://marketing.adobe.com/resources/help/en_US/reference/ssf.html).
+For more information about [!UICONTROL Server-Side Forwarding], please see the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).

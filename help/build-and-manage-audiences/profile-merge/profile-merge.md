@@ -29,4 +29,4 @@ This section contains the following videos for [!UICONTROL Profile Merge Rules]:
 * [Interpret Audience Identity Reporting](interpret-audience-identity-reporting.md)
 * [Understanding Cross-Device Metrics in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-These videos can be used in conjunction with the [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+These videos can be used in conjunction with the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
