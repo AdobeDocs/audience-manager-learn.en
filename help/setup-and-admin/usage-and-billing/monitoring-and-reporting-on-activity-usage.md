@@ -19,4 +19,4 @@ In this video, we will walk through how to use the [!DNL Activity Usage Report],
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).

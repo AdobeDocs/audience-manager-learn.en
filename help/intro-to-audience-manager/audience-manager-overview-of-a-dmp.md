@@ -20,4 +20,4 @@ Understand the key challenges with cross channel personalization and how Adobe A
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/aam-overview.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).

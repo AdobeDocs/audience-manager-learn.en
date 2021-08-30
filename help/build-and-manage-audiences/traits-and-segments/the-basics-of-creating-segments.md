@@ -19,4 +19,4 @@ Walk through the fields in the UI to create a segment in Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-For more information regarding segments, please see the [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segments-purpose.html).
+For more information regarding segments, please see the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).

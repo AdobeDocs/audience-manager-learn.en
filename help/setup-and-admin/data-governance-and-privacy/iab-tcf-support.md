@@ -17,7 +17,7 @@ Adobe provides you with the means to manage and communicate your users' privacy 
 
 ## First Step: Understand ECID’s Opt-In {#first-step-understand-ecid-s-opt-in}
 
-To understand how to work with the IAB TCF, you must first understand [!DNL Opt-in] functionality, which is part of the Experience Cloud ID Service (ECID) library. If you are not familiar with how Opt-in works, please see [this helpful article](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html) first. You should also review the Opt-in [documentation](https://docs.adobe.com/content/help/en/id-service/using/implementation/opt-in-service/optin-overview.html). Once you have gone through those resources, return to this page and continue.
+To understand how to work with the IAB TCF, you must first understand [!DNL Opt-in] functionality, which is part of the Experience Cloud ID Service (ECID) library. If you are not familiar with how Opt-in works, please see [this helpful article](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html) first. You should also review the Opt-in [documentation](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html). Once you have gone through those resources, return to this page and continue.
 
 ## The Audience Manager Plug-In for IAB TCF {#the-audience-manager-plug-in-for-iab-tcf}
 
@@ -83,4 +83,4 @@ In the video below, see how cookies and beacons from ECID and solutions are affe
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-For more detailed information about the Audience Manager Plug-In for IAB TCF 2.0, including how to implement and test, use cases, and workflow, please see the [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html).
+For more detailed information about the Audience Manager Plug-In for IAB TCF 2.0, including how to implement and test, use cases, and workflow, please see the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html).

@@ -19,4 +19,4 @@ This video walks through the filters and recommendations options in the [!UICONT
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).

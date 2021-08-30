@@ -28,4 +28,4 @@ This section contains videos and tutorials for topics regarding [!UICONTROL Peop
 * [Create and Configure People-based Destinations](create-and-configure-people-based-destinations.md)
 * [Understanding and Configuring the LinkedIn People-Based Destination](understanding-and-configuring-the-linkedin-pbd.md)
 
-These videos can be used in conjunction with the [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+These videos can be used in conjunction with the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).

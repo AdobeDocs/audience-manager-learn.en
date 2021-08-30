@@ -19,6 +19,6 @@ This video walks you through the concepts and steps to create a [!UICONTROL Peop
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
 You can also find additional videos regarding [!UICONTROL People-Based Destinations] [HERE](https://adobe.ly/aamlearnpbd).

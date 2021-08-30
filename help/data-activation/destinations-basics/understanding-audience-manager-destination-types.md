@@ -21,4 +21,4 @@ This video will walk you through the different types of [!UICONTROL destinations
 
 You can download a list of server-to-server [!UICONTROL destination] partners [HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx).
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html).

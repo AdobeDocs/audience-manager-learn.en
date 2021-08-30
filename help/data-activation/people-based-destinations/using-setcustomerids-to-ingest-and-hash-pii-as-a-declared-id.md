@@ -19,4 +19,4 @@ In this video, you will learn why and how to use the Experience Cloud ID Service
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/id-service/using/reference/hashing-support.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
