@@ -37,11 +37,11 @@ Welcome to the Audience Manager Tutorials Site.  Using these tutorials along wit
 <table>
 <tr>
   <td>
-    <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
+    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
       <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile iOS Swift Applications' tutorial" src="assets/thumb_swift.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html">
+      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
     <strong>Implementing the Experience Cloud in Mobile iOS Apps</strong>
     </a>
     </div>
@@ -50,11 +50,11 @@ Welcome to the Audience Manager Tutorials Site.  Using these tutorials along wit
     <p>
   </td>
   <td>
-    <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
+    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
       <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile Android Applications' tutorial" src="assets/thumb_android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html">
+      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
     <strong>Implementing the Experience Cloud in Mobile [!DNL Android] Apps</strong>
     </a>
     </div>
@@ -63,11 +63,11 @@ Welcome to the Audience Manager Tutorials Site.  Using these tutorials along wit
     <p>
   </td>
   <td>
-    <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
+    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
       <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile Objective-C Applications' tutorial" src="assets/thumb_objective_c.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html">
+      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
     <strong>Implementing the Experience Cloud in Mobile Objective-C Apps</strong>
     </a>
     </div>

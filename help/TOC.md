@@ -38,7 +38,7 @@ solution: Audience Manager
   + DIL (Data Integration Library) {#dil}
     + [Updating to DIL version 8.0 (or greater)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
   + SSF (Server-Side Forwarding) {#ssf}
-    + [Implement in Websites with Launch](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
+    + [Implement in Websites with Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
     + [Migrating Your Site's AAM Implementation from Client-Side DIL to Server-Side Forwarding](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
     + [Migrating from Tracking Server to Report Suite-Level Server-Side Forwarding](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
   + [Using Tag Managers to Implement Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -48,9 +48,9 @@ solution: Audience Manager
   + [Formatting and Ingesting File-based Data](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
   + [Steps for Ingesting File-Based Data](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobile Implementation {#mobile-implementation}
-  + [Implement in iOS Swift Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-  + [Implement in iOS Objective-C Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-  + [Implement in Android Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+  + [Implement in iOS Swift Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+  + [Implement in iOS Objective-C Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+  + [Implement in Android Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
   + Buying Data {#buying-data}
     + [Reporting 2nd and 3rd Party Data Usage in Audience Marketplace at the Segment Level](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
