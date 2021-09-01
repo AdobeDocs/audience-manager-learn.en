@@ -70,7 +70,7 @@ Setting the advertiser ID in the app is really a two step process, first retriev
 
 1. Retrieve the ID
     1. [!DNL Apple] information about the [!DNL advertising ID] can be found [HERE](https://developer.apple.com/documentation/adsupport/asidentifiermanager).
-    1. Some information about setting the [!DNL advertiser ID] for [!DNL Android] developers can be found [HERE](http://www.androiddocs.com/google/play-services/id.html).
+    1. Some information about setting the [!DNL advertiser ID] for [!DNL Android] developers can be found [HERE](http://android.cn-mirrors.com/google/play-services/id.html).
 1. Send it into the Experience Cloud using the [!DNL setAdvertisingIdentifier] method in the SDK
     1. Information for using `setAdvertisingIdentifier` is in the [documentation](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) for both [!DNL iOS] and [!DNL Android].
 
