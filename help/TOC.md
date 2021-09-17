@@ -19,9 +19,11 @@ solution: Audience Manager
   + Value Realization {#value-realization}
     + [Measuring ROI in a Customer Suppression Use Case](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Industry News and Trends {#industry}
-  + [The Future of Data Management and the Changing Environment](industry/the-future-of-data-management-and-the-changing-environment.md)
-  + [10 considerations for Responsible Customer Data Management](industry/ten-considerations-for-responsible-customer-data-management.md)
-  + [A Tale of Two Perceptions - Brands vs. Consumers](industry/brands-vs-consumers.md)
+  + [The Future of Data Management and the Changing Environment](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
+  + [10 considerations for Responsible Customer Data Management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+  + [A Tale of Two Perceptions - Brands vs. Consumers](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
+  + [Evolving Your Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+  + [Building better experiences with customer profiles](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + Setup and Admin {#setup-and-admin}
   + Data Sources {#data-sources}
     + [Create a Data Source for Analytics Data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
