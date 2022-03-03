@@ -1,6 +1,6 @@
 ---
-title: IP Obfuscation by Country in Audience Manager
-description: Audience Manager provides self-serve capability in the UI to enable customers to turn on IP obfuscation globally or by country. This video walks you through the setup.
+title: IP obfuscation by country
+description: Learn about IP obfuscation by country in Audience Manager. This application provides self-serve capability in the UI to enable customers to turn on IP obfuscation globally or by country. This video walks you through the setup.
 feature: "Data Governance & Privacy"
 topics: 
 activity: use
@@ -11,7 +11,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 103643ff-c006-4111-b469-901271faaf9d
 ---
-# IP Obfuscation by Country in Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
+# IP obfuscation by country in Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
 Audience Manager provides self-serve capability in the UI to enable customers to turn on IP obfuscation globally or by country. This video walks you through the setup.
 

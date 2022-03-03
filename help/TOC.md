@@ -8,46 +8,46 @@ type: Tutorial
 
 # Audience Manager Tutorials {#tutorials}
 
-+ [Overview](overview.md)
++ [Audience Manager tutorials](overview.md)
 + Intro to Audience Manager {#intro-to-audience-manager}
   + [How a DMP can change your business](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
   + [Audience Manager - Overview of a DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
-  + [Audience Manager Use Cases](intro-to-audience-manager/audience-manager-use-cases.md)
-  + [Understanding Basic Terms and Concepts](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
-  + [Understanding the Data Flow in Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
-  + [Introduction to Identity in Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
+  + [Audience Manager use cases](intro-to-audience-manager/audience-manager-use-cases.md)
+  + [Understand basic terms and concepts](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
+  + [Understand the Data Flow in Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
+  + [Introduction to identity in Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
   + Value Realization {#value-realization}
-    + [Measuring ROI in a Customer Suppression Use Case](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
+    + [Measuring ROI in a Customer Suppression use case](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Industry News and Trends {#industry}
-  + [The Future of Data Management and the Changing Environment](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-  + [10 considerations for Responsible Customer Data Management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+  + [The Future of data management and the changing environment](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
+  + [10 considerations for responsible customer data management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
   + [A Tale of Two Perceptions - Brands vs. Consumers](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-  + [Evolving Your Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+  + [Evolving your Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
   + [Building better experiences with customer profiles](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + Setup and Admin {#setup-and-admin}
   + Data Sources {#data-sources}
-    + [Create a Data Source for Analytics Data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
-    + [Creating a Cross Device Data Source and Authenticating](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
+    + [Create a data source for Analytics data](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+    + [Create a cross-device data source and authenticating](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
   + User Management {#user-management}
-    + [Setting Permissions with Role-Based Access Control](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
+    + [Set permissions with role-based access control](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
   + Data Governance and Privacy {#data-governance-and-privacy}
-    + [Global Device ID Validation](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-    + [IAB TCF 2.0 Support](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
-    + [IP Obfuscation by Country](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
+    + [Global device ID validation](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
+    + [IAB TCF 2.0 support](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+    + [IP obfuscation by country](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
   + Usage and Billing {#usage-and-billing}
-    + [Monitoring and Reporting on Activity Usage](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
+    + [Monitor and report on activity usage](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
 + Web Implementation {#web-implementation}
   + DIL (Data Integration Library) {#dil}
     + [Updating to DIL version 8.0 (or greater)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
   + SSF (Server-Side Forwarding) {#ssf}
-    + [Implement in Websites with Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
-    + [Migrating Your Site's AAM Implementation from Client-Side DIL to Server-Side Forwarding](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
-    + [Migrating from Tracking Server to Report Suite-Level Server-Side Forwarding](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
-  + [Using Tag Managers to Implement Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
+    + [Use Experience Platform tags to implement in Websites](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+    + [Migrate your site's AAM implementation from client-side DIL to server-side forwarding](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
+    + [Migrate from tracking server to report suite-Level server-side forwarding](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
+  + [Use tag managers to implement Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
   + [How to identify your Partner ID or Subdomain](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
-  + [Using best practices on SPA pages](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
+  + [Use best practices on SPA pages](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
 + Integrating Offline Data {#integrating-offline-data}
-  + [Formatting and Ingesting File-based Data](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+  + [Format and ingest file-based data](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
   + [Steps for Ingesting File-Based Data](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobile Implementation {#mobile-implementation}
   + [Implement in iOS Swift Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
