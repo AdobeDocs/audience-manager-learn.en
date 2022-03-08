@@ -48,16 +48,16 @@ type: Tutorial
   + [Use best practices on SPA pages](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
 + Integrating Offline Data {#integrating-offline-data}
   + [Format and ingest file-based data](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
-  + [Steps for Ingesting File-Based Data](integrating-offline-data/steps-for-ingesting-file-based-data.md)
+  + [Steps for ingesting file-based data](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobile Implementation {#mobile-implementation}
-  + [Implement in iOS Swift Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-  + [Implement in iOS Objective-C Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
-  + [Implement in Android Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
+  + [Implement in iOS Swift applications](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+  + [Implement in iOS Objective-C applications](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+  + [Implement in Android applications](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
   + Buying Data {#buying-data}
-    + [Reporting 2nd and 3rd Party Data Usage in Audience Marketplace at the Segment Level](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
-    + [Bulk Uploading Data Usage into Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
-    + [Using Filters and Recommendations to Choose 3rd Party Data in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+    + [Reporting 2nd and 3rd-party data usage in Audience Marketplace at the segment level](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
+    + [Bulk upload data usage into Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
+    + [Use filters and recommendations to choose third-party data in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
   + Selling Data {#selling-data}
     + [Commercialize owned audiences on Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Build and Manage Audiences {#build-and-manage-audiences}
