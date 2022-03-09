@@ -1,5 +1,5 @@
 ---
-title: The Basics of Creating Segments
+title: The basics of creating segments
 description: Walk through the fields in the UI to create a segment in Audience Manager.
 feature: Segments
 topics: 
@@ -13,7 +13,7 @@ role: User
 level: Beginner
 exl-id: 594b1caf-2752-4710-8272-2df669eb8dbe
 ---
-# The Basics of Creating Segments
+# The basics of creating segments
 
 Walk through the fields in the UI to create a segment in Audience Manager.
 
