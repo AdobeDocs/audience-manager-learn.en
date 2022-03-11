@@ -1,5 +1,5 @@
 ---
-title: Creating Segments from Multiple Data Sources
+title: Create segments from multiple data sources
 description: When creating segments in Audience Manager, you can add traits from various data sources. This video shows you how to do that and discusses other settings that need to be considered.
 feature: Segments
 topics: 
@@ -8,12 +8,11 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 37713.jpg
 kt: 5867
-
 role: User
 level: Beginner
 exl-id: 0378fece-dc29-478c-a71e-2ba2c53389c7
 ---
-# Creating Segments from Multiple Data Sources
+# Create segments from multiple data sources
 
 When creating segments in Audience Manager, you can add traits from various data sources. This video shows you how to do that and discusses other settings that need to be considered.
 
