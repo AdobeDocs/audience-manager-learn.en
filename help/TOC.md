@@ -62,12 +62,12 @@ type: Tutorial
     + [Commercialize owned audiences on Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Build and Manage Audiences {#build-and-manage-audiences}
   + Data Explorer {#data-explorer}
-    + [Using the Signals Dashboard to Quickly View Top Available Signals](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
-    + [Using Data Explorer to Search for Used and Unused Key/Value Pairs](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
-    + [Saving Searches in Data Explorer for Convenience in Re-use](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
-    + [Using Data Explorer to Create Retroactive Traits and Segments](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
-    + [Using Data Explorer to Validate Trait Creation for Your Onboarded Data](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
-    + [Using Data Explorer to Work with Signals Coming from Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
+    + [Use the Signals Dashboard to quickly view top available signals](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
+    + [Use Data Explorer to search for used and unused key/value pairs](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
+    + [Save searches in Data Explorer for convenient re-use](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
+    + [Use Data Explorer to create retroactive traits and segments](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
+    + [Use Data Explorer to validate trait creation for on-boarded data](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
+    + [Use Data Explorer to work with signals coming from Adobe Analytics](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
   + Traits and Segments {#traits-and-segments}
     + [Planning Trait Creation from Analytics Data](build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.md)
     + [Creating a Trait Taxonomy](build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.md)
@@ -85,7 +85,7 @@ type: Tutorial
     + [Create segments from multiple data sources](build-and-manage-audiences/traits-and-segments/creating-segments-from-multiple-data-sources.md)
     + [Choose a data source when creating a segment](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-a-segment.md)
     + [Enhance your segments with trait recommendations](build-and-manage-audiences/traits-and-segments/enhancing-your-segments-with-trait-recommendations.md)
-    + [Trait Recommendation Enhancements in the Segment Builder](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
+    + [Trait recommendation enhancements in segmentation](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
     + [Using Recency and Frequency in Segments](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
     + [Using Code View when Building Segments](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
     + [Import Segments from Adobe Analytics into Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
