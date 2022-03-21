@@ -1,6 +1,6 @@
 ---
-title: Understanding [!UICONTROL Predictive Audiences] in Audience Manager
-description: In this video, we will discuss what Audience Manager [!UICONTROL Predictive Audiences] are, present details about how they work, and point out use cases.
+title: Understand [!UICONTROL Predictive Audiences] in Audience Manager
+description: In this video, learn about Audience Manager [!UICONTROL Predictive Audiences], details about how they work, and typical use cases.
 feature: Algorithmic Models
 topics: 
 activity: understand
@@ -13,9 +13,9 @@ role: Admin
 level: Intermediate
 exl-id: 0d09e360-1bf2-4a65-be04-8abaf337c58a
 ---
-# Understanding [!UICONTROL Predictive Audiences] in Audience Manager
+# Understand [!UICONTROL Predictive Audiences] in Audience Manager
 
-In this video, we will discuss what Audience Manager [!UICONTROL Predictive Audiences] are, present details about how they work, and point out use cases.
+In this video, learn about Audience Manager [!UICONTROL Predictive Audiences], details about how they work, and typical use cases.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
 

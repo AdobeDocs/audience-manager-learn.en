@@ -96,7 +96,7 @@ type: Tutorial
     + [Understand numbers in the Segment graph](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
     + [Customer tips - trait and segment best practices](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
   + Algorithmic models {#algorithmic-models}
-    + [Understand [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+    + [Understand Predictive Audiences](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
     + [Configure and report on [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
     + [Create a first-party look-alike model](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
     + [Exclude traits in algorithmic (look-alike) models](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)

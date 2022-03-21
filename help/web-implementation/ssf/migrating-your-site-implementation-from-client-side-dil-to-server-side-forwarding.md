@@ -35,7 +35,7 @@ It is recommended that you move to a server-side forwarding method of AAM implem
 
 ### Server-side forwarding implementation {#server-side-forwarding-implementation}
 
-As shown in the image above, a hit comes from the Web page to Adobe Analytics. [!DNL Analytics] then forwards that data to AAM in real time, and visitors are evaluated into AAM [!UICONTROL traits] and [!UICONTROL segments], just as if the hit had come directly from the page.
+As shown in the image above, a hit comes from the Web page to Adobe Analytics. [!DNL Analytics] then forwards that data to AAM in real time, and visitors are evaluated into AAM traits and [!UICONTROL segments], just as if the hit had come directly from the page.
 
 [!UICONTROL Segments] are returned on the same real-time hit back to [!DNL Analytics], which forwards the response on to the Web page for personalization, and so on.
 
@@ -158,7 +158,7 @@ Based on these technical details, here are the recommendations for the timing of
 
 >[!NOTE]
 >
->If you would rather have a small discrepancy in data rather than a small duplication of data, you can switch the order of steps 1 and 2 above. Moving the code from DIL to server-side forwarding would stop the data flow into AAM until you were able to flip the switch to turn on the server-side forwarding for the [!UICONTROL report suite]. Typically customers would rather have a small doubling of data rather than miss getting visitors into [!UICONTROL traits] and [!UICONTROL segments].
+>If you would rather have a small discrepancy in data rather than a small duplication of data, you can switch the order of steps 1 and 2 above. Moving the code from DIL to server-side forwarding would stop the data flow into AAM until you were able to flip the switch to turn on the server-side forwarding for the [!UICONTROL report suite]. Typically customers would rather have a small doubling of data rather than miss getting visitors into traits and [!UICONTROL segments].
 
 #### Migration timing when you have many sites and [!UICONTROL report suites] {#migration-timing-when-you-have-many-sites-and-report-suites}
 

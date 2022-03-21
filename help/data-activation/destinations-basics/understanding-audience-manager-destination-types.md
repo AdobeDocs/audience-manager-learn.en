@@ -11,7 +11,7 @@ exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
 ---
 # Understanding Audience Manager [!UICONTROL Destination] Types
 
-This video will walk you through the different types of [!UICONTROL destinations] in Adobe Audience Manager, and give examples of when you would use each one.
+This video will walk you through the different types of destinations in Adobe Audience Manager, and give examples of when you would use each one.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
