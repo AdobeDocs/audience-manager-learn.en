@@ -13,7 +13,7 @@ role: User
 level: Beginner
 exl-id: d633d87e-10fc-43f7-9089-70acc6f6894e
 ---
-# Mapping Audience Manager Segments to Destinations
+# Map Audience Manager segments to destinations
 
 Learn about the different types of destinations in Audience Manager and the details of mapping segments to each destination type.
 

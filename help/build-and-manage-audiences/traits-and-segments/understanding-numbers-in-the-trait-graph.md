@@ -1,5 +1,5 @@
 ---
-title: Understanding Numbers in the Trait Graph
+title: Understand numbers in the Trait graph
 description: Get some tips on understanding the reported numbers for traits in the trait info screen.
 feature: Traits
 topics: 
@@ -13,7 +13,7 @@ role: User
 level: Beginner
 exl-id: 8e1a2410-6ed6-4bab-bc8c-3a15d903e119
 ---
-# Understanding Numbers in the Trait Graph
+# Understand numbers in the Trait graph
 
 Get some tips on understanding the reported numbers for traits in the trait info screen.
 

@@ -1,5 +1,5 @@
 ---
-title: Creating Onboarded Traits
+title: Create onboarded traits
 description: Learn tips for creating onboarded traits in Audience Manager.
 feature: Traits
 topics: 
@@ -13,7 +13,7 @@ role: User
 level: Beginner
 exl-id: b240e1c6-1cc6-44c0-aee5-35ca972ab919
 ---
-# Creating Onboarded Traits
+# Create onboarded traits
 
 Learn tips for creating onboarded traits in Audience Manager.
 

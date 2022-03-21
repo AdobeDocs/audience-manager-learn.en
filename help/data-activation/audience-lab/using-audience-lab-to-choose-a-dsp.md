@@ -1,5 +1,5 @@
 ---
-title: Using Audience Lab to Choose a DSP
+title: Using Audience Lab to choose a DSP
 description: In this video we walk through creating an Audience Lab test, so that you can A/B test DSPs or other AAM destinations to see which one will drive the best return on ad spend.
 feature: Audience Lab
 doc-type: feature video
@@ -9,7 +9,7 @@ role: User, Admin, Leader
 level: Intermediate
 exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
 ---
-# Using [!UICONTROL Audience Lab] to Choose a DSP {#using-audience-lab-to-choose-a-dsp}
+# Use [!UICONTROL Audience Lab] to choose a DSP {#using-audience-lab-to-choose-a-dsp}
 
 In this video we walk through creating an [!UICONTROL Audience Lab] test, so that you can A/B test DSPs or other AAM [!UICONTROL destinations] to see which one will drive the best return on ad spend.
 
