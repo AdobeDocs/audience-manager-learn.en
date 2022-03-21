@@ -34,7 +34,7 @@ If you are unsure if [!DNL tracking server forwarding] is enabled for you, conta
 
 ## [!UICONTROL Report-suite]-Level server-side forwarding {#report-suite-level-server-side-forwarding}
 
-One of the biggest benefits to moving to [!UICONTROL report suite] forwarding from [!UICONTROL tracking server] forwarding is that you will now be able to use “Audience Analytics”, which is the ability to forward Audience Manager [!UICONTROL segments] back into Adobe Analytics for detailed [!UICONTROL segment] analysis. This great feature is NOT supported if you are still on [!UICONTROL tracking server] forwarding and not [!UICONTROL report suite] forwarding. See more information about Audience Analytics in the [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+One of the biggest benefits to moving to [!UICONTROL report suite] forwarding from [!UICONTROL tracking server] forwarding is that you will now be able to use “Audience Analytics”, which is the ability to forward Audience Manager [!UICONTROL segments] back into Adobe Analytics for detailed segment analysis. This great feature is NOT supported if you are still on [!UICONTROL tracking server] forwarding and not [!UICONTROL report suite] forwarding. See more information about Audience Analytics in the [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

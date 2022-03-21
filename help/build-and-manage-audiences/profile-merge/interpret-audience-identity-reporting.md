@@ -15,6 +15,6 @@ exl-id: 90183636-e205-420b-bbcf-899a779f53a7
 ---
 # Interpret [!DNL Audience Identity Reporting]
 
-[!DNL Audience Identity Reporting] provides customers with the ability to report on the total population of a [!UICONTROL trait] or [!UICONTROL segment] by person/household definitions of identity. Watch this video to see how it is manifested in the Audience Manager reports.
+[!DNL Audience Identity Reporting] provides customers with the ability to report on the total population of a trait or segment by person/household definitions of identity. Watch this video to see how it is manifested in the Audience Manager reports.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

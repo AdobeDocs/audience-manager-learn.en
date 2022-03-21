@@ -19,8 +19,8 @@ When implementing some Experience Cloud features, you need to know what your Aud
 
 In case you would rather just jump in and find it without watching this short video, you can find your `Partner Subdomain` in two places in the UI:
 
-1. If you have already created a [!UICONTROL rule-based] [!UICONTROL trait], click **[!UICONTROL Get Trait URL]**
-    [!UICONTROL Get Trait URL] is next to the [!UICONTROL trait] in the list of [!UICONTROL traits] in that folder, and the URL will include your subdomain in the URL.
+1. If you have already created a [!UICONTROL rule-based] trait, click **[!UICONTROL Get Trait URL]**
+    [!UICONTROL Get Trait URL] is next to the trait in the list of [!UICONTROL traits] in that folder, and the URL will include your subdomain in the URL.
 1. If you go into the **[!UICONTROL Tools]** > **[!UICONTROL Tags]** interface and click **[!UICONTROL Get code]** for your container, the subdomain is toward the end of the Akamai line
 
 If you can’t quickly find it with those quick references, the video is a short time commitment. :)

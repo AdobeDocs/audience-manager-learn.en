@@ -20,6 +20,6 @@ Some of your [!UICONTROL traits] are based on conversions on your site. In this 
 
 What are you trying to get people to DO on your site? What is your conversion event? Of course, there are many different answers to this question, depending on your site type/vertical and your organizational goals. In any case, it is common in AAM to create [!UICONTROL traits] for visitors who have met those criteria.
 
-In AAM, there is a field where you can mark your [!UICONTROL trait] as a [!UICONTROL conversion] [!UICONTROL trait], especially for use in [!UICONTROL Audience Lab].
+In AAM, there is a field where you can mark your trait as a conversion trait, especially for use in [!UICONTROL Audience Lab].
 
-Also, when using events to create [!UICONTROL traits], there is a major gotcha that you need to keep in mind, so that you don't collect more users than you should into the [!UICONTROL trait]. Watch this video for the big reveal.
+Also, when using events to create [!UICONTROL traits], there is a major gotcha that you need to keep in mind, so that you don't collect more users than you should into the trait. Watch this video for the big reveal.
