@@ -11,9 +11,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
 ---
-# [!DNL Trait Recommendation] enhancements in Segments
+# [!DNL Trait Recommendation] enhancements in segmentation
 
-In this video you will see how to use the updated [!DNL trait recommendations] in the [!DNL segment builder], which are [!UICONTROL Audience Marketplace] recommendations. These will give you additional insight into third-party data that can extend the reach of your [!UICONTROL segments].
+In this video, you learn how to use the updated trait recommendations in [!UICONTROL Segments], which are [!UICONTROL Audience Marketplace] recommendations. These will give you additional insight into third-party data that can extend the reach of your segments.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 

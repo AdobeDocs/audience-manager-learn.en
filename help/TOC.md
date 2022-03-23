@@ -157,4 +157,4 @@ type: Tutorial
   + Integrating with Ad Cloud {#integrating-with-ad-cloud}
     + [Adobe Advertising Cloud and Adobe Audience Manager integration](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
-  + [Retrieve API credentials in Adobe I/O](api/retrieve-api-credentials-in-adobe-io.md)
+  + [Retrieve API credentials in Adobe Developer](api/retrieve-api-credentials-in-adobe-io.md)

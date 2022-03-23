@@ -1,5 +1,5 @@
 ---
-title: Overview of Profile Merge Rule Enhancements
+title: Overview of Profile Merge Rule enhancements
 description: This video explains the enhancements to Profile Merge Rules, released in October 2019.
 feature: Profile Merge
 topics: 
@@ -13,7 +13,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: edad121e-fa6e-4ea8-b99a-6830dd51669a
 ---
-# Overview of [!UICONTROL Profile Merge Rule] Enhancements
+# Overview of [!UICONTROL Profile Merge Rule] enhancements
 
 This video explains the enhancements to [!UICONTROL Profile Merge Rules], released in October 2019.
 

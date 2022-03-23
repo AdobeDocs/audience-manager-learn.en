@@ -1,6 +1,6 @@
 ---
-title: Profile Merge Rule Examples and Use Cases
-description: In this video you will see examples of Profile Merge Rules and what they mean, as well as the use cases that Profile Merge Rules solve for.
+title: Profile Merge Rule examples and use cases
+description: Learn about examples of Profile Merge Rules and what they mean, as well as the use cases that Profile Merge Rules solve.
 feature: Profile Merge
 topics: 
 activity: understand
@@ -15,6 +15,6 @@ exl-id: d6f924df-fcbb-45b2-b5d2-fa5d3c94bed3
 ---
 # [!UICONTROL Profile Merge Rule] Examples and Use Cases
 
-In this video you will see examples of [!UICONTROL Profile Merge Rules] and what they mean, as well as the use cases that [!UICONTROL Profile Merge Rules] solve for.
+In this video you will see examples of [!UICONTROL Profile Merge Rules] and what they mean, as well as the use cases that [!UICONTROL Profile Merge Rules] solve.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)

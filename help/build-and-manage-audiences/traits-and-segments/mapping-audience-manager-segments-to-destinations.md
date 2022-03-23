@@ -1,5 +1,5 @@
 ---
-title: Mapping Audience Manager Segments to Destinations
+title: Map Audience Manager segments to destinations
 description: Learn about the different types of destinations in Audience Manager and the details of mapping segments to each destination type.
 feature: Segments
 topics: 

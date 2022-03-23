@@ -1,6 +1,6 @@
 ---
 title: Choose a data source when creating traits
-description: One of the important fields to fill out when creating traits is the Data Source field. Get tips on choosing the right data source for Rule-based and Onboarded traits.
+description: One of the important fields to fill out when creating traits is the Data Source field. Get tips on choosing the right data source for rule-based and onboarded traits.
 feature: Traits
 topics: 
 activity: use

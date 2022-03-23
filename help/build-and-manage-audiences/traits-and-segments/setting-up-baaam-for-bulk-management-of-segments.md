@@ -1,6 +1,6 @@
 ---
-title: Setting Up BAAAM for Bulk Management of segments
-description: Learn about "BAAAM", the bulk management tool for traits and segments in Audience Manager, including how to set it up to get ready for use.
+title: Set Up BAAAM for segment bulk management
+description: Learn about BAAAM, the bulk management tool for traits and segments in Audience Manager, including how to set it up to get ready for use.
 feature: baaam
 topics: 
 audience: marketer
@@ -12,8 +12,8 @@ kt: 6050
 
 ---
 
-# Setting up BAAAM for bulk management of segments
+# Set up BAAAM for segment bulk management
 
-Learn about "BAAAM", the bulk management tool for traits and segments in Audience Manager, including how to set it up to get ready for use.
+Learn about BAAAM, the bulk management tool for traits and segments in Audience Manager, including how to set it up to get ready for use.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)
