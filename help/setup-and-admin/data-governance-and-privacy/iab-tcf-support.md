@@ -1,7 +1,7 @@
 ---
 title: IAB TCF 2.0 support
 description: Learn about the Audience Manager Plug-in to IAB TCF and how it works with Adobe’s opt-in object and your Consent Management Provider (CMP).
-feature: "Data Governance & Privacy"
+feature: Data Governance & Privacy
 activity: implement
 doc-type: technical video
 team: Technical Marketing

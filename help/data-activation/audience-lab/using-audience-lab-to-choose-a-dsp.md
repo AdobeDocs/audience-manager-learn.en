@@ -11,7 +11,7 @@ exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
 ---
 # Use [!UICONTROL Audience Lab] to choose a DSP {#using-audience-lab-to-choose-a-dsp}
 
-In this video we walk through creating an [!UICONTROL Audience Lab] test, so that you can A/B test DSPs or other AAM destinations to see which one will drive the best return on ad spend.
+In this video we walk through creating an [!UICONTROL Audience Lab] test, so that you can A/B test DSPs or other AAM destinations to see which one drives the best return on ad spend.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
 

@@ -1,7 +1,7 @@
 ---
 title: IP obfuscation by country
 description: Learn about IP obfuscation by country in Audience Manager. This application provides self-serve capability in the UI to enable customers to turn on IP obfuscation globally or by country. This video walks you through the setup.
-feature: "Data Governance & Privacy"
+feature: Data Governance & Privacy
 topics: 
 activity: use
 doc-type: feature video

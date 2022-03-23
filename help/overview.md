@@ -28,7 +28,7 @@ Welcome to the Audience Manager tutorials site. Using these tutorials along with
 
     *In this video you will see examples of [!UICONTROL Profile Merge Rules] and what they mean, as well as the use cases that [!UICONTROL Profile Merge Rules] solve for.*
 
-* **[Create and Configure People-based destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
+* **[Create and Configure People-based Destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
     *Learn how to set up a [!DNL People-Based Destination] in the Audience Manager UI*
 

@@ -125,16 +125,16 @@ type: Tutorial
   + Audience Lab {#audience-lab}
     + [Use Audience Lab to choose a DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
     + [Create conversion traits](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
-  + People-based destinations {#people-based-destinations}
-    + [People-based destinations videos and tutorials](data-activation/people-based-destinations/pbd.md)
-    + [People-based destinations data flow](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
-    + [Create a data source for People-based destinations](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
-    + [Understand Hashed PII data ingestion for People-based destinations](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
-    + [Ingest Hashed PII for People-based destinations](data-activation/people-based-destinations/ingesting-hashed-pii-for-people-based-destinations.md)
+  + People-based Destinations {#people-based-destinations}
+    + [People-based Destinations videos and tutorials](data-activation/people-based-destinations/pbd.md)
+    + [People-based Destinations data flow](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
+    + [Create a data source for People-based Destinations](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
+    + [Understand Hashed PII data ingestion for People-based Destinations](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
+    + [Ingest Hashed PII for People-based Destinations](data-activation/people-based-destinations/ingesting-hashed-pii-for-people-based-destinations.md)
     + [Use setCustomerIDs() to ingest and hash PII as a declared ID](data-activation/people-based-destinations/using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
-    + [Configure Profile Merge Rules for People-based destinations](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
-    + [Create segments for People-based destinations](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
-    + [Create and Configure People-based destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
+    + [Configure Profile Merge Rules for People-based Destinations](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
+    + [Create segments for People-based Destinations](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
+    + [Create and Configure People-based Destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
     + [Understand and configure the LinkedIn People-based destination](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
     + [Understand and configure the Google customer-match People-based destination](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
 + Reports {#reports}

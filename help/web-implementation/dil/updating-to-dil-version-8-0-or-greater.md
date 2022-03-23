@@ -21,7 +21,7 @@ Audience Manager’s [!DNL Data Integration Library] (DIL) code allows you to im
 
 * As stated in the description of this page, this will only cover “client-side” DIL implementations, used by AAM customers who do not have Adobe Analytics. If you have Adobe Analytics, you should use the server-side forwarding method of implementing AAM. This method is described in the [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
 
-## Duplicate and Deprecated Elements and Methods {#duplicate-and-deprecated-elements-and-methods}
+## Duplicate and deprecated elements and methods {#duplicate-and-deprecated-elements-and-methods}
 
 In prior versions of DIL and ECID, there were duplicative methods (methods that do the same function in both DIL and ECID), which caused confusion regarding which one to use. Typically, you needed to use both of them and match them up, and that message was not well communicated to our customers. Starting with DIL 8.0, these duplicate methods and elements have been deprecated in DIL, and it is recommended that you use the ECID version.
 
@@ -45,28 +45,28 @@ If you have been using either of these older methods to sync with a customer ID,
 
 The following sections list steps and recommendations for updating to DIL 8.0 based on your implementation method:
 
-## Updating to DIL 8.0 in Adobe Experience Platform Launch {#updating-to-dil-in-experience-platform-launch}
+## Updating to DIL 8.0 in Adobe Experience Platform tags {#updating-to-dil-in-experience-platform-launch}
 
 Basic Steps for Updating to DIL 8.0
 
-1. If you are using pre-8.0 DIL, before you upgrade, go into the DIL configuration in the AAM extension, and take a note of any advanced options that you are using (to be used in a subsequent step)
-1. Update your AAM extension to version 8.0 or greater
-1. Verify that your Experience Cloud ID Service extension is version 3.3.0 or greater
-1. For any deprecated methods/elements (like "[!DNL disableIDSyncs]") that were in your pre-8.0 AAM Extension or in custom code for DIL, enable the ECID methods in the ECID extension.
+1. If you are using pre-8.0 DIL, before you upgrade, go into the DIL configuration in the AAM extension, and take a note of any advanced options that you are using (to be used in a subsequent step).
+1. Update your AAM extension to version 8.0 or greater.
+1. Verify that your Experience Cloud ID Service extension is version 3.3.0 or greater.
+1. For any deprecated methods/elements (like `disableIDSyncs`) that were in your pre-8.0 AAM Extension or in custom code for DIL, enable the ECID methods in the ECID extension.
 
-    1. (DIL) disableDestinationPublishingIframe -&gt; (ECID) disableIdSyncs
-    1. (DIL) disableIDSyncs -&gt; (ECID) disableIdSyncs
-    1. (DIL) iframeAkamaiHTTPS -&gt; (ECID) dSyncSSLUseAkamai
-    1. (DIL) declaredId -&gt; (ECID) setCustomerIDs
+    1. (DIL) `disableDestinationPublishingIframe` -&gt; (ECID) `disableIdSyncs`
+    1. (DIL) `disableIDSyncs` -&gt; (ECID) `disableIdSyncs`
+    1. (DIL) `iframeAkamaiHTTPS` -&gt; (ECID) `dSyncSSLUseAkamai`
+    1. (DIL) `declaredId` -&gt; (ECID) `setCustomerIDs`
 
-1. Publish the changes
+1. Publish the changes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23874/?quality=12)
 
 ## Updating to DIL 8.0 in Adobe DTM {#updating-to-dil-in-adobe-dtm}
 
 1. Update your AAM tool to version 8.0 or greater. This version setting is under the “General” section of the AAM tool.
-1. For any deprecated methods/elements (like "disableIDSyncs") that were in your pre-8.0 AAM Tool’s custom code for DIL, make note of them (so that you can add them to the ECID tool) and then remove them from the custom [!DNL DIL code] in the AAM tool.
+1. For any deprecated methods/elements (like `disableIDSyncs`) that were in your pre-8.0 AAM Tool’s custom code for DIL, make note of them (so that you can add them to the ECID tool) and then remove them from the custom [!DNL DIL code] in the AAM tool.
 1. Update your Experience Cloud ID Service extension to version 3.3.0 or greater
 1. Add the advanced options to the ECID tool that you removed from the AAM tool’s custom code.
 1. Publish the changes
@@ -82,18 +82,18 @@ The same really goes for non-Adobe tag managers. Wherever you have the old versi
 
 1. Verify that any deprecated methods or elements that are in your custom code for DIL are moved to the ECID methods:
 
-    1. (DIL) disableDestinationPublishingIframe -&gt; (ECID) disableIdSyncs
+    1. (DIL) `disableDestinationPublishingIframe` -&gt; (ECID) `disableIdSyncs`
 
         [Documentation](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/configurations/disableidsync.html)
 
-    1. (DIL) disableIDSyncs -&gt; (ECID) disableIdSyncs
+    1. (DIL) `disableIDSyncs` -&gt; (ECID) `disableIdSyncs`
 
         [Documentation](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/configurations/disableidsync.html)
 
-    1. (DIL) iframeAkamaiHTTPS -&gt; (ECID) idSyncSSLUseAkamai
+    1. (DIL) `iframeAkamaiHTTPS` -&gt; (ECID) `idSyncSSLUseAkamai`
 
         [Documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html)
 
-    1. (DIL) declaredId -&gt; (ECID) setCustomerIDs
+    1. (DIL) `declaredId` -&gt; (ECID) `setCustomerIDs`
 
         [Documentation](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html)

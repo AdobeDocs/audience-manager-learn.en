@@ -1,7 +1,7 @@
 ---
 title: Understanding and Configuring the Google Customer Match People-Based Destination
 description: This video walks you through the details and use case of the Google Customer Match People Based Destination, and includes a walkthrough of creating a segment and mapping it to a destination. It also shows the audience landing in the Google Ad Console.
-feature: "People-based Destinations"
+feature: People-based Destinations
 topics: 
 activity: use
 doc-type: feature video
