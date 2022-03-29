@@ -1,6 +1,6 @@
 ---
-title: Customer Tips - Traits and Segments Best Practices
-description: Matt Vittorioso, Senior Marketing Specialist at Ally Financial, gives tips on managing traits and segments.
+title: CCustomer tips - trait and segment best practices
+description: Watch Matt Vittorioso, Senior Marketing Specialist at Ally Financial, gives tips on managing traits and segments.
 feature: Segments
 topics: 
 activity: use
@@ -13,7 +13,7 @@ role: User
 level: Beginner
 exl-id: 7001011a-c0e2-4879-89ad-e463dc9f5604
 ---
-# Customer Tips - Traits and Segments Best Practices
+# Customer tips - trait and segment best practices
 
 **Matt Vittorioso**, Senior Marketing Specialist at **[!DNL Ally Financial]**, gives tips on managing traits and segments.
 

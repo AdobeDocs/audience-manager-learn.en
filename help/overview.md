@@ -1,6 +1,6 @@
 ---
-title: Analytics Videos and Tutorials
-description: A collection of videos and tutorials for Adobe Analytics.
+title: Audience Manager videos and tutorials
+description: A collection of videos and tutorials for Adobe Audience Manager.
 feature: Overview
 topics:
 activity: use
@@ -10,15 +10,15 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
 ---
-# Overview
+# Audience Manager tutorials
 
-Welcome to the Audience Manager Tutorials Site.  Using these tutorials along with the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) will give you a better understanding how to use Adobe Audience Manager to create and activate audiences on any channel or device using Adobe's best-in-class [!DNL data management platform].
+Welcome to the Audience Manager tutorials site. Using these tutorials along with the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) will give you a better understanding how to use Adobe Audience Manager to create and activate audiences on any channel or device using Adobe's best-in-class [!DNL data management platform].
 
 * **Staff Picks** highlights some of our favorite content
 * Explore the content by topic and subtopic in the **left navigation**
 * Use the **search** field at the top of the page if you know what you are looking for
 
-## What's New
+## What's new
 
 * **[Overview of [!UICONTROL Profile Merge Rules] (Video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
@@ -28,11 +28,11 @@ Welcome to the Audience Manager Tutorials Site.  Using these tutorials along wit
 
     *In this video you will see examples of [!UICONTROL Profile Merge Rules] and what they mean, as well as the use cases that [!UICONTROL Profile Merge Rules] solve for.*
 
-* **[Create and Configure [!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
+* **[Create and Configure People-based Destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
     *Learn how to set up a [!DNL People-Based Destination] in the Audience Manager UI*
 
-## Staff Picks
+## Staff picks
 
 <table>
 <tr>

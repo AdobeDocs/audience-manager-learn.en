@@ -1,5 +1,5 @@
 ---
-title: Using Profile Merge Rules to Personalize in an Authenticated State
+title: Use Profile Merge Rules to personalize in an authenticated state
 description: Give your logged-in customers a personalized experience by using these Profile Merge Rule settings.
 feature: Profile Merge
 topics: 
@@ -13,8 +13,8 @@ role: User
 level: Intermediate
 exl-id: 189b751f-b71a-4579-8e2d-fc0d24e7e148
 ---
-# Using [!UICONTROL Profile Merge Rules] to Personalize in an Authenticated State
+# Use [!UICONTROL Profile Merge Rules] to personalize in an authenticated state
 
-Give your logged-in customers a personalized experience by using these Profile Merge Rule settings.
+Give your logged-in customers a personalized experience by using these [!UICONTROL Profile Merge Rule] settings.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

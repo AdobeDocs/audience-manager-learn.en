@@ -1,6 +1,6 @@
 ---
-title: Using Data Export Labels to Control Data Flow
-description: Data Export Labels give you a mechanism in Audience Manager to control the flow of different data types/sources, so that you can meet your privacy requirements. Learn how and where to set Data Export Controls and Data Export Labels, to work in tandem to this end.
+title: Use Data Export Labels to control data flow
+description: Learn about Data Export Labels in Audience Manager. These give you a mechanism in Audience Manager to control the flow of different data types/sources, so that you can meet your privacy requirements. Learn how and where to set Data Export Controls and Data Export Labels, to work in tandem to this end.
 feature: Data Export Controls
 topics: 
 activity: setup
@@ -13,7 +13,7 @@ role: User
 level: Beginner
 exl-id: 28f250dc-1baf-4286-9129-cdddf6d55227
 ---
-# Using [!UICONTROL Data Export Labels] to Control Data Flow
+# Use [!UICONTROL Data Export Labels] to control data flow
 
 [!UICONTROL Data Export Labels] give you a mechanism in Audience Manager to control the flow of different data types/sources, so that you can meet your privacy requirements. Learn how and where to set [!UICONTROL Data Export Controls] and [!UICONTROL Data Export Labels], to work in tandem to this end.
 

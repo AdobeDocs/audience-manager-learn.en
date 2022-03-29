@@ -13,7 +13,7 @@ role: User
 level: Intermediate
 exl-id: b741bbb8-29ca-4d5b-8040-2f6884007151
 ---
-# Using [!UICONTROL Profile Merge Rules] for Device Extension and Increased Reach
+# Use [!UICONTROL Profile Merge Rules] for device extension and increased reach
 
 Use [!UICONTROL Profile Merge Rules] to extend reach to all of a user's devices, so that you can market to people instead of devices.
 

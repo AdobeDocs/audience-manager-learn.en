@@ -1,6 +1,6 @@
 ---
-title: Understanding Cross-Device Metrics in Audience Manager
-description: In this video we discuss the difference between device profiles and cross-device profiles, and show where the numbers in the UI match up with these different profile types.
+title: Understand cross-device metrics in Audience Manager
+description: Learn about the difference between device profiles and cross-device profiles, and where the numbers in the interface match up with these different profile types.
 feature: Profile Merge
 topics: 
 activity: use
@@ -13,8 +13,8 @@ role: Admin
 level: Intermediate
 exl-id: 1075c33c-e230-456d-9ec7-70d8ad65f44b
 ---
-# Understanding Cross-Device Metrics in Audience Manager
+# Understanding cross-device metrics in Audience Manager
 
-In this video we discuss the difference between device profiles and cross-device profiles, and show where the numbers in the UI match up with these different profile types.
+In this video, you learn about the difference between device profiles and cross-device profiles, and where the numbers in the interface match up with these different profile types.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)

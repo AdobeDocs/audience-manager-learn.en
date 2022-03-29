@@ -1,6 +1,6 @@
 ---
-title: Interpret Audience Identity Reporting
-description: Audience Identity Reporting provides customers with the ability to report on the total population of a trait or segment by person/household definitions of identity. Watch this video to see how it is manifested in the Audience Manager reports.
+title: Interpret Audience Identity reporting
+description: Audience Identity reporting provides customers with the ability to report on the total population of a trait or segment by person/household definitions of identity. Watch this video to see how it is manifested in the Audience Manager reports.
 feature: Profile Merge
 topics: 
 activity: use
@@ -13,8 +13,8 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 90183636-e205-420b-bbcf-899a779f53a7
 ---
-# Interpret [!DNL Audience Identity Reporting]
+# Interpret audience identity reporting
 
-[!DNL Audience Identity Reporting] provides customers with the ability to report on the total population of a [!UICONTROL trait] or [!UICONTROL segment] by person/household definitions of identity. Watch this video to see how it is manifested in the Audience Manager reports.
+Audience identity reporting provides customers with the ability to report on the total population of a trait or segment by person/household definitions of identity. Watch this video to see how it is manifested in the Audience Manager reports.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

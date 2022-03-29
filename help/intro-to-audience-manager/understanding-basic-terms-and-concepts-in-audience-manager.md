@@ -1,7 +1,7 @@
 ---
 title: Understanding Basic Terms and Concepts in Audience Manager
-description: In this video we will go over some of the basic terms and concepts that will get you started in Audience Manager, including signals, traits, segments, etc.
-landing-page-description: Learn basic terms and concepts that will get you started in Audience Manager, including signals, traits, segments, and more.
+description: Learn basic terms and concepts to get started in Adobe Audience Manager – including signals, traits, segments, and more, with this support video.
+landing-page-description: Learn basic terms and concepts to get started in Adobe Audience Manager – including signals, traits, segments, and more, with this support video.
 feature: Overview
 topics: 
 activity: understand
