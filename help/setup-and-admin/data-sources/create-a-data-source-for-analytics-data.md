@@ -2,6 +2,7 @@
 title: Create a Data Source for Analytics Data
 description: Learn how to create a Data Source for data coming in live from an analytics solution like Adobe Analytics. Do this prior to creating traits for the analytics data.
 landing-page-description: Learn how to create a Data Source for data coming in live from an analytics solution like Adobe Analytics. Do this prior to creating traits for the analytics data.
+short-description: Learn how to create a Data Source for data coming in live from an analytics solution like Adobe Analytics. Do this prior to creating traits for the analytics data.
 feature: Data Sources
 doc-type: feature video
 kt: 2928

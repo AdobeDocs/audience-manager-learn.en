@@ -2,6 +2,7 @@
 title: Introduction to Identity in Audience Manager
 description: Discover how Audience Manager manages identity – including internal profiles and profile merging, plus ID syncing with partners.
 landing-page-description: Discover how Audience Manager manages identity – including internal profiles and profile merging, plus ID syncing with partners.
+short-description: Discover how Audience Manager manages identity – including internal profiles and profile merging, plus ID syncing with partners.
 feature: ID Syncs
 topics: 
 activity: understand
