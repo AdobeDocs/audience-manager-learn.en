@@ -48,42 +48,42 @@ Welcome to the Audience Manager tutorials site. Using these tutorials along with
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile iOS Swift Applications' tutorial" src="assets/thumb_swift.png" />
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <img alt="thumbnail image for the 'Implement Adobe Experience Cloud with Web SDK tutorial' tutorial" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>Implementing the Experience Cloud in Mobile iOS Apps</strong>
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <strong>Implement Adobe Experience Cloud with Web SDK tutorial</strong>
     </a>
     </div>
     <p>
-    <em>Perfect starting point for mobile app developers who want to learn how to implement the Adobe Experience Cloud solutions in their iOS Swift apps</em>
+    <em>Learn how to implement Experience Cloud applications using Adobe Experience Platform Web SDK.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile Android Applications' tutorial" src="assets/thumb_android.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <img alt="thumbnail image for the 'Understanding Segments in Real-time CDP' tutorial" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>Implementing the Experience Cloud in Mobile [!DNL Android] Apps</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <strong>Understanding Segments in Real-time CDP for Audience Manager Users</strong>
     </a>
     </div>
     <p>
-    <em>Perfect starting point for mobile app developers who want to learn how to implement the Adobe Experience Cloud solutions in their Android apps</em>
+    <em>This video looks at the differences in segments and segment creation between Audience Manager and Real-time CDP.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="thumbnail image for the 'Implementing the Experience Cloud in Mobile Objective-C Applications' tutorial" src="assets/thumb_objective_c.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <img alt="thumbnail image for the 'Configure and report on Predictive Audiences in Audience Manager' tutorial" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Implementing the Experience Cloud in Mobile Objective-C Apps</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <strong>Configure and report on Predictive Audiences in Audience Manager</strong>
     </a>
     </div>
     <p>
-    <em>Perfect starting point for mobile app developers who want to learn how to implement the Adobe Experience Cloud solutions in their Objective-C apps</em>
+    <em>In this video, we will walk through Predictive Audiences configuration in the Audience Manager interface.</em>
     <p>
   </td>
 </tr>
