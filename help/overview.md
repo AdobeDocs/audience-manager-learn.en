@@ -18,6 +18,7 @@ Welcome to the Audience Manager tutorials site. Using these tutorials along with
 * Explore the content by topic and subtopic in the **left navigation**
 * Use the **search** field at the top of the page if you know what you are looking for
 
+<div id="whats-new-section">
 ## What's new
 
 * **[Overview of [!UICONTROL Profile Merge Rules] (Video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
@@ -31,6 +32,16 @@ Welcome to the Audience Manager tutorials site. Using these tutorials along with
 * **[Create and Configure People-based Destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
     *Learn how to set up a [!DNL People-Based Destination] in the Audience Manager UI*
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Staff picks
 
@@ -77,3 +88,4 @@ Welcome to the Audience Manager tutorials site. Using these tutorials along with
   </td>
 </tr>
 </table>
+</div>
