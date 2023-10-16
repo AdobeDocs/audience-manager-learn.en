@@ -1,7 +1,7 @@
 ---
 title: Understanding Signals in Real-time CDP for Audience Manager Users
 description: This video is meant for Audience Manager users who are moving to Real-time Customer Data Platform (Real-time CDP), and discusses how signals (key-value pairs) that you use in Audience Manager to build traits are used in Platform.
-feature: Platform Integration
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate

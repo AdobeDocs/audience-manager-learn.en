@@ -1,7 +1,7 @@
 ---
 title: Understanding Access Control in Real-time CDP for Audience Manager Users
 description: When moving from Audience Manager to Real-time Customer Data Platform, you will want to know where user and group permissions are set. This video shows how access control will now be in the Adobe Admin Console.
-feature: Platform Integration
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
