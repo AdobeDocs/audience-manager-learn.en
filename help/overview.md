@@ -14,25 +14,12 @@ exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
 
 Welcome to the Audience Manager tutorials site. Using these tutorials along with the [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) will give you a better understanding how to use Adobe Audience Manager to create and activate audiences on any channel or device using Adobe's best-in-class [!DNL data management platform].
 
+* See the **"What's New"** section below for the latest updates and features
 * **Staff Picks** highlights some of our favorite content
 * Explore the content by topic and subtopic in the **left navigation**
 * Use the **search** field at the top of the page if you know what you are looking for
 
-<div id="whats-new-section">
-## What's new
 
-* **[Overview of [!UICONTROL Profile Merge Rules] (Video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
-
-    *Understand what [!UICONTROL Profile Merge Rules] are, how they work, and their value to the Marketer.*
-
-* **[[!UICONTROL Profile Merge Rule] Examples and Use Cases](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
-
-    *In this video you will see examples of [!UICONTROL Profile Merge Rules] and what they mean, as well as the use cases that [!UICONTROL Profile Merge Rules] solve for.*
-
-* **[Create and Configure People-based Destinations](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
-
-    *Learn how to set up a [!DNL People-Based Destination] in the Audience Manager UI*
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
