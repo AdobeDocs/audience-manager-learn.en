@@ -32,7 +32,7 @@ type: Tutorial
     + [Set permissions with role-based access control](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
   + Data governance and privacy {#data-governance-and-privacy}
     + [Global device ID validation](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-    + [IAB TCF 2.0 support](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+    + [IAB TCF 2.2 support](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
     + [IP obfuscation by country](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
   + Usage and billing {#usage-and-billing}
     + [Monitor and report on activity usage](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
