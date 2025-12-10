@@ -9,7 +9,7 @@ team: Technical Marketing
 thumbnail: 25894.jpg
 kt: 3072
 topic: Integrations
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 92041f1c-6a05-4705-a56d-df5e9dbddac0
 ---

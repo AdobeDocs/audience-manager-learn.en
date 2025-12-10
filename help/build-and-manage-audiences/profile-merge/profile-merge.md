@@ -7,7 +7,7 @@ activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
 ---

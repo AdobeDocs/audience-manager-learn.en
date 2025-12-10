@@ -4,7 +4,7 @@ description: Learn about the Audience Manager Plug-in to IAB TCF and how it work
 feature: Data Governance & Privacy
 thumbnail: 26434.jpg
 kt: 5027
-role: Developer, Data Engineer, Architect
+role: Developer
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
 ---

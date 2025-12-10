@@ -10,7 +10,7 @@ kt: 5106
 thumbnail: 33894.jpg
 
 topic: Architecture
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: cf0dbcb1-0d3c-4afd-b979-1c59a9849720
 ---

@@ -9,7 +9,7 @@ team: Technical Marketing
 thumbnail: 29076.jpg
 kt: 3342
 
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 513af3d9-583a-4619-867e-f0ac847ca9b5
 ---
