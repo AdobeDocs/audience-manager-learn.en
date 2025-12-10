@@ -1,8 +1,6 @@
 ---
 title: Audience identity reporting
 description: Learn about audience identity reporting. This type of reporting in Audience Manager enables you to report on the total population of a trait or segment by person or household definitions of identity.
-feature: profile merge
-topics:
 audience: marketer
 activity: use
 doc-type: feature video
