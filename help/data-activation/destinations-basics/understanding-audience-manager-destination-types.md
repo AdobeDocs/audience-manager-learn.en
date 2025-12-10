@@ -5,7 +5,7 @@ feature: Destination Basics
 doc-type: presentation
 thumbnail: 29839.jpg
 kt: 4016
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
 ---

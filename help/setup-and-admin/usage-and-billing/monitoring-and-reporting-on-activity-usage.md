@@ -8,7 +8,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: 4168
 topic: Administration
-role: Developer, Data Engineer, Admin
+role: Developer, Admin
 level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
 ---

@@ -7,7 +7,7 @@ activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
-role: Developer, Data Engineer, Architect
+role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
 ---

@@ -8,7 +8,7 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 1bb40810-dca9-475f-a312-6e2c1be8149c
 ---
