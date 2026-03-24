@@ -3,9 +3,11 @@ cloud: Experience Cloud
 product: audience manager
 type: Tutorial
 feature-set: Audience Manager
+landing-page-name: audience-manager
+landing-page-breadcrumb-title: Audience Manager
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/audience-manager-learn.en
-index: yes
+index: true
 ---
 
 # Metadata for internal use
