@@ -3,7 +3,7 @@ title: Migrate from tracking server to report-suite-level server-side forwarding
 description: Learn how to enable server-side forwarding of Adobe Analytics Data to Audience Manager at a report-suite-level instead of at a tracking server level.
 product: audience manager
 feature: Adobe Analytics Integration
-topics: 
+topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -11,6 +11,24 @@ kt: 1776
 role: Developer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
+TQID: https://experienceleague.adobe.com/-fWEu9LWHY-PtIZ-7Phf-ZOHPCD-A67mwb9i3kA7nec
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
 ---
 # Migrate from tracking server to report-suite-level server-side forwarding {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 

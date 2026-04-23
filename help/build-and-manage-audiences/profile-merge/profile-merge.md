@@ -2,14 +2,33 @@
 title: Profile Merge videos and tutorials
 description: View the videos and tutorials for Profile Merge features, including Profile Merge Rules. Get control over the data sets used for segmentation and accurately target a person across multiple devices.
 feature: Profile Merge
-topics: 
+topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
-kt: 
+kt: null
 role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
+TQID: https://experienceleague.adobe.com/XdSVgBcjxOyyh2sJ9m-1fP-Qx79jj2fvKMrCErtjfOA
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # [!UICONTROL Profile Merge] - videos and tutorials
 

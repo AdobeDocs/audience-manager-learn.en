@@ -3,7 +3,7 @@ title: Migrate your site's Audience Manager implementation from client-side DIL 
 description: Learn how to migrate your site's Audience Manager (AAM) implementation from client-side DIL to server-side forwarding. This tutorial applies if you have both AAM and Adobe Analytics, and you send hits from the page to AAM using DIL (Data Integration Library) code, and you also send hits from the page to Adobe Analytics.
 product: audience manager
 feature: Adobe Analytics Integration
-topics: 
+topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
@@ -11,6 +11,35 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
+TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+subfeature_v2:
+  - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+    internal-label: DIL implementation
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Migrate your site's Audience Manager implementation from client-side DIL to server-side forwarding {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
