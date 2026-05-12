@@ -1,8 +1,8 @@
 ---
 title: Exclude traits in Algorithmic (Look-Alike) Models
-description: Learn how and why to exclude specific (or groups of) traits from an Algorithmic (Look-Alike) Model. 
+description: Learn how and why to exclude specific (or groups of) traits from an Algorithmic (Look-Alike) Model.
 feature: Algorithmic Models
-topics: 
+topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,6 +11,22 @@ kt: 1759
 role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 94becb1c-18c3-4fe1-bf24-acae127682da
+TQID: https://experienceleague.adobe.com/IPgO159mZWL7orbyS-hBkaVcNO-gqJZXPZmhiynzjRg
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Exclude traits in Algorithmic (Look-Alike) Models {#excluding-traits-in-algorithmic-look-alike-models}
 

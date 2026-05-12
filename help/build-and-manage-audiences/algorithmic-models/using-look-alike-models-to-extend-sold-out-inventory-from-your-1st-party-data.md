@@ -2,7 +2,7 @@
 title: Use look-alike models to extend sold out inventory from first-party data
 description: In this tutorial, we walk through the steps you should take to set up and use look-alike models, so that you can create new look-alike audiences, and sell them as an extension to your conversion segment.
 feature: Algorithmic Models
-topics: 
+topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,6 +11,22 @@ kt: 1688
 role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
+TQID: https://experienceleague.adobe.com/xFz82Q0MZ-ZyErTuOZPm66xUSe3uLbAGJ3xMiUBun8A
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Use look-alike models to extend sold out inventory from first-party data {#using-look-alike-models-to-extend-sold-out-inventory-from-your-st-party-data}
 
