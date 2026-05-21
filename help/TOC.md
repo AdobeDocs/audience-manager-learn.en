@@ -5,7 +5,8 @@ breadcrumb-title: Audience Manager Tutorials
 solution: Audience Manager
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
-    label: "Audience Manager"
+    internal-label: "Audience Manager"
+usetq: true
 type: Tutorial
 ---
 
