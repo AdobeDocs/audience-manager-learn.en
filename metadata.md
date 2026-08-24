@@ -1,6 +1,11 @@
 ---
 cloud: Experience Cloud
 product: audience manager
+solution: Audience Manager
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: "Audience Manager"
+usetq: true
 type: Tutorial
 feature-set: Audience Manager
 landing-page-name: audience-manager
