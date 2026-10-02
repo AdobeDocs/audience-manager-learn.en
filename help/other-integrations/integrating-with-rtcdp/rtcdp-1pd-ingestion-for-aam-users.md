@@ -9,10 +9,16 @@ doc-type: feature video
 thumbnail: 331276.jpg
 kt: 7128
 exl-id: bdd8d9b2-92f9-4aa0-a0b7-5e3fb63196eb
-TQID: https://experienceleague.adobe.com/NSB1u7OJR1cXrSaUK5yJncAmBf84w-9PskMzcxSls1Y
+TQID: 'https://experienceleague.adobe.com/NSB1u7OJR1cXrSaUK5yJncAmBf84w-9PskMzcxSls1Y'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
+feature_v2:
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
+subfeature_v2:
+  - id: b1393389-a768-49db-9323-b2ef9e441796
+    internal-label: Experience Platform integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

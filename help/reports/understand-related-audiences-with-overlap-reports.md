@@ -2,7 +2,7 @@
 title: Understand Related Audiences with Overlap Reports
 description: Overlap reports allow you to see how trait and segment audiences overlap with each other (same visitor in multiple traits or segments), so that you know where you can act with your data to increase conversion or focus on expanding reach.
 feature: Overlap Reports
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +11,16 @@ kt: 6839
 role: User
 level: Intermediate
 exl-id: e6d90964-9315-4aa5-8d68-d5ffa4d9e09c
-TQID: https://experienceleague.adobe.com/1P-lm7xlpylG3heDd7TmOmW1tV1bVbmKNT1NpmCnovU
+TQID: 'https://experienceleague.adobe.com/1P-lm7xlpylG3heDd7TmOmW1tV1bVbmKNT1NpmCnovU'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
+feature_v2:
+  - id: a99472c1-6aae-4c7a-8aa0-f60636369620
+    internal-label: Reporting
+subfeature_v2:
+  - id: a49258d4-867f-4130-b875-d72c001bdf6c
+    internal-label: Overlap Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

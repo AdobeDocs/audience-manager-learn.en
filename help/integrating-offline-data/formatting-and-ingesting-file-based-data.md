@@ -2,7 +2,7 @@
 title: Format and ingest file-based data
 description: Learn some of the main options where to get more information when bringing your 1st-party into Audience Manager to better understand and target your customer. Find out about certain formatting requirements for the data.
 feature: Onboarding Offline Data
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,13 +11,16 @@ kt: 7026
 role: User
 level: Beginner
 exl-id: a9515255-8e3e-4fb8-b467-be68a56c412b
-TQID: https://experienceleague.adobe.com/4x95q4-kgq3qDmV8ADerUcis65014I-vSA-GF7KI-0c
+TQID: 'https://experienceleague.adobe.com/4x95q4-kgq3qDmV8ADerUcis65014I-vSA-GF7KI-0c'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
     internal-label: Implementation
+subfeature_v2:
+  - id: 81ea4607-deb9-5aa9-822c-9d779f9a7c7e
+    internal-label: Onboarding Offline Data
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

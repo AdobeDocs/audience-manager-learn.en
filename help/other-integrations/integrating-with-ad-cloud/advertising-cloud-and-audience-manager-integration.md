@@ -2,7 +2,7 @@
 title: Adobe Advertising and Adobe Audience Manager Integration
 description: Learn how the integration between Adobe Audience Manager and Adobe Advertising works. Also get answers about match rates and third party cookie-synching.
 feature: Advertising Integration
-topics: null
+topics: 
 activity: understand
 doc-type: technical video
 team: Technical Marketing
@@ -12,10 +12,16 @@ topic: Integrations
 role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 92041f1c-6a05-4705-a56d-df5e9dbddac0
-TQID: https://experienceleague.adobe.com/RiXN0iHzP7TIbmpkmP8IL2a35XMittuomXYV-87vgX4
+TQID: 'https://experienceleague.adobe.com/RiXN0iHzP7TIbmpkmP8IL2a35XMittuomXYV-87vgX4'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
+feature_v2:
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
+subfeature_v2:
+  - id: d621dfe5-0bfc-4fd1-92d9-babd36130c2a
+    internal-label: Advertising integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
