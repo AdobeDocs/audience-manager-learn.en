@@ -2,7 +2,7 @@
 title: Use General Reports with traits and segments
 description: In this video, see how to use the General Reports in Audience Manager to get numbers for traits and segments.
 feature: General & Trend Reports
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,13 +11,18 @@ kt: 6645
 role: User
 level: Beginner
 exl-id: 163ddd7b-e677-440c-92ca-53ac78e09f5a
-TQID: https://experienceleague.adobe.com/fsjOBvGxqVeAgaSzbQ1WpJIHoJb32GjPMq28RmshbVQ
+TQID: 'https://experienceleague.adobe.com/fsjOBvGxqVeAgaSzbQ1WpJIHoJb32GjPMq28RmshbVQ'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
     internal-label: Destinations
+  - id: a99472c1-6aae-4c7a-8aa0-f60636369620
+    internal-label: Reporting
+subfeature_v2:
+  - id: c3072557-4f3f-45b7-af4d-083bca98c34f
+    internal-label: General and trend reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

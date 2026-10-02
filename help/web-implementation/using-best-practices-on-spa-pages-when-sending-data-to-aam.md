@@ -11,7 +11,7 @@ topic: SPA
 role: Developer
 level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
-TQID: https://experienceleague.adobe.com/ohlywv3vjuOMj2nD6Kv1OlcG-hcumfj-qzRCcdup9Ew
+TQID: 'https://experienceleague.adobe.com/ohlywv3vjuOMj2nD6Kv1OlcG-hcumfj-qzRCcdup9Ew'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
@@ -24,6 +24,9 @@ subfeature_v2:
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation

@@ -2,7 +2,7 @@
 title: Create a cross-device data source for authentication
 description: Learn how to a create cross-device data source for authentication. See how to bring your 1st-party CRM data into Audience Manager to better target your customers, and set up the setCustomerIDs() method in Platform tags for logins.
 feature: Data Sources
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +11,16 @@ kt: 7025
 role: User
 level: Intermediate
 exl-id: 467d0793-c08c-4165-9d4a-db9617db6e92
-TQID: https://experienceleague.adobe.com/F9cDe9frICLshsFGYW2MpDmsUCKTPh3AqM2UkqKgTjA
+TQID: 'https://experienceleague.adobe.com/F9cDe9frICLshsFGYW2MpDmsUCKTPh3AqM2UkqKgTjA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
+feature_v2:
+  - id: d8f86c1e-15ad-457f-9d6f-5e756573fad4
+    internal-label: Audience Marketplace
+subfeature_v2:
+  - id: d921db59-bd4a-43dc-97e6-4ff4611f1ae8
+    internal-label: Data sources
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

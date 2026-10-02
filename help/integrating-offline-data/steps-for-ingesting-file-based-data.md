@@ -2,7 +2,7 @@
 title: How to ingest file-based data
 description: In this video, you learn the steps to take as you onboard offline data into Audience Manager, including the file name requirements for the data file.
 feature: Onboarding Offline Data
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,7 +11,7 @@ kt: 7027
 role: User
 level: Beginner
 exl-id: 31f882ea-8547-46ad-acf5-3b872dcd9bd2
-TQID: https://experienceleague.adobe.com/yiqGcGzZAVASA56ZyUiOuPN5D6gsCrFeLHAYpGYO-jI
+TQID: 'https://experienceleague.adobe.com/yiqGcGzZAVASA56ZyUiOuPN5D6gsCrFeLHAYpGYO-jI'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
@@ -25,6 +25,8 @@ feature_v2:
 subfeature_v2:
   - id: a49258d4-867f-4130-b875-d72c001bdf6c
     internal-label: Overlap Reports
+  - id: 81ea4607-deb9-5aa9-822c-9d779f9a7c7e
+    internal-label: Onboarding Offline Data
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

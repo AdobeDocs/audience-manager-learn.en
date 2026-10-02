@@ -2,7 +2,7 @@
 title: Configure Profile Merge Rules for People-based Destinations
 description: In this video, learn about how to set up a Profile Merge Rule to be used for People-based Destinations, including when to use a brand new cross-device option.
 feature: People-based Destinations
-topics: null
+topics: 
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,13 +11,16 @@ kt: 3342
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 513af3d9-583a-4619-867e-f0ac847ca9b5
-TQID: https://experienceleague.adobe.com/UEUbIXgiTBqO-vBneVodu6ee91ZF7g897a3QceJjnsw
+TQID: 'https://experienceleague.adobe.com/UEUbIXgiTBqO-vBneVodu6ee91ZF7g897a3QceJjnsw'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
     internal-label: Destinations
+subfeature_v2:
+  - id: d7221605-094b-45a5-891f-f37bd58c0055
+    internal-label: People based Destinations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

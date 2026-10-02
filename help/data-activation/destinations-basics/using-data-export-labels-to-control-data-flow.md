@@ -2,7 +2,7 @@
 title: Use Data Export Labels to control data flow
 description: Learn about Data Export Labels in Audience Manager. These give you a mechanism in Audience Manager to control the flow of different data types/sources, so that you can meet your privacy requirements. Learn how and where to set Data Export Controls and Data Export Labels, to work in tandem to this end.
 feature: Data Export Controls
-topics: null
+topics: 
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,13 +11,18 @@ kt: 6836
 role: User
 level: Beginner
 exl-id: 28f250dc-1baf-4286-9129-cdddf6d55227
-TQID: https://experienceleague.adobe.com/SgtM7zJUnuBRuLREZwbSKkF3Ykbe0X7oJBlyQWFxcbs
+TQID: 'https://experienceleague.adobe.com/SgtM7zJUnuBRuLREZwbSKkF3Ykbe0X7oJBlyQWFxcbs'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
     internal-label: Destinations
+  - id: d8f86c1e-15ad-457f-9d6f-5e756573fad4
+    internal-label: Audience Marketplace
+subfeature_v2:
+  - id: cefdb449-7764-4855-a54f-3901d8be873d
+    internal-label: Data Export Controls
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

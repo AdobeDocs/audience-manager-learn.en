@@ -2,7 +2,7 @@
 title: Understanding Hashed PII Data Ingestion for People-based Destinations
 description: This video will touch on the things you need to consider as you get ready to ingest PII into Audience Manager for People-based Destinations.
 feature: People-based Destinations
-topics: null
+topics: 
 activity: understand
 doc-type: feature video
 team: Technical Marketing
@@ -11,13 +11,16 @@ kt: 3701
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 8b0faf25-eeca-4451-8484-0fa0e02f4879
-TQID: https://experienceleague.adobe.com/x3hg15fMze4DOq-QkQqBMo2vl3-rVUWkefFsJ2hSSZE
+TQID: 'https://experienceleague.adobe.com/x3hg15fMze4DOq-QkQqBMo2vl3-rVUWkefFsJ2hSSZE'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
     internal-label: Destinations
+subfeature_v2:
+  - id: d7221605-094b-45a5-891f-f37bd58c0055
+    internal-label: People based Destinations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

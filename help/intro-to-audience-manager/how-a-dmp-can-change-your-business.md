@@ -2,7 +2,7 @@
 title: How a DMP can change your business
 description: Data Management Platforms are the talk of the tech world right now, but what are they and more importantly, how can they help you as marketers realize your goals? During this session we will explain what a DMP is and showcase some real world case studies where customers have seen amazing returns on their investment, from more efficient media buys to significantly increased conversions.
 feature: Overview
-topics: null
+topics: 
 activity: understand
 doc-type: presentation
 team: Technical Marketing
@@ -10,10 +10,16 @@ kt: 4025
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 7645804c-b0ff-4741-833f-7a3d7f2bb950
-TQID: https://experienceleague.adobe.com/l5a0QpxtEH-GECAzfkK7uD2E2wmgQvQtRDavsxSiClo
+TQID: 'https://experienceleague.adobe.com/l5a0QpxtEH-GECAzfkK7uD2E2wmgQvQtRDavsxSiClo'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
+feature_v2:
+  - id: ce14ba14-a06d-4b2b-b7dd-04cb862494ec
+    internal-label: Administration
+subfeature_v2:
+  - id: fa77d762-7e75-47b2-9bb4-e3fcf50d251d
+    internal-label: Overview
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

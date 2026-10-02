@@ -7,16 +7,24 @@ kt: 5027
 role: Developer
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-TQID: https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA
+TQID: 'https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
     internal-label: Implementation
+  - id: b89b323a-1e91-40b1-8d20-96b5b726d55a
+    internal-label: Audience management
+subfeature_v2:
+  - id: a1d8adf7-4300-4ca2-870f-1612c6774544
+    internal-label: Data governance and privacy
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation

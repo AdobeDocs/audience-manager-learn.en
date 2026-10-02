@@ -2,7 +2,7 @@
 title: Create and configure People-based Destinations
 description: Learn about the prerequisites to creating your People-based destination, and also how to configure an integrated account (link to the partner, such as Facebook). Learn the in-product setup of the destination itself.
 feature: People-based Destinations
-topics: null
+topics: 
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,13 +11,16 @@ kt: 3343
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 08a1c74a-fd7f-46ab-b4c5-a2a05adfe7c1
-TQID: https://experienceleague.adobe.com/z8eTyurVHia0a5CZW-p8AqlqmNmaqLT824w1AquT4nA
+TQID: 'https://experienceleague.adobe.com/z8eTyurVHia0a5CZW-p8AqlqmNmaqLT824w1AquT4nA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
     internal-label: Destinations
+subfeature_v2:
+  - id: d7221605-094b-45a5-891f-f37bd58c0055
+    internal-label: People based Destinations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

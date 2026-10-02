@@ -2,7 +2,7 @@
 title: Audience Manager Use Cases
 description: In this video we identify four common Audience Manager use cases, and describe the best practices associated with them.
 feature: Overview
-topics: null
+topics: 
 activity: understand
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +11,16 @@ thumbnail: 33975.jpg
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: b0ed3450-0a0b-4bc3-b579-b57bfea116d7
-TQID: https://experienceleague.adobe.com/wfsbVSNiAsJDLNOdCOBQt4UIVhUzGIgz0yzUNSbDCLU
+TQID: 'https://experienceleague.adobe.com/wfsbVSNiAsJDLNOdCOBQt4UIVhUzGIgz0yzUNSbDCLU'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
+feature_v2:
+  - id: ce14ba14-a06d-4b2b-b7dd-04cb862494ec
+    internal-label: Administration
+subfeature_v2:
+  - id: fa77d762-7e75-47b2-9bb4-e3fcf50d251d
+    internal-label: Overview
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

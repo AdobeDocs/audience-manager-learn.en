@@ -2,7 +2,7 @@
 title: Using Audience Optimization Reports to Understand Media Performance
 description: Learn how to use the Audience Optimization Reports to improve your campaigns, understanding where to invest your marketing dollars and where to stop investing. Also learn how to determine optimal frequency capping and find other gems in these reports.
 feature: Audience Optimization Reports
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +11,16 @@ kt: 6838
 role: User
 level: Intermediate
 exl-id: 620d4ef6-05ec-4d96-842e-919c6ec402d9
-TQID: https://experienceleague.adobe.com/tOi4mbzTasVT0HdWTrpeI7YtebC3ksZytra96kDtpJQ
+TQID: 'https://experienceleague.adobe.com/tOi4mbzTasVT0HdWTrpeI7YtebC3ksZytra96kDtpJQ'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
+feature_v2:
+  - id: a99472c1-6aae-4c7a-8aa0-f60636369620
+    internal-label: Reporting
+subfeature_v2:
+  - id: ff9c2088-e1d9-47aa-85e4-6765b719f5c7
+    internal-label: Audience Optimization Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

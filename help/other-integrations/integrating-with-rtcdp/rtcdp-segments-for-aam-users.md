@@ -9,13 +9,18 @@ doc-type: feature video
 thumbnail: 331901.jpg
 kt: 7205
 exl-id: a3255af9-372e-4c2e-b3e6-3b71b3616bfa
-TQID: https://experienceleague.adobe.com/lXpPO20ZPQ-Lmy-u9qhL00le11KfZv2eojRoc91TBVs
+TQID: 'https://experienceleague.adobe.com/lXpPO20ZPQ-Lmy-u9qhL00le11KfZv2eojRoc91TBVs'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
     internal-label: Destinations
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
+subfeature_v2:
+  - id: b1393389-a768-49db-9323-b2ef9e441796
+    internal-label: Experience Platform integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

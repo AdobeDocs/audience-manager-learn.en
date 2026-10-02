@@ -8,13 +8,18 @@ kt: 1552
 role: User, Admin, Leader
 level: Intermediate
 exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
-TQID: https://experienceleague.adobe.com/yfYCzDwakWNv6B2hMvCZ2yguH96vi-Nn3kQ94OrL1j0
+TQID: 'https://experienceleague.adobe.com/yfYCzDwakWNv6B2hMvCZ2yguH96vi-Nn3kQ94OrL1j0'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
     internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
     internal-label: Destinations
+  - id: b89b323a-1e91-40b1-8d20-96b5b726d55a
+    internal-label: Audience management
+subfeature_v2:
+  - id: e8501b6e-f5e0-495d-8a3d-6aa9293cdcc5
+    internal-label: Audience Lab
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
